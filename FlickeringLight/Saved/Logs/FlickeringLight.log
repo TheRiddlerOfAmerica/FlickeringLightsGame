@@ -4530,3 +4530,37 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.10.11-18.36.59:725][889]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.11-18.36.59:725][889]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.11-18.36.59:725][889]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.11-18.41.39:049][136]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8509.342773
+[2026.10.11-18.41.40:048][139]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.11-18.41.40:049][139]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8510.008789, Update Interval: 346.374695
+[2026.10.11-18.42.41:923][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.11-18.42.41:993][906]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.11-18.42.41:993][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.11-18.42.41:993][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.11-18.42.42:106][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2026.10.11-18.42.42:126][906]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.11-18.42.42:126][906]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor18611B3A8416D03A95E039DBE5FFD3C2E.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.11-18.42.42:166][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 241.437 ms (total: 6.54 sec)
+[2026.10.11-18.42.42:224][906]LogContentValidation: Enabled validators:
+[2026.10.11-18.42.42:225][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.11-18.42.42:225][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.11-18.42.42:225][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.11-18.42.42:225][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.11-18.42.42:225][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.11-18.42.42:225][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.11-18.42.42:225][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.11-18.42.42:225][906]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.11-18.42.42:225][906]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.11-18.42.42:225][906]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.11-18.42.42:225][906]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.11-18.42.42:225][906]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.11-18.42.42:225][906]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.11-18.42.42:225][906]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.11-18.42.42:225][906]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.11-18.42.42:225][906]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.11-18.42.42:225][906]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.11-18.42.42:225][906]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.11-18.42.42:225][906]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.11-18.42.42:225][906]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.11-18.42.42:225][906]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.11-18.42.42:225][906]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
