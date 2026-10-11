@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/water.uasset",
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/RiddlersTestCorner/TestMap.umap",
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/water1.uasset",
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/metal.uasset",
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/metalwalls.uasset",
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/NewMap.umap",
 				"C:/Users/Curtis/Documents/Unreal Projects/FlickeringLight/Content/RiddlersTestCorner/TestMap.umap"
 			]
 		}
