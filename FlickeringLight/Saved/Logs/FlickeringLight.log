@@ -3020,3 +3020,18 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.10.11-17.32.10:467][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4340.716797
 [2026.10.11-17.32.11:468][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.11-17.32.11:469][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4341.384277, Update Interval: 307.795044
+[2026.10.11-17.37.01:672][378]Cmd: MAP LOAD FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.11-17.37.01:747][378]LogWorld: UWorld::CleanupWorld for floor2, bSessionEnded=true, bCleanupResources=true
+[2026.10.11-17.37.01:747][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.11-17.37.01:781][378]LogAudio: Display: Audio Device unregistered from world 'floor2'.
+[2026.10.11-17.37.01:783][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.10.11-17.37.01:786][378]LogStreaming: Display: FlushAsyncLoading(408): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.11-17.37.01:790][378]LogAudio: Display: Audio Device (ID: 1) registered with world 'floor2'.
+[2026.10.11-17.37.01:790][378]LogChaosDD: Creating Chaos Debug Draw Scene for world floor2
+[2026.10.11-17.37.01:804][378]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.11-17.37.01:853][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.10.11-17.37.01:870][378]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.11-17.37.01:871][378]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2026.10.11-17.37.01:895][378]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
