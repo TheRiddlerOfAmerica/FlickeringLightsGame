@@ -2867,3 +2867,156 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.10.11-17.14.48:202][392]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
 		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
 		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.11-17.19.44:950][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3595.176514
+[2026.10.11-17.19.45:948][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.11-17.19.45:948][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3595.840576, Update Interval: 306.383240
+[2026.10.11-17.21.57:453][939]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.132 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16840 files in 16864 folders with total size 331 MiB.
+[2026.10.11-17.23.25:175][471]LogInterchangeEngine: [Pending] Importing
+[2026.10.11-17.23.25:264][471]LogStaticMesh: Adjacency [0.01s], tris: 34693, UVs 1
+[2026.10.11-17.23.25:303][471]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.048 s
+[2026.10.11-17.23.25:312][471]LogStats:                SubmitErrorReport -  0.000 s
+[2026.10.11-17.23.25:373][471]LogStaticMesh: Clustering [0.11s]. Ratio: 1.011029
+[2026.10.11-17.23.25:379][471]LogStaticMesh: Leaves [0.01s]
+[2026.10.11-17.23.27:396][471]LogStats:                    SendNewReport -  2.085 s
+[2026.10.11-17.23.27:396][471]LogStats:             FDebug::EnsureFailed -  2.141 s
+[2026.10.11-17.23.27:699][471]LogStaticMesh: Reduce [2.32s]
+[2026.10.11-17.23.27:951][471]LogStaticMesh: Fallback [0.25s], num tris: 4084
+[2026.10.11-17.23.28:056][471]LogStaticMesh: Fallback [0.11s], num tris: 1787
+[2026.10.11-17.23.28:075][471]LogStaticMesh: ConstrainClusters:
+[2026.10.11-17.23.28:075][471]LogStaticMesh:   Input: 566 Clusters, 71345 Triangles and 63544 Vertices
+[2026.10.11-17.23.28:075][471]LogStaticMesh:   Output without splits: 566 Clusters, 71345 Triangles and 64549 Vertices
+[2026.10.11-17.23.28:075][471]LogStaticMesh:   Output with splits: 566 Clusters, 71345 Triangles and 64549 Vertices
+[2026.10.11-17.23.28:077][471]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 566, Slow Path Clusters: 0, 1 Material: 566, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.10.11-17.23.28:088][471]LogStaticMesh: WritePages: 7
+[2026.10.11-17.23.28:088][471]LogStaticMesh:   Root: GPU size: 32752 bytes. 1 Pages. 32752.000 bytes per page (99.951% utilization).
+[2026.10.11-17.23.28:088][471]LogStaticMesh:   Streaming: GPU size: 733972 bytes. 6 Pages (6 with relative encoding). 122328.664 bytes per page (93.329% utilization).
+[2026.10.11-17.23.28:088][471]LogStaticMesh:   Page data disk size: 592220 bytes. Fixup data size: 2174 bytes.
+[2026.10.11-17.23.28:088][471]LogStaticMesh:   Total GPU size: 766724 bytes, Total disk size: 594394 bytes.
+[2026.10.11-17.23.28:088][471]LogStaticMesh: Encode [0.03s]
+[2026.10.11-17.23.28:088][471]LogStaticMesh: NaniteBuild [2.83s]
+[2026.10.11-17.23.28:259][471]LogStaticMesh: Built static mesh [3.22s] /Game/Pickupable_Items/Julie.Julie
+[2026.10.11-17.23.28:606][471]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.10.11-17.23.28:606][471]LogInterchangeEngine: [Success] Import Done
+[2026.10.11-17.23.28:689][471]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' with subface index 0 in Game thread.
+[2026.10.11-17.23.28:689][471]LogSlate: Display: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K) on Game thread.
+[2026.10.11-17.23.28:689][471]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface 0 in Game thread.
+[2026.10.11-17.23.28:689][471]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.11-17.23.28:761][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.11-17.23.28:883][472]LogFileHelpers: Saving Package: /Game/Pickupable_Items/Julie
+[2026.10.11-17.23.28:884][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pickupable_Items/Julie] ([1] browsable assets)...
+[2026.10.11-17.23.29:362][472]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Pickupable_Items/Julie.Julie]
+[2026.10.11-17.23.29:362][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pickupable_Items/Julie]
+[2026.10.11-17.23.29:362][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pickupable_Items/Julie" FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/Pickupable_Items/Julie.uasset" SILENT=true
+[2026.10.11-17.23.29:387][472]LogSavePackage: Moving output files for package: /Game/Pickupable_Items/Julie
+[2026.10.11-17.23.29:388][472]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Julie17D727DA4ADD486B86D2569284FA7171.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/Pickupable_Items/Julie.uasset'
+[2026.10.11-17.23.29:421][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 660.857 ms (total: 2.68 sec)
+[2026.10.11-17.23.29:448][472]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.11-17.23.29:539][473]LogContentValidation: Enabled validators:
+[2026.10.11-17.23.29:539][473]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.11-17.23.29:539][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.11-17.23.29:539][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.11-17.23.29:539][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.11-17.23.29:539][473]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.11-17.23.29:539][473]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.11-17.23.29:539][473]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.11-17.23.29:539][473]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.11-17.23.29:539][473]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.11-17.23.29:539][473]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.11-17.23.29:539][473]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.11-17.23.29:564][473]AssetCheck: /Game/Pickupable_Items/Julie Validating asset
+[2026.10.11-17.23.29:564][473]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.11-17.23.29:564][473]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.11-17.23.29:564][473]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.11-17.23.29:564][473]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.11-17.23.29:564][473]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.11-17.23.29:564][473]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.11-17.23.29:564][473]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.11-17.23.29:564][473]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.11-17.23.29:564][473]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.11-17.23.29:564][473]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.11-17.23.29:913][474]LogPSOHitching: Encountered 150 PSO creation hitches so far (80 graphics, 70 compute). 0 of them were precached.
+[2026.10.11-17.23.30:255][474]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.10.11-17.23.30:255][474]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.10.11-17.23.30:255][474]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.10.11-17.23.32:429][546]AssetReimport: Reimported asset Julie from C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/Pickupable_Items/Julie.OBJ.
+[2026.10.11-17.24.49:148][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.10.11-17.24.49:150][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor2' took 0.062
+[2026.10.11-17.24.49:151][139]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/anfen/Box_DF5E356C] ([1] browsable assets)...
+[2026.10.11-17.24.49:674][139]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/anfen/Box_DF5E356C.Box_DF5E356C]
+[2026.10.11-17.24.49:674][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/anfen/Box_DF5E356C]
+[2026.10.11-17.24.49:680][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/anfen/Box_DF5E356C_Auto1
+[2026.10.11-17.24.49:680][139]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Box_DF5E356C_Auto14E87F57548B1CA3E5D0574B248AE8C72.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/_GENERATED/anfen/Box_DF5E356C_Auto1.uasset'
+[2026.10.11-17.24.49:681][139]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/anfen/Rectangle_4468B36E] ([1] browsable assets)...
+[2026.10.11-17.24.49:699][139]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/anfen/Rectangle_4468B36E.Rectangle_4468B36E]
+[2026.10.11-17.24.49:699][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/anfen/Rectangle_4468B36E]
+[2026.10.11-17.24.49:703][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/anfen/Rectangle_4468B36E_Auto1
+[2026.10.11-17.24.49:703][139]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Rectangle_4468B36E_Auto11E83DA1D47EF53679D8268ADF468605A.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/_GENERATED/anfen/Rectangle_4468B36E_Auto1.uasset'
+[2026.10.11-17.24.49:704][139]LogFileHelpers: Auto-saving content packages took 0.554
+[2026.10.11-17.25.35:863][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3946.105225
+[2026.10.11-17.25.36:864][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.11-17.25.36:864][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3946.770996, Update Interval: 349.090240
+[2026.10.11-17.26.38:866][759]EditorErrors: Warning: Map '/Game/newlevel/floor1' does not exist.  It will be removed from the recent items list.
+[2026.10.11-17.27.01:013][587]LogSlate: Window 'Message Log' being destroyed
+[2026.10.11-17.27.01:021][587]LogSlate: Window 'Message Log' being destroyed
+[2026.10.11-17.27.09:206][ 37]EditorErrors: Warning: Map '/Game/newlevel/groundlevel' does not exist.  It will be removed from the recent items list.
+[2026.10.11-17.27.21:740][504]LogSlate: Window 'Message Log' being destroyed
+[2026.10.11-17.27.21:748][504]LogSlate: Window 'Message Log' being destroyed
+[2026.10.11-17.27.47:780][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.10.11-17.27.49:613][510]LogSlate: Window 'Save Content' being destroyed
+[2026.10.11-17.27.49:678][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.11-17.27.49:805][510]LogFileHelpers: Saving Package: /Game/_GENERATED/anfen/Box_DF5E356C
+[2026.10.11-17.27.49:806][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/anfen/Box_DF5E356C] ([1] browsable assets)...
+[2026.10.11-17.27.49:806][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/anfen/Box_DF5E356C]
+[2026.10.11-17.27.49:809][510]LogSavePackage: Moving output files for package: /Game/_GENERATED/anfen/Box_DF5E356C
+[2026.10.11-17.27.49:809][510]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Box_DF5E356C71D213CC4B45A1199005DCA5E88C96A5.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/_GENERATED/anfen/Box_DF5E356C.uasset'
+[2026.10.11-17.27.49:812][510]LogFileHelpers: Saving Package: /Game/_GENERATED/anfen/Rectangle_4468B36E
+[2026.10.11-17.27.49:812][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/anfen/Rectangle_4468B36E] ([1] browsable assets)...
+[2026.10.11-17.27.49:812][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/anfen/Rectangle_4468B36E]
+[2026.10.11-17.27.49:814][510]LogSavePackage: Moving output files for package: /Game/_GENERATED/anfen/Rectangle_4468B36E
+[2026.10.11-17.27.49:814][510]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Rectangle_4468B36E2B8B0386467874BF098FCE9B51B75DDB.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/_GENERATED/anfen/Rectangle_4468B36E.uasset'
+[2026.10.11-17.27.49:870][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.814 ms (total: 2.87 sec)
+[2026.10.11-17.27.49:870][510]Cmd: MAP LOAD FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.11-17.27.49:910][510]LogWorld: UWorld::CleanupWorld for floor2, bSessionEnded=true, bCleanupResources=true
+[2026.10.11-17.27.49:910][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.11-17.27.49:941][510]LogAudio: Display: Audio Device unregistered from world 'floor2'.
+[2026.10.11-17.27.49:943][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.10.11-17.27.49:944][510]LogStreaming: Display: FlushAsyncLoading(407): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.11-17.27.49:948][510]LogAudio: Display: Audio Device (ID: 1) registered with world 'floor2'.
+[2026.10.11-17.27.49:948][510]LogChaosDD: Creating Chaos Debug Draw Scene for world floor2
+[2026.10.11-17.27.49:969][510]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.11-17.27.50:003][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.10.11-17.27.50:018][510]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.11-17.27.50:018][510]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2026.10.11-17.27.50:019][510]LogSlate: Window 'Open Level' being destroyed
+[2026.10.11-17.27.50:177][510]LogContentValidation: Enabled validators:
+[2026.10.11-17.27.50:177][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.11-17.27.50:177][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.11-17.27.50:177][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.11-17.27.50:177][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.11-17.27.50:177][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.11-17.27.50:177][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.11-17.27.50:177][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.11-17.27.50:177][510]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.11-17.27.50:177][510]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.11-17.27.50:177][510]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.10.11-17.27.50:177][510]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.11-17.27.50:177][510]AssetCheck: /Game/_GENERATED/anfen/Box_DF5E356C Validating asset
+[2026.10.11-17.27.50:177][510]AssetCheck: /Game/_GENERATED/anfen/Rectangle_4468B36E Validating asset
+[2026.10.11-17.27.50:178][510]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.11-17.27.50:178][510]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.11-17.27.50:178][510]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.11-17.27.50:178][510]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.10.11-17.27.50:178][510]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.11-17.27.50:178][510]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.11-17.27.50:178][510]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.11-17.27.50:178][510]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.11-17.27.50:178][510]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.11-17.27.50:178][510]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.11-17.27.50:287][510]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.11-17.27.50:299][511]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.11-17.29.57:042][819]LogSlate: Window 'Open Level' being destroyed
+[2026.10.11-17.32.10:467][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4340.716797
+[2026.10.11-17.32.11:468][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.11-17.32.11:469][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4341.384277, Update Interval: 307.795044
