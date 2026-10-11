@@ -1,0 +1,41 @@
+[86692:94960:1010/193426.526:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[86692:88096:1010/193426.723:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[86692:94960:1010/193426.795:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[91436:86064:1010/193427.432:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0AF72F0983D54CB16931E75773940FF5 will be ignored
+[82172:88548:1010/193428.263:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[82172:90316:1010/193428.303:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[82172:90316:1010/193428.304:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[82172:90316:1010/193428.304:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[86692:77688:1010/193428.539:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[86692:94960:1010/193428.652:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[86692:94960:1010/193428.652:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[86692:94960:1010/193428.653:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[86692:94960:1010/193428.653:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[86692:77688:1010/193428.664:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[65480:80548:1010/193428.887:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[65480:86944:1010/193428.926:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[65480:86944:1010/193428.926:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[65480:86944:1010/193428.928:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[65480:80548:1010/193430.362:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[82172:91524:1010/193636.608:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-954B6C1D7181C0182A464DE92F60E52E will be ignored
+[90748:88968:1010/193636.698:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[90748:88968:1010/193636.732:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[90748:88968:1010/193637.304:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[90748:88968:1010/193637.334:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[90748:88968:1010/193640.712:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[90748:88968:1010/193640.744:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[90748:88968:1010/193642.122:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[90748:88968:1010/193642.156:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[90748:88968:1010/193642.162:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[86692:94960:1010/195059.325:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/195059.328:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/195104.324:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/195114.324:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/195149.324:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/195154.324:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/195159.325:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/195814.796:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/200244.802:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/200254.801:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/200259.802:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[86692:94960:1010/200357.211:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
