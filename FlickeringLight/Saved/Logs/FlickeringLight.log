@@ -2296,3 +2296,194 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.11-16.35.26:933][264]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.11-16.35.26:933][264]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.10.11-16.35.27:000][265]LogStreaming: Display: FlushAsyncLoading(377): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.11-16.36.43:216][869]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.278442
+[2026.10.11-16.36.44:218][872]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.11-16.36.44:218][872]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1013.945862, Update Interval: 310.191956
+[2026.10.11-16.37.29:415][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.11-16.37.29:480][813]LogFileHelpers: Saving Map: /Game/newlevel/NewMap
+[2026.10.11-16.37.29:481][813]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/NewMap] ([1] browsable assets)...
+[2026.10.11-16.37.29:481][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/NewMap]
+[2026.10.11-16.37.29:543][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.10.11-16.37.29:556][813]LogSavePackage: Moving output files for package: /Game/newlevel/NewMap
+[2026.10.11-16.37.29:556][813]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/NewMapEBDB784E40642ACF158B84AC2B9E6932.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/NewMap.umap'
+[2026.10.11-16.37.29:585][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.103 ms (total: 423.356 ms)
+[2026.10.11-16.37.29:645][813]LogContentValidation: Enabled validators:
+[2026.10.11-16.37.29:645][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.11-16.37.29:645][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.11-16.37.29:645][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.11-16.37.29:645][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.11-16.37.29:645][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.11-16.37.29:645][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.11-16.37.29:645][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.11-16.37.29:645][813]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.11-16.37.29:645][813]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.11-16.37.29:645][813]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.11-16.37.29:645][813]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.11-16.37.29:646][813]AssetCheck: /Game/newlevel/NewMap Validating asset
+[2026.10.11-16.37.29:646][813]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.11-16.37.29:646][813]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.11-16.37.29:646][813]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.11-16.37.29:646][813]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.11-16.37.29:646][813]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.11-16.37.29:646][813]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.11-16.37.29:646][813]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.11-16.37.29:646][813]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.11-16.37.29:646][813]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.11-16.37.29:646][813]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.11-16.38.10:174][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.11-16.38.10:234][421]LogFileHelpers: Saving Map: /Game/newlevel/NewMap
+[2026.10.11-16.38.10:234][421]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/NewMap] ([1] browsable assets)...
+[2026.10.11-16.38.10:234][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/NewMap]
+[2026.10.11-16.38.10:307][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.10.11-16.38.10:319][421]LogSavePackage: Moving output files for package: /Game/newlevel/NewMap
+[2026.10.11-16.38.10:320][421]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/NewMap47EA18B64729C2C9C6F064BDCACC1560.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/NewMap.umap'
+[2026.10.11-16.38.10:348][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.011 ms (total: 597.367 ms)
+[2026.10.11-16.38.10:417][421]LogContentValidation: Enabled validators:
+[2026.10.11-16.38.10:417][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.11-16.38.10:417][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.11-16.38.10:417][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.11-16.38.10:417][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.11-16.38.10:417][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.11-16.38.10:417][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.11-16.38.10:417][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.11-16.38.10:417][421]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.11-16.38.10:417][421]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.11-16.38.10:417][421]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.11-16.38.10:417][421]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.11-16.38.10:417][421]AssetCheck: /Game/newlevel/NewMap Validating asset
+[2026.10.11-16.38.10:417][421]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.11-16.38.10:418][421]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.11-16.38.10:418][421]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.11-16.38.10:418][421]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.11-16.38.10:418][421]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.11-16.38.10:418][421]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.11-16.38.10:418][421]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.11-16.38.10:418][421]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.11-16.38.10:418][421]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.11-16.38.10:418][421]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.11-16.40.02:187][386]LogModuleManager: InternalLoadLibrary: 'NewLevelDialog' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-NewLevelDialog.dll')
+[2026.10.11-16.40.02:214][386]LogStreaming: Display: FlushAsyncLoading(379): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.11-16.40.07:234][386]LogSlate: Window 'New Level' being destroyed
+[2026.10.11-16.40.07:294][386]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.11-16.40.07:358][386]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.11-16.40.07:362][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.11-16.40.07:396][386]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.10.11-16.40.07:398][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.10.11-16.40.07:405][386]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2026.10.11-16.40.07:405][386]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2026.10.11-16.40.07:421][386]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.11-16.40.07:466][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.10.11-16.40.07:467][386]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.11-16.40.07:467][386]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.224ms to complete.
+[2026.10.11-16.40.07:813][386]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.11-16.40.25:787][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.10.11-16.40.30:754][ 19]LogSlate: Window 'Save Content' being destroyed
+[2026.10.11-16.40.30:807][ 19]LogSlate: Window 'Open Level' being destroyed
+[2026.10.11-16.40.47:253][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.10.11-16.40.48:607][516]LogSlate: Window 'Save Content' being destroyed
+[2026.10.11-16.40.48:664][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.11-16.40.48:801][516]LogFileHelpers: Saving Package: /Game/newlevel/_GENERATED/anfen/Capsule_6B4032B2
+[2026.10.11-16.40.48:801][516]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/newlevel/_GENERATED/anfen/Capsule_6B4032B2] ([1] browsable assets)...
+[2026.10.11-16.40.49:025][516]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/newlevel/_GENERATED/anfen/Capsule_6B4032B2.Capsule_6B4032B2]
+[2026.10.11-16.40.49:025][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/_GENERATED/anfen/Capsule_6B4032B2]
+[2026.10.11-16.40.49:033][516]LogSavePackage: Moving output files for package: /Game/newlevel/_GENERATED/anfen/Capsule_6B4032B2
+[2026.10.11-16.40.49:033][516]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Capsule_6B4032B2B020867B49007D58FA2C1FA1B9F03EBF.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/_GENERATED/anfen/Capsule_6B4032B2.uasset'
+[2026.10.11-16.40.49:034][516]LogFileHelpers: Saving Package: /Game/newlevel/_GENERATED/anfen/Cylinder_306254C0
+[2026.10.11-16.40.49:035][516]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/newlevel/_GENERATED/anfen/Cylinder_306254C0] ([1] browsable assets)...
+[2026.10.11-16.40.49:049][516]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/newlevel/_GENERATED/anfen/Cylinder_306254C0.Cylinder_306254C0]
+[2026.10.11-16.40.49:049][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/_GENERATED/anfen/Cylinder_306254C0]
+[2026.10.11-16.40.49:053][516]LogSavePackage: Moving output files for package: /Game/newlevel/_GENERATED/anfen/Cylinder_306254C0
+[2026.10.11-16.40.49:054][516]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Cylinder_306254C077D7101440CC682D865F3FBF24B100C7.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/_GENERATED/anfen/Cylinder_306254C0.uasset'
+[2026.10.11-16.40.49:115][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 450.839 ms (total: 1.04 sec)
+[2026.10.11-16.40.49:115][516]Cmd: MAP LOAD FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.11-16.40.49:155][516]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.11-16.40.49:155][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.11-16.40.49:192][516]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2026.10.11-16.40.49:195][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.10.11-16.40.49:197][516]LogStreaming: Display: FlushAsyncLoading(382): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.11-16.40.49:201][516]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2026.10.11-16.40.49:201][516]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.10.11-16.40.49:226][516]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.11-16.40.49:262][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.10.11-16.40.49:278][516]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.11-16.40.49:278][516]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2026.10.11-16.40.49:279][516]LogSlate: Window 'Open Level' being destroyed
+[2026.10.11-16.40.49:447][516]LogContentValidation: Enabled validators:
+[2026.10.11-16.40.49:447][516]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.11-16.40.49:447][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.11-16.40.49:447][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.11-16.40.49:447][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.11-16.40.49:447][516]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.11-16.40.49:447][516]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.11-16.40.49:447][516]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.11-16.40.49:447][516]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.11-16.40.49:447][516]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.11-16.40.49:447][516]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.10.11-16.40.49:447][516]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.11-16.40.49:448][516]AssetCheck: /Game/newlevel/_GENERATED/anfen/Capsule_6B4032B2 Validating asset
+[2026.10.11-16.40.49:448][516]AssetCheck: /Game/newlevel/_GENERATED/anfen/Cylinder_306254C0 Validating asset
+[2026.10.11-16.40.49:448][516]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.11-16.40.49:448][516]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.11-16.40.49:448][516]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.11-16.40.49:448][516]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.10.11-16.40.49:448][516]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.11-16.40.49:448][516]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.11-16.40.49:448][516]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.11-16.40.49:448][516]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.11-16.40.49:448][516]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.11-16.40.49:448][516]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.11-16.40.49:565][516]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.11-16.40.49:581][517]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.11-16.41.16:329][840]LogContentBrowser: Attempting asset rename: NewMap -> groundlevel
+[2026.10.11-16.41.16:474][840]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.10.11-16.41.26:567][840]LogSlate: Window 'Message' being destroyed
+[2026.10.11-16.41.26:627][840]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+NewMap
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2026.10.11-16.41.26:638][840]LogModuleManager: InternalLoadLibrary: 'HierarchicalLODUtilities' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-HierarchicalLODUtilities.dll')
+[2026.10.11-16.41.26:639][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.11-16.41.26:639][840]LogFileHelpers: Saving Map: /Game/newlevel/groundlevel
+[2026.10.11-16.41.26:641][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/groundlevel] ([1] browsable assets)...
+[2026.10.11-16.41.26:641][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/groundlevel]
+[2026.10.11-16.41.26:740][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.11-16.41.26:755][840]LogSavePackage: Moving output files for package: /Game/newlevel/groundlevel
+[2026.10.11-16.41.26:755][840]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/groundlevelC6A1246E4AF8C6333AFD20B68386889E.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/groundlevel.umap'
+[2026.10.11-16.41.26:776][840]LogFileHelpers: Saving Package: /Game/newlevel/NewMap
+[2026.10.11-16.41.26:776][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/NewMap] ([1] browsable assets)...
+[2026.10.11-16.41.26:776][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/NewMap]
+[2026.10.11-16.41.26:776][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/newlevel/NewMap" FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/NewMap.umap" SILENT=true
+[2026.10.11-16.41.26:778][840]LogSavePackage: Moving output files for package: /Game/newlevel/NewMap
+[2026.10.11-16.41.26:778][840]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/NewMapCC8098C4414C886F89774DACFD820F82.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/NewMap.umap'
+[2026.10.11-16.41.26:780][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.015 ms (total: 1.18 sec)
+[2026.10.11-16.41.26:963][840]LogContentValidation: Enabled validators:
+[2026.10.11-16.41.26:963][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.11-16.41.26:963][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.11-16.41.26:963][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.11-16.41.26:963][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.11-16.41.26:963][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.11-16.41.26:963][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.11-16.41.26:963][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.11-16.41.26:963][840]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.11-16.41.26:963][840]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.11-16.41.26:963][840]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.10.11-16.41.26:963][840]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.11-16.41.26:963][840]AssetCheck: /Game/newlevel/groundlevel Validating asset
+[2026.10.11-16.41.26:964][840]AssetCheck: /Game/newlevel/NewMap Validating asset
+[2026.10.11-16.41.26:964][840]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.11-16.41.26:964][840]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.11-16.41.26:964][840]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.11-16.41.26:964][840]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.10.11-16.41.26:964][840]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.11-16.41.26:964][840]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.11-16.41.26:964][840]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.11-16.41.26:964][840]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.11-16.41.26:964][840]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.11-16.41.26:964][840]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.11-16.41.27:086][840]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
