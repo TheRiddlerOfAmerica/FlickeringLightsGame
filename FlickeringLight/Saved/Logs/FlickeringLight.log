@@ -2805,3 +2805,65 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.10.11-17.13.38:045][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3228.259766
 [2026.10.11-17.13.39:047][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.11-17.13.39:047][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3228.926758, Update Interval: 306.855682
+[2026.10.11-17.14.36:108][ 62]LogSlate: Window 'New Level' being destroyed
+[2026.10.11-17.14.36:163][ 62]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.11-17.14.36:231][ 62]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.11-17.14.36:231][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.11-17.14.36:280][ 62]LogAudio: Display: Audio Device unregistered from world 'floor1'.
+[2026.10.11-17.14.36:282][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.11-17.14.36:284][ 62]LogStreaming: Display: FlushAsyncLoading(392): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.11-17.14.36:288][ 62]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2026.10.11-17.14.36:288][ 62]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_3
+[2026.10.11-17.14.36:302][ 62]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.11-17.14.36:337][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.10.11-17.14.36:338][ 62]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.11-17.14.36:338][ 62]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2026.10.11-17.14.36:375][ 63]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.11-17.14.47:338][391]LogSlate: Window 'Save Level As' being destroyed
+[2026.10.11-17.14.47:540][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor2] ([1] browsable assets)...
+[2026.10.11-17.14.47:540][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor2]
+[2026.10.11-17.14.47:634][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.10.11-17.14.47:646][391]LogSavePackage: Moving output files for package: /Game/newlevel/floor2
+[2026.10.11-17.14.47:646][391]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor2C52844084F34BEAF578D31AB1A64E2B3.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor2.umap'
+[2026.10.11-17.14.47:761][391]LogFileHelpers: Saving map 'floor2' took 0.362
+[2026.10.11-17.14.47:761][391]Cmd: MAP LOAD FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.11-17.14.47:840][391]LogWorld: UWorld::CleanupWorld for floor2, bSessionEnded=true, bCleanupResources=true
+[2026.10.11-17.14.47:840][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.11-17.14.47:873][391]LogAudio: Display: Audio Device unregistered from world 'floor2'.
+[2026.10.11-17.14.47:875][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.11-17.14.47:876][391]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.11-17.14.47:880][391]LogAudio: Display: Audio Device (ID: 1) registered with world 'floor2'.
+[2026.10.11-17.14.47:880][391]LogChaosDD: Creating Chaos Debug Draw Scene for world floor2
+[2026.10.11-17.14.47:897][391]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.11-17.14.47:947][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.10.11-17.14.47:964][391]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.11-17.14.47:964][391]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2026.10.11-17.14.48:099][391]LogContentValidation: Enabled validators:
+[2026.10.11-17.14.48:099][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.11-17.14.48:099][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.11-17.14.48:099][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.11-17.14.48:099][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.11-17.14.48:099][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.11-17.14.48:099][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.11-17.14.48:099][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.11-17.14.48:099][391]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.11-17.14.48:099][391]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.11-17.14.48:099][391]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.11-17.14.48:099][391]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.11-17.14.48:099][391]AssetCheck: /Game/newlevel/floor2 Validating asset
+[2026.10.11-17.14.48:099][391]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.11-17.14.48:099][391]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.11-17.14.48:099][391]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.11-17.14.48:099][391]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.11-17.14.48:099][391]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.11-17.14.48:099][391]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.11-17.14.48:099][391]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.11-17.14.48:099][391]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.11-17.14.48:099][391]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.11-17.14.48:099][391]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.11-17.14.48:192][391]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.11-17.14.48:202][392]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
