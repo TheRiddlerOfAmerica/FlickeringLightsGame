@@ -2152,3 +2152,230 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.12-19.49.09:950][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 14.449332
 [2026.10.12-19.49.09:956][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 794601937
 [2026.10.12-19.49.09:956][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14.449332, Update Interval: 321.592468
+[2026.10.12-19.50.48:130][303]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.625 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16903 files in 16970 folders with total size 332 MiB.
+[2026.10.12-19.51.38:549][559]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' with subface index 0 in Game thread.
+[2026.10.12-19.51.38:549][559]LogSlate: Display: Took 0.001013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K) on Game thread.
+[2026.10.12-19.51.38:549][559]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' subface 0 in Game thread.
+[2026.10.12-19.51.38:549][559]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.12-19.51.40:071][636]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' with subface index 0 in Game thread.
+[2026.10.12-19.51.40:071][636]LogSlate: Display: Took 0.001307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K) on Game thread.
+[2026.10.12-19.51.40:071][636]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface 0 in Game thread.
+[2026.10.12-19.51.40:071][636]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.12-19.51.43:408][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.10.12-19.51.43:411][705]Cmd: MAP LOAD FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/groundlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.12-19.51.43:466][705]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.12-19.51.43:467][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.12-19.51.43:517][705]LogAudio: Display: Audio Device unregistered from world 'TestMap'.
+[2026.10.12-19.51.43:520][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.10.12-19.51.43:522][705]LogStreaming: Display: FlushAsyncLoading(365): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.12-19.51.43:553][705]LogAudio: Display: Audio Device (ID: 1) registered with world 'groundlevel'.
+[2026.10.12-19.51.43:553][705]LogChaosDD: Creating Chaos Debug Draw Scene for world groundlevel
+[2026.10.12-19.51.43:589][705]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.12-19.51.43:631][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.10.12-19.51.43:653][705]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.12-19.51.43:653][705]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2026.10.12-19.51.43:654][705]LogSlate: Window 'Open Level' being destroyed
+[2026.10.12-19.51.43:761][706]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.12-19.52.03:888][191]LogStreaming: Display: FlushAsyncLoading(366): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: ================================================
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: Total job queries 309, among them cache hits 14 (4.53%), DDC hits 270 (87.38%), Duplicates 22 (7.12%)
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: Tracking 273 distinct input hashes that result in 199 distinct outputs (72.89%)
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: RAM used: 2.88 MiB of 1.60 GiB budget. Usage: 0.18%
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: Shaders Compiled: 3
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: Job execution time: average 2.60 s, max 3.29 s
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: Job life time (pending + execution): average 2.68 s, max 3.38
+[2026.10.12-19.52.05:681][210]LogShaderCompilers: Display: Shader code size: total 23.66 KiB, numShaders 3, average 7.887 KiB, min 4.387 KiB, max 10.828 KiB
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.39 s
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Average processing rate: 0.89 jobs/sec
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Total thread time: 3.592 s
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Total thread preprocess time: 15.902 s
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Percentage time preprocessing: 442.75%
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Effective parallelization: 1.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.132472
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.88 sec, max 1.88 sec, min 1.88 sec)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 52.27% of total time (compiled    1 times, average 1.88 sec, max 1.88 sec, min 1.88 sec)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.78% of total time (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display:                                                 FLumenCardPS - 21.95% of total time (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: === Material stats ===
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Materials Translated:    156
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Material Total Translate Time: 0.32 s
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Material Translation Only: 0.11 s (34%)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: Material Cache Hits: 19 (12%)
+[2026.10.12-19.52.05:682][210]LogShaderCompilers: Display: ================================================
+[2026.10.12-19.53.41:086][663]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.10.12-19.53.41:088][663]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.10.12-19.53.49:644][872]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.10.12-19.54.31:324][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 336.136749
+[2026.10.12-19.54.31:631][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.12-19.54.31:631][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 336.370972, Update Interval: 323.379608
+[2026.10.12-19.54.32:640][122]Cmd: EDIT COPY
+[2026.10.12-19.54.34:099][153]Cmd: EDIT PASTE
+[2026.10.12-19.54.48:359][459]LogStreaming: Display: FlushAsyncLoading(377): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.12-19.54.49:264][460]LogEditorModes: Warning: ITF Gizmos and Controls have been disabled. The "Landscape" Editor Mode requires the legacy systems.
+[2026.10.12-19.54.57:173][724]Cmd: DELETE
+[2026.10.12-19.54.57:173][724]Cmd: ACTOR DELETE
+[2026.10.12-19.54.57:177][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.12-19.54.57:296][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.10.12-19.54.57:300][724]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2026.10.12-19.55.01:838][870]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.10.12-19.55.01:839][870]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.10.12-19.55.04:770][951]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.10.12-19.55.09:020][ 47]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/newlevel/_GENERATED/anfen/Box_4310E82F.Box_4310E82F
+[2026.10.12-19.55.09:022][ 47]LogStaticMesh: Display: Building static mesh Box_4310E82F (Required Memory Estimate: 0.027891 MB)...
+[2026.10.12-19.55.09:025][ 47]LogActorFactory: Actor Factory spawned StaticMesh /Game/newlevel/_GENERATED/anfen/Box_4310E82F.Box_4310E82F as actor: StaticMeshActor /Game/newlevel/groundlevel.groundlevel:PersistentLevel.StaticMeshActor_11
+[2026.10.12-19.55.09:026][ 47]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/_GENERATED/anfen/Box_4310E82F.Box_4310E82F
+[2026.10.12-19.55.09:334][ 47]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.12-19.55.10:860][ 89]Cmd: EDIT COPY
+[2026.10.12-19.55.13:012][151]Cmd: EDIT PASTE
+[2026.10.12-19.55.29:756][584]Cmd: EDIT PASTE
+[2026.10.12-19.55.50:738][ 53]Cmd: EDIT PASTE
+[2026.10.12-19.58.50:455][641]LogContentBrowser: Deferred new asset file creation: greybox1
+[2026.10.12-19.58.50:466][641]LogContentBrowser: Creating deferred item: greybox1
+[2026.10.12-19.58.50:483][642]LogContentBrowser: Renaming the item being created (Deferred Item: greybox1).
+[2026.10.12-19.58.51:823][695]LogContentBrowser: Attempting asset rename: greybox1 -> greybox1
+[2026.10.12-19.58.51:829][695]LogContentBrowser: End creating deferred item greybox1
+[2026.10.12-19.58.51:845][695]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.10.12-19.58.51:852][695]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' with subface index 0 in Game thread.
+[2026.10.12-19.58.51:852][695]LogSlate: Display: Took 0.005530 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K) on Game thread.
+[2026.10.12-19.58.51:852][695]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' subface 0 in Game thread.
+[2026.10.12-19.58.51:852][695]LogSlate: Display: Font face '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.12-19.58.53:828][788]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/GameAssets/greybox1.greybox1
+[2026.10.12-19.58.53:852][788]LogStreaming: Display: FlushAsyncLoading(386): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.12-19.58.54:705][788]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' with subface index 0 in Game thread.
+[2026.10.12-19.58.54:705][788]LogSlate: Display: Took 0.001674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K) on Game thread.
+[2026.10.12-19.58.54:705][788]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface 0 in Game thread.
+[2026.10.12-19.58.54:705][788]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.12-19.59.08:564][904]LogSlate: Window 'Color Picker' being destroyed
+[2026.10.12-19.59.21:786][ 97]LogSlate: Window 'Color Picker' being destroyed
+[2026.10.12-19.59.27:568][386]LogMaterialEditor: Saving and Compiling material greybox1
+[2026.10.12-19.59.27:802][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.10.12-19.59.29:234][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.10.12-19.59.29:254][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.12-19.59.29:314][386]LogFileHelpers: Saving Package: /Game/GameAssets/greybox1
+[2026.10.12-19.59.29:315][386]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameAssets/greybox1] ([1] browsable assets)...
+[2026.10.12-19.59.29:479][386]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GameAssets/greybox1.greybox1]
+[2026.10.12-19.59.29:479][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/greybox1]
+[2026.10.12-19.59.29:479][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameAssets/greybox1" FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/greybox1.uasset" SILENT=true
+[2026.10.12-19.59.29:492][386]LogSavePackage: Moving output files for package: /Game/GameAssets/greybox1
+[2026.10.12-19.59.29:492][386]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/greybox16434FD3841788A72545624906A04DD25.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/greybox1.uasset'
+[2026.10.12-19.59.29:508][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 252.389 ms
+[2026.10.12-19.59.29:563][386]LogContentValidation: Enabled validators:
+[2026.10.12-19.59.29:563][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.12-19.59.29:563][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.12-19.59.29:563][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.12-19.59.29:563][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.12-19.59.29:563][386]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.12-19.59.29:563][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.12-19.59.29:563][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.12-19.59.29:563][386]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.12-19.59.29:563][386]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.12-19.59.29:563][386]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.12-19.59.29:563][386]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.12-19.59.29:565][386]AssetCheck: /Game/GameAssets/greybox1 Validating asset
+[2026.10.12-19.59.29:565][386]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.12-19.59.29:565][386]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.12-19.59.29:565][386]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.12-19.59.29:565][386]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.12-19.59.29:565][386]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.12-19.59.29:565][386]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.12-19.59.29:565][386]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.12-19.59.29:565][386]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.12-19.59.29:565][386]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.12-19.59.29:565][386]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.12-19.59.29:785][386]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.12-19.59.30:420][403]LogSlate: Window 'greybox1' being destroyed
+[2026.10.12-19.59.30:427][403]LogSlate: Window 'greybox1' being destroyed
+[2026.10.12-19.59.30:476][403]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.12-19.59.30:476][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.12-19.59.30:527][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.10.12-19.59.38:025][727]LogContentBrowser: Attempting asset rename: greybox1 -> wood
+[2026.10.12-19.59.38:203][727]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.10.12-19.59.38:271][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.12-19.59.38:271][727]LogFileHelpers: Saving Package: /Game/GameAssets/wood
+[2026.10.12-19.59.38:271][727]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/wood] ([1] browsable assets)...
+[2026.10.12-19.59.38:271][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/wood]
+[2026.10.12-19.59.38:271][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameAssets/wood" FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/wood.uasset" SILENT=true
+[2026.10.12-19.59.38:273][727]LogSavePackage: Moving output files for package: /Game/GameAssets/wood
+[2026.10.12-19.59.38:273][727]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/wood929927884FE15916CB8795A76743D409.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/wood.uasset'
+[2026.10.12-19.59.38:274][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.174 ms (total: 255.564 ms)
+[2026.10.12-19.59.38:329][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.10.12-19.59.38:367][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.12-19.59.38:400][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.10.12-19.59.38:476][727]LogContentValidation: Enabled validators:
+[2026.10.12-19.59.38:476][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.12-19.59.38:477][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.12-19.59.38:477][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.12-19.59.38:477][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.12-19.59.38:477][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.12-19.59.38:477][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.12-19.59.38:477][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.12-19.59.38:477][727]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.12-19.59.38:477][727]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.12-19.59.38:477][727]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.12-19.59.38:477][727]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.12-19.59.38:477][727]AssetCheck: /Game/GameAssets/wood Validating asset
+[2026.10.12-19.59.38:477][727]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.12-19.59.38:477][727]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.12-19.59.38:477][727]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.12-19.59.38:477][727]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.12-19.59.38:477][727]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.12-19.59.38:477][727]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.12-19.59.38:477][727]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.12-19.59.38:477][727]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.12-19.59.38:477][727]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.12-19.59.38:477][727]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.12-19.59.38:512][727]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.12-19.59.40:203][790]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.12-19.59.40:892][829]LogModuleManager: InternalLoadLibrary: 'HierarchicalLODUtilities' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-HierarchicalLODUtilities.dll')
+[2026.10.12-19.59.58:348][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 663.160095
+[2026.10.12-19.59.58:421][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.12-19.59.58:421][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 663.217041, Update Interval: 353.640564
+[2026.10.12-19.59.58:654][498]Cmd: TRANSACTION UNDO
+[2026.10.12-19.59.58:654][498]LogEditorTransaction: Undo Place Objects
+[2026.10.12-20.00.30:805][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.12-20.00.30:869][194]LogFileHelpers: Saving Map: /Game/newlevel/groundlevel
+[2026.10.12-20.00.30:869][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/groundlevel] ([1] browsable assets)...
+[2026.10.12-20.00.30:869][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/groundlevel]
+[2026.10.12-20.00.30:941][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.12-20.00.30:961][194]LogSavePackage: Moving output files for package: /Game/newlevel/groundlevel
+[2026.10.12-20.00.30:961][194]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/groundlevel0EFE1FAE4951C14EE0C084929127B527.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/groundlevel.umap'
+[2026.10.12-20.00.31:038][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 233.864 ms (total: 489.428 ms)
+[2026.10.12-20.00.31:104][194]LogContentValidation: Enabled validators:
+[2026.10.12-20.00.31:104][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.12-20.00.31:104][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.12-20.00.31:105][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.12-20.00.31:105][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.12-20.00.31:105][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.12-20.00.31:105][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.12-20.00.31:105][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.12-20.00.31:105][194]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.12-20.00.31:105][194]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.12-20.00.31:105][194]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.12-20.00.31:105][194]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.12-20.00.31:106][194]AssetCheck: /Game/newlevel/groundlevel Validating asset
+[2026.10.12-20.00.31:106][194]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.12-20.00.31:106][194]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.12-20.00.31:106][194]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.12-20.00.31:106][194]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.12-20.00.31:106][194]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.12-20.00.31:106][194]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.12-20.00.31:106][194]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.12-20.00.31:106][194]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.12-20.00.31:106][194]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.12-20.00.31:106][194]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
