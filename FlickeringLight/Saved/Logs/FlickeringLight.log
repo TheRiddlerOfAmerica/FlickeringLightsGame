@@ -3832,3 +3832,47 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.13-00.05.14:488][296]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.13-00.05.14:488][296]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.13-00.05.14:488][296]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.13-00.07.41:386][695]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-00.07.51:392][135]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15537.207031
+[2026.10.13-00.07.51:522][141]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-00.07.51:522][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15537.314453, Update Interval: 334.228943
+[2026.10.13-00.14.06:937][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15912.767578
+[2026.10.13-00.14.07:055][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-00.14.07:055][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15912.861328, Update Interval: 343.904541
+[2026.10.13-00.20.21:655][782]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16287.518555
+[2026.10.13-00.20.22:653][785]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-00.20.22:655][785]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16288.184570, Update Interval: 358.038879
+[2026.10.13-00.26.57:336][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.13-00.26.57:401][659]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.13-00.26.57:403][659]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.13-00.26.57:403][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.13-00.26.57:477][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.10.13-00.26.57:501][659]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.13-00.26.57:502][659]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1D5E8C41D49837EF25B99D2A17C34D641.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.13-00.26.57:539][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.975 ms (total: 7.35 sec)
+[2026.10.13-00.26.57:605][659]LogContentValidation: Enabled validators:
+[2026.10.13-00.26.57:605][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.13-00.26.57:605][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.13-00.26.57:605][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.13-00.26.57:605][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.13-00.26.57:605][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.13-00.26.57:605][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.13-00.26.57:605][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.13-00.26.57:605][659]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.13-00.26.57:605][659]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.13-00.26.57:605][659]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.13-00.26.57:605][659]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.13-00.26.57:605][659]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.13-00.26.57:606][659]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.13-00.26.57:606][659]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.13-00.26.57:606][659]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.13-00.26.57:606][659]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.13-00.26.57:606][659]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.13-00.26.57:606][659]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.13-00.26.57:606][659]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.13-00.26.57:606][659]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.13-00.26.57:606][659]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.13-00.26.57:606][659]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.13-00.27.04:433][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16690.388672
+[2026.10.13-00.27.05:431][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-00.27.05:431][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16691.052734, Update Interval: 347.500854
