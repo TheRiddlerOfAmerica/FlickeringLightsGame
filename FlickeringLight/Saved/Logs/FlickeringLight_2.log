@@ -2558,3 +2558,110 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.13-22.27.01:149][117]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.13-22.27.01:149][117]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.13-22.27.01:149][117]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.13-22.28.09:850][631]Cmd: DUPLICATE
+[2026.10.13-22.28.09:850][631]Cmd: ACTOR DUPLICATE
+[2026.10.13-22.28.30:363][484]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-22.28.53:146][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.13-22.28.53:211][ 69]LogFileHelpers: Saving Map: /Game/newlevel/groundlevel
+[2026.10.13-22.28.53:211][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/groundlevel] ([1] browsable assets)...
+[2026.10.13-22.28.53:211][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/groundlevel]
+[2026.10.13-22.28.53:328][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.10.13-22.28.53:347][ 69]LogSavePackage: Moving output files for package: /Game/newlevel/groundlevel
+[2026.10.13-22.28.53:348][ 69]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/groundlevelA2165FA44E4321BBF8F22290DBB344C8.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/groundlevel.umap'
+[2026.10.13-22.28.53:389][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.221 ms (total: 3.36 sec)
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: Enabled validators:
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.13-22.28.53:466][ 69]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.13-22.28.53:466][ 69]AssetCheck: /Game/newlevel/groundlevel Validating asset
+[2026.10.13-22.28.53:467][ 69]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.13-22.28.53:467][ 69]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.13-22.28.53:467][ 69]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.13-22.28.53:467][ 69]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.13-22.28.53:467][ 69]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.13-22.28.53:467][ 69]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.13-22.28.53:467][ 69]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.13-22.28.53:467][ 69]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.13-22.28.53:467][ 69]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.13-22.28.53:467][ 69]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.13-22.29.07:410][445]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-22.29.18:308][729]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-22.29.26:722][951]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-22.29.40:224][284]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-22.29.49:901][550]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-22.29.57:024][740]Cmd: TRANSACTION UNDO
+[2026.10.13-22.29.57:025][740]LogEditorTransaction: Undo Transform
+[2026.10.13-22.29.59:874][801]Cmd: TRANSACTION UNDO
+[2026.10.13-22.29.59:874][801]LogEditorTransaction: Undo Transform
+[2026.10.13-22.30.14:939][202]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-22.30.40:963][892]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-22.30.51:778][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.13-22.30.51:834][171]LogFileHelpers: Saving Map: /Game/newlevel/groundlevel
+[2026.10.13-22.30.51:835][171]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/groundlevel] ([1] browsable assets)...
+[2026.10.13-22.30.51:835][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/groundlevel]
+[2026.10.13-22.30.51:961][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.10.13-22.30.51:986][171]LogSavePackage: Moving output files for package: /Game/newlevel/groundlevel
+[2026.10.13-22.30.51:988][171]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/groundlevelDEE35DF34BA8D76915DA60A120A5A15E.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/groundlevel.umap'
+[2026.10.13-22.30.52:038][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 259.803 ms (total: 3.62 sec)
+[2026.10.13-22.30.52:107][171]LogContentValidation: Enabled validators:
+[2026.10.13-22.30.52:107][171]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.13-22.30.52:107][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.13-22.30.52:108][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.13-22.30.52:108][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.13-22.30.52:108][171]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.13-22.30.52:108][171]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.13-22.30.52:108][171]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.13-22.30.52:108][171]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.13-22.30.52:108][171]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.13-22.30.52:108][171]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.13-22.30.52:108][171]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.13-22.30.52:108][171]AssetCheck: /Game/newlevel/groundlevel Validating asset
+[2026.10.13-22.30.52:108][171]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.13-22.30.52:108][171]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.13-22.30.52:108][171]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.13-22.30.52:108][171]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.13-22.30.52:108][171]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.13-22.30.52:108][171]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.13-22.30.52:108][171]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.13-22.30.52:108][171]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.13-22.30.52:108][171]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.13-22.30.52:108][171]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.13-22.31.08:749][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.13-22.31.08:811][646]LogFileHelpers: Saving Map: /Game/newlevel/groundlevel
+[2026.10.13-22.31.08:812][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/groundlevel] ([1] browsable assets)...
+[2026.10.13-22.31.08:812][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/groundlevel]
+[2026.10.13-22.31.08:903][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.10.13-22.31.08:922][646]LogSavePackage: Moving output files for package: /Game/newlevel/groundlevel
+[2026.10.13-22.31.08:923][646]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/groundlevel4686B20E4C6455CDB7B3439C10173535.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/groundlevel.umap'
+[2026.10.13-22.31.09:021][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 272.087 ms (total: 3.89 sec)
+[2026.10.13-22.31.09:093][646]LogContentValidation: Enabled validators:
+[2026.10.13-22.31.09:094][646]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.13-22.31.09:094][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.13-22.31.09:094][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.13-22.31.09:094][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.13-22.31.09:094][646]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.13-22.31.09:094][646]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.13-22.31.09:094][646]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.13-22.31.09:094][646]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.13-22.31.09:094][646]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.13-22.31.09:094][646]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.13-22.31.09:094][646]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.13-22.31.09:094][646]AssetCheck: /Game/newlevel/groundlevel Validating asset
+[2026.10.13-22.31.09:094][646]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.13-22.31.09:094][646]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.13-22.31.09:094][646]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.13-22.31.09:094][646]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.13-22.31.09:094][646]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.13-22.31.09:094][646]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.13-22.31.09:094][646]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.13-22.31.09:094][646]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.13-22.31.09:094][646]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.13-22.31.09:094][646]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
