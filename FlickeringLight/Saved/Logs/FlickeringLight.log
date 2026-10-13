@@ -2507,3 +2507,91 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.13-15.12.45:345][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5829.592773
 [2026.10.13-15.12.46:344][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.13-15.12.46:344][223]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5830.258789, Update Interval: 333.111969
+[2026.10.13-15.17.40:536][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.10.13-15.17.40:539][104]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.093
+[2026.10.13-15.17.40:539][104]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/newlevel/_GENERATED/anfen/Box_8F9433F5] ([1] browsable assets)...
+[2026.10.13-15.17.41:459][104]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/newlevel/_GENERATED/anfen/Box_8F9433F5.Box_8F9433F5]
+[2026.10.13-15.17.41:459][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/_GENERATED/anfen/Box_8F9433F5]
+[2026.10.13-15.17.41:465][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/_GENERATED/anfen/Box_8F9433F5_Auto3
+[2026.10.13-15.17.41:466][104]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Box_8F9433F5_Auto379762FBB40F2D18B90673E9695CD9BEA.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/_GENERATED/anfen/Box_8F9433F5_Auto3.uasset'
+[2026.10.13-15.17.41:467][104]LogFileHelpers: Auto-saving content packages took 0.929
+[2026.10.13-15.19.00:849][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6205.096680
+[2026.10.13-15.19.01:850][347]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-15.19.01:851][347]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6205.762207, Update Interval: 321.742615
+[2026.10.13-15.25.10:633][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6574.881348
+[2026.10.13-15.25.11:631][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-15.25.11:631][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6575.545410, Update Interval: 336.219360
+[2026.10.13-15.31.41:332][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6965.576172
+[2026.10.13-15.31.42:332][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-15.31.42:332][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6966.241699, Update Interval: 308.487183
+[2026.10.13-15.37.43:153][ 46]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.148 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16995 files in 17106 folders with total size 332 MiB.
+[2026.10.13-15.37.48:007][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7332.246582
+[2026.10.13-15.37.49:007][ 63]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-15.37.49:008][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7332.913086, Update Interval: 354.492004
+[2026.10.13-15.44.18:696][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7722.934082
+[2026.10.13-15.44.19:697][236]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-15.44.19:697][236]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7723.600098, Update Interval: 348.473145
+[2026.10.13-15.51.01:381][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8125.609863
+[2026.10.13-15.51.02:381][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-15.51.02:382][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8126.279785, Update Interval: 350.242004
+[2026.10.13-15.54.11:227][406]LogSlate: Window 'Batch Renamer' being destroyed
+[2026.10.13-15.55.06:037][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.10.13-15.55.06:044][639]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.13-15.55.06:044][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.13-15.55.06:083][639]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto4
+[2026.10.13-15.55.06:083][639]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto4C99D11ED4DAE8D8C41DF26B7A6BB131A.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto4.umap'
+[2026.10.13-15.55.06:087][639]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.125
+[2026.10.13-15.55.06:087][639]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.125
+[2026.10.13-15.57.43:904][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8528.138672
+[2026.10.13-15.57.44:905][116]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-15.57.44:905][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8528.806641, Update Interval: 358.040710
+[2026.10.13-16.04.39:948][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8944.176758
+[2026.10.13-16.04.40:947][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-16.04.40:947][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8944.843750, Update Interval: 310.289001
+[2026.10.13-16.10.34:298][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9298.531250
+[2026.10.13-16.10.35:298][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-16.10.35:298][428]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9299.198242, Update Interval: 336.283447
+[2026.10.13-16.17.03:637][592]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9687.875000
+[2026.10.13-16.17.04:638][595]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-16.17.04:638][595]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9688.540039, Update Interval: 325.919373
+[2026.10.13-16.23.07:088][820]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10051.338867
+[2026.10.13-16.23.08:088][823]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-16.23.08:089][823]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10052.005859, Update Interval: 319.678955
+[2026.10.13-16.23.21:859][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.10.13-16.23.21:863][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.13-16.23.21:864][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.13-16.23.21:889][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto5
+[2026.10.13-16.23.21:890][864]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto557835DC04C635FA83CD90EB6280D5932.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto5.umap'
+[2026.10.13-16.23.21:893][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.087
+[2026.10.13-16.23.21:893][864]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.087
+[2026.10.13-16.24.24:068][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.13-16.24.24:130][155]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.13-16.24.24:130][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.13-16.24.24:130][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.13-16.24.24:216][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.10.13-16.24.24:239][155]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.13-16.24.24:240][155]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor184AFDC254E1411D444010DA8F923C573.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.13-16.24.24:272][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 204.192 ms (total: 1.70 sec)
+[2026.10.13-16.24.24:331][155]LogContentValidation: Enabled validators:
+[2026.10.13-16.24.24:331][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.13-16.24.24:331][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.13-16.24.24:331][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.13-16.24.24:332][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.13-16.24.24:332][155]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.13-16.24.24:332][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.13-16.24.24:332][155]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.13-16.24.24:332][155]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.13-16.24.24:332][155]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.13-16.24.24:332][155]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.13-16.24.24:332][155]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.13-16.24.24:332][155]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.13-16.24.24:332][155]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.13-16.24.24:332][155]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.13-16.24.24:332][155]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.13-16.24.24:332][155]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.13-16.24.24:332][155]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.13-16.24.24:332][155]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.13-16.24.24:332][155]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.13-16.24.24:332][155]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.13-16.24.24:332][155]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.13-16.24.24:332][155]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
