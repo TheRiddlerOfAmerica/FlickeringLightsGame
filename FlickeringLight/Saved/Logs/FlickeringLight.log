@@ -2181,3 +2181,109 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.13-13.36.01:311][379]LogD3D12RHI: Waited for PSO creation for 100.000000ms
 [2026.10.13-13.36.01:311][379]LogD3D12RHI: Waited for PSO creation for 100.000000ms
 [2026.10.13-13.36.01:311][379]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.10.13-13.37.42:910][826]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.906 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16983 files in 17084 folders with total size 332 MiB.
+[2026.10.13-13.38.44:779][ 54]LogShaderCompilers: Display: ================================================
+[2026.10.13-13.38.44:779][ 54]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.13-13.38.44:779][ 54]LogShaderCompilers: Display: Total job queries 317, among them cache hits 12 (3.79%), DDC hits 273 (86.12%), Duplicates 23 (7.26%)
+[2026.10.13-13.38.44:779][ 54]LogShaderCompilers: Display: Tracking 282 distinct input hashes that result in 211 distinct outputs (74.82%)
+[2026.10.13-13.38.44:779][ 54]LogShaderCompilers: Display: RAM used: 2.97 MiB of 1.60 GiB budget. Usage: 0.18%
+[2026.10.13-13.38.44:779][ 54]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.13-13.38.44:779][ 54]LogShaderCompilers: Display: Shaders Compiled: 9
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Time job spent in pending queue: average 0.30 s, longest 1.85 s
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Job execution time: average 1.96 s, max 2.65 s
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Job life time (pending + execution): average 2.26 s, max 3.18
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Shader code size: total 71.074 KiB, numShaders 9, average 7.896 KiB, min 4.387 KiB, max 10.852 KiB
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.28 s
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Average processing rate: 2.75 jobs/sec
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Total thread time: 6.515 s
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Total thread preprocess time: 17.757 s
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Percentage time preprocessing: 272.56%
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Effective parallelization: 1.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.248632
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.31 sec, max 1.31 sec, min 1.30 sec)
+[2026.10.13-13.38.44:780][ 54]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.47 sec, max 0.48 sec, min 0.47 sec)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.39 sec, max 0.40 sec, min 0.39 sec)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 60.15% of total time (compiled    3 times, average 1.31 sec, max 1.31 sec, min 1.30 sec)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.80% of total time (compiled    3 times, average 0.47 sec, max 0.48 sec, min 0.47 sec)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display:                                                 FLumenCardPS - 18.05% of total time (compiled    3 times, average 0.39 sec, max 0.40 sec, min 0.39 sec)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display: === Material stats ===
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display: Materials Translated:    155
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display: Material Translation Only: 0.11 s (42%)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display: Material Cache Hits: 29 (19%)
+[2026.10.13-13.38.44:781][ 54]LogShaderCompilers: Display: ================================================
+[2026.10.13-13.40.43:556][825]LogStreaming: Display: FlushAsyncLoading(366): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.13-13.40.44:087][825]LogStreaming: Display: FlushAsyncLoading(377): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.13-13.40.49:063][990]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.41.03:055][450]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 327.322174
+[2026.10.13-13.41.03:255][455]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-13.41.03:255][455]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 327.510376, Update Interval: 303.949707
+[2026.10.13-13.41.19:829][961]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.41.28:229][210]Cmd: TRANSACTION UNDO
+[2026.10.13-13.41.28:229][210]LogEditorTransaction: Undo Transform
+[2026.10.13-13.41.30:042][254]Cmd: TRANSACTION UNDO
+[2026.10.13-13.41.30:042][254]LogEditorTransaction: Undo Transform
+[2026.10.13-13.41.31:910][307]Cmd: TRANSACTION UNDO
+[2026.10.13-13.41.31:910][307]LogEditorTransaction: Undo Activate Tool
+[2026.10.13-13.41.33:381][360]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.41.57:766][ 95]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.42.32:285][ 59]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.42.55:158][723]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.43.17:248][448]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.43.58:621][701]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.44.14:461][183]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.44.47:352][132]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.44.58:833][443]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.10.13-13.44.58:835][443]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.10.13-13.45.00:413][477]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.10.13-13.45.06:929][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/newlevel/_GENERATED/anfen/Box_15023D96.Box_15023D96
+[2026.10.13-13.45.06:931][645]LogStaticMesh: Display: Building static mesh Box_15023D96 (Required Memory Estimate: 0.027891 MB)...
+[2026.10.13-13.45.06:933][645]LogActorFactory: Actor Factory spawned StaticMesh /Game/newlevel/_GENERATED/anfen/Box_15023D96.Box_15023D96 as actor: StaticMeshActor /Game/newlevel/floor1.floor1:PersistentLevel.StaticMeshActor_9
+[2026.10.13-13.45.06:935][645]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/_GENERATED/anfen/Box_15023D96.Box_15023D96
+[2026.10.13-13.45.07:237][645]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.13-13.45.50:295][804]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.13-13.45.50:978][818]LogModuleManager: InternalLoadLibrary: 'HierarchicalLODUtilities' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-HierarchicalLODUtilities.dll')
+[2026.10.13-13.46.02:364][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.13-13.46.02:424][106]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.13-13.46.02:426][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.13-13.46.02:426][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.13-13.46.02:577][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.10.13-13.46.02:614][106]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.13-13.46.02:615][106]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor193C350EE4BA33B8263BEA6A7DB6D2DC4.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.13-13.46.02:694][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 329.474 ms
+[2026.10.13-13.46.02:759][106]LogContentValidation: Enabled validators:
+[2026.10.13-13.46.02:759][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.13-13.46.02:759][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.13-13.46.02:759][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.13-13.46.02:759][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.13-13.46.02:759][106]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.13-13.46.02:759][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.13-13.46.02:759][106]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.13-13.46.02:759][106]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.13-13.46.02:759][106]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.13-13.46.02:759][106]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.13-13.46.02:759][106]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.13-13.46.02:760][106]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.13-13.46.02:760][106]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.13-13.46.02:760][106]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.13-13.46.02:760][106]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.13-13.46.02:760][106]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.13-13.46.02:760][106]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.13-13.46.02:760][106]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.13-13.46.02:760][106]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.13-13.46.02:760][106]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.13-13.46.02:760][106]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.13-13.46.02:761][106]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.13-13.46.09:558][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 633.824097
+[2026.10.13-13.46.10:557][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.13-13.46.10:557][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 634.489197, Update Interval: 321.947693
