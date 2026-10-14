@@ -2341,3 +2341,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.14-22.20.56:619][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 346.399750
 [2026.10.14-22.20.56:843][556]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.14-22.20.56:843][556]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.583618, Update Interval: 326.184875
+[2026.10.14-22.23.55:252][579]LogSlate: Window 'Editor Diagnostics' being destroyed
+[2026.10.14-22.23.55:278][579]LogSlate: Window 'Editor Diagnostics' being destroyed
