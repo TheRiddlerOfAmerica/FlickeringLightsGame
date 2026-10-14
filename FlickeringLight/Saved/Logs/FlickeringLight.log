@@ -2801,3 +2801,69 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.14-15.59.04:380][ 36]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.14-15.59.04:380][ 36]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.14-15.59.04:380][ 36]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.14-16.02.32:829][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1714.610962
+[2026.10.14-16.02.33:829][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.14-16.02.33:829][662]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1715.276123, Update Interval: 304.445923
+[2026.10.14-16.05.07:420][ 70]LogStreaming: Display: FlushAsyncLoading(380): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.14-16.05.07:589][ 71]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickupable_Items/Bucket.Bucket_C
+[2026.10.14-16.05.07:589][ 71]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickupable_Items/Bucket.Bucket_C
+[2026.10.14-16.05.07:590][ 71]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickupable_Items/Bucket.Bucket as actor: Bucket_C /Game/newlevel/floor1.floor1:PersistentLevel.Bucket_C_0
+[2026.10.14-16.05.07:591][ 71]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickupable_Items/Bucket.Bucket as actor: Bucket_C /Game/newlevel/floor1.floor1:PersistentLevel.Bucket_C_0
+[2026.10.14-16.05.07:602][ 72]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.14-16.05.08:171][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.10.14-16.05.08:176][ 90]LogEditorActor: Deleted 0 Actors (0.076 secs)
+[2026.10.14-16.05.08:182][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickupable_Items/Bucket.Bucket_C
+[2026.10.14-16.05.08:184][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickupable_Items/Bucket.Bucket_C
+[2026.10.14-16.05.08:186][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickupable_Items/Bucket.Bucket as actor: Bucket_C /Game/newlevel/floor1.floor1:PersistentLevel.Bucket_C_1
+[2026.10.14-16.05.08:187][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickupable_Items/Bucket.Bucket as actor: Bucket_C /Game/newlevel/floor1.floor1:PersistentLevel.Bucket_C_1
+[2026.10.14-16.05.18:089][386]Cmd: DELETE
+[2026.10.14-16.05.18:089][386]Cmd: ACTOR DELETE
+[2026.10.14-16.05.18:093][386]LogEditorActor: Deleted Actor: Bucket_C
+[2026.10.14-16.05.18:133][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.10.14-16.05.18:135][386]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2026.10.14-16.05.21:100][477]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickupable_Items/Base_Pickup.Base_Pickup_C
+[2026.10.14-16.05.21:100][477]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickupable_Items/Base_Pickup.Base_Pickup_C
+[2026.10.14-16.05.21:100][477]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickupable_Items/Base_Pickup.Base_Pickup as actor: Base_Pickup_C /Game/newlevel/floor1.floor1:PersistentLevel.Base_Pickup_C_0
+[2026.10.14-16.05.21:102][477]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickupable_Items/Base_Pickup.Base_Pickup as actor: Base_Pickup_C /Game/newlevel/floor1.floor1:PersistentLevel.Base_Pickup_C_0
+[2026.10.14-16.05.22:038][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.14-16.05.22:040][507]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.10.14-16.05.22:048][507]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickupable_Items/Base_Pickup.Base_Pickup_C
+[2026.10.14-16.05.22:048][507]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickupable_Items/Base_Pickup.Base_Pickup_C
+[2026.10.14-16.05.22:049][507]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickupable_Items/Base_Pickup.Base_Pickup as actor: Base_Pickup_C /Game/newlevel/floor1.floor1:PersistentLevel.Base_Pickup_C_1
+[2026.10.14-16.05.22:050][507]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickupable_Items/Base_Pickup.Base_Pickup as actor: Base_Pickup_C /Game/newlevel/floor1.floor1:PersistentLevel.Base_Pickup_C_1
+[2026.10.14-16.05.29:658][762]Cmd: DELETE
+[2026.10.14-16.05.29:658][762]Cmd: ACTOR DELETE
+[2026.10.14-16.05.29:660][762]LogEditorActor: Deleted Actor: Base_Pickup_C
+[2026.10.14-16.05.29:691][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.10.14-16.05.29:693][762]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.10.14-16.05.32:020][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.14-16.05.32:081][842]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.14-16.05.32:082][842]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.14-16.05.32:082][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.14-16.05.32:167][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.14-16.05.32:199][842]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.14-16.05.32:200][842]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor182530E8643942E5B4DA60F915851B7F3.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.14-16.05.32:239][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 218.941 ms (total: 1.69 sec)
+[2026.10.14-16.05.32:303][842]LogContentValidation: Enabled validators:
+[2026.10.14-16.05.32:303][842]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.14-16.05.32:303][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.14-16.05.32:303][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.14-16.05.32:303][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.14-16.05.32:303][842]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.14-16.05.32:303][842]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.14-16.05.32:303][842]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.14-16.05.32:303][842]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.14-16.05.32:303][842]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.14-16.05.32:303][842]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.14-16.05.32:303][842]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.14-16.05.32:303][842]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.14-16.05.32:303][842]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.14-16.05.32:303][842]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.14-16.05.32:303][842]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.14-16.05.32:303][842]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.14-16.05.32:303][842]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.14-16.05.32:303][842]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.14-16.05.32:304][842]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.14-16.05.32:304][842]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.14-16.05.32:304][842]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.14-16.05.32:304][842]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
