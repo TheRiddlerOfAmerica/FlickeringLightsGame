@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/water.uasset",
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/Pickupable_Items/Julie.uasset",
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/RiddlersTestCorner/TestMap.umap",
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/Pickupable_Items/Base_Pickup.uasset",
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/Pickupable_Items/Bucket.uasset",
+				"C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap",
 				"C:/Users/Curtis/Documents/Unreal Projects/FlickeringLight/Content/RiddlersTestCorner/TestMap.umap"
 			]
 		}
