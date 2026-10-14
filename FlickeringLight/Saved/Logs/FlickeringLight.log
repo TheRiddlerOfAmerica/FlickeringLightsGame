@@ -2343,3 +2343,125 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.14-22.20.56:843][556]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 346.583618, Update Interval: 326.184875
 [2026.10.14-22.23.55:252][579]LogSlate: Window 'Editor Diagnostics' being destroyed
 [2026.10.14-22.23.55:278][579]LogSlate: Window 'Editor Diagnostics' being destroyed
+<<<<<<< Updated upstream
+=======
+[2026.10.14-22.26.26:303][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 676.086548
+[2026.10.14-22.26.27:303][285]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.14-22.26.27:305][285]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 676.753723, Update Interval: 350.397644
+[2026.10.14-22.28.56:608][805]LogInterchangeEngine: [Pending] Importing
+[2026.10.14-22.28.56:667][805]LogInterchangeImport: JPEG file [C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/Widgets/Game_Widgets/SupportWidgets/Support_TacticalCatImage.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.10.14-22.28.56:721][805]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.10.14-22.28.56:722][805]LogInterchangeEngine: [Success] Import Done
+[2026.10.14-22.28.56:896][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.14-22.28.57:188][806]LogFileHelpers: Saving Package: /Game/Widgets/Game_Widgets/SupportWidgets/Support_TacticalCatImage
+[2026.10.14-22.28.57:188][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/Game_Widgets/SupportWidgets/Support_TacticalCatImage] ([1] browsable assets)...
+[2026.10.14-22.28.57:207][806]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Widgets/Game_Widgets/SupportWidgets/Support_TacticalCatImage.Support_TacticalCatImage]
+[2026.10.14-22.28.57:207][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Game_Widgets/SupportWidgets/Support_TacticalCatImage]
+[2026.10.14-22.28.57:214][806]LogSavePackage: Moving output files for package: /Game/Widgets/Game_Widgets/SupportWidgets/Support_TacticalCatImage
+[2026.10.14-22.28.57:215][806]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Support_TacticalCatImage47A1A34E49F973A2C2D362AE3D3E7612.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/Widgets/Game_Widgets/SupportWidgets/Support_TacticalCatImage.uasset'
+[2026.10.14-22.28.57:233][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 336.083 ms (total: 2.24 sec)
+[2026.10.14-22.28.57:260][806]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.14-22.28.57:349][807]LogContentValidation: Enabled validators:
+[2026.10.14-22.28.57:349][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.14-22.28.57:349][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.14-22.28.57:349][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.14-22.28.57:349][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.14-22.28.57:349][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.14-22.28.57:349][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.14-22.28.57:349][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.14-22.28.57:349][807]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.14-22.28.57:349][807]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.14-22.28.57:349][807]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.14-22.28.57:349][807]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.14-22.28.57:349][807]AssetCheck: /Game/Widgets/Game_Widgets/SupportWidgets/Support_TacticalCatImage Validating asset
+[2026.10.14-22.28.57:350][807]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.14-22.28.57:350][807]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.14-22.28.57:350][807]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.14-22.28.57:350][807]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.14-22.28.57:350][807]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.14-22.28.57:350][807]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.14-22.28.57:350][807]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.14-22.28.57:350][807]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.14-22.28.57:350][807]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.14-22.28.57:350][807]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.14-22.29.00:242][913]AssetReimport: Reimported asset Support_TacticalCatImage from C:/Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/Widgets/Game_Widgets/SupportWidgets/Support_TacticalCatImage.jpg.
+[2026.10.14-22.32.23:580][549]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1033.363037
+[2026.10.14-22.32.24:580][552]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.14-22.32.24:580][552]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1034.028442, Update Interval: 309.640808
+[2026.10.14-22.37.42:250][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1352.030884
+[2026.10.14-22.37.43:250][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.14-22.37.43:250][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1352.697510, Update Interval: 358.210999
+[2026.10.14-22.43.42:366][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.10.14-22.43.42:456][643]LogStall: Shutdown...
+[2026.10.14-22.43.42:461][643]LogStall: Shutdown complete.
+[2026.10.14-22.43.42:483][643]LogSlate: Window 'FlickeringLight - Unreal Editor' being destroyed
+[2026.10.14-22.43.42:569][643]Cmd: QUIT_EDITOR
+[2026.10.14-22.43.42:569][644]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.14-22.43.42:584][644]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.14-22.43.42:586][644]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.14-22.43.42:586][644]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.14-22.43.42:592][644]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.14-22.43.42:592][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.14-22.43.42:592][644]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.10.14-22.43.42:616][644]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.14-22.43.42:657][644]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.14-22.43.42:663][644]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.14-22.43.42:663][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.14-22.43.42:664][644]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.14-22.43.42:664][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.14-22.43.42:664][644]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.14-22.43.42:664][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.14-22.43.42:670][644]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.14-22.43.42:672][644]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.14-22.43.42:674][644]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.10.14-22.43.42:674][644]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.14-22.43.42:674][644]LogAudio: Display: Audio Device unregistered from world 'TestMap'.
+[2026.10.14-22.43.42:674][644]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.14-22.43.42:675][644]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.10.14-22.43.42:684][644]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.14-22.43.42:742][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.14-22.43.42:742][644]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.14-22.43.42:775][644]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.10.14-22.43.42:782][644]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.14-22.43.42:782][644]LogExit: Preparing to exit.
+[2026.10.14-22.43.42:967][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.10.14-22.43.43:277][644]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.10.14-22.43.43:277][644]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 0 total binaries, 0 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.10.14-22.43.43:281][644]LogEditorDataStorage: Deinitializing
+[2026.10.14-22.43.43:282][644]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.10.14-22.43.43:282][644]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.10.14-22.43.43:282][644]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.10.14-22.43.43:282][644]LogEditorDataStorage: Resetting TEDS Core.
+[2026.10.14-22.43.43:285][644]LogEditorDataStorage: Reset TEDS Core.
+[2026.10.14-22.43.43:285][644]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.10.14-22.43.43:382][644]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.14-22.43.43:403][644]LogExit: Editor shut down
+[2026.10.14-22.43.43:407][644]LogExit: Transaction tracking system shut down
+[2026.10.14-22.43.43:449][644]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.14-22.43.43:449][644]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.14-22.43.43:457][644]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.14-22.43.43:457][644]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.14-22.43.43:544][644]LogExit: Object subsystem successfully closed.
+[2026.10.14-22.43.43:580][644]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.10.14-22.43.43:704][644]LogObjectProfiler: Shutdown
+[2026.10.14-22.43.43:704][644]LogMemoryProfiler: Shutdown
+[2026.10.14-22.43.43:704][644]LogNetworkingProfiler: Shutdown
+[2026.10.14-22.43.43:704][644]LogLoadingProfiler: Shutdown
+[2026.10.14-22.43.43:704][644]LogTimingProfiler: Shutdown
+[2026.10.14-22.43.43:705][644]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.10.14-22.43.43:705][644]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.10.14-22.43.43:705][644]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.10.14-22.43.43:705][644]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.10.14-22.43.43:705][644]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.10.14-22.43.44:058][644]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.10.14-22.43.44:077][644]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.10.14-22.43.44:077][644]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6E48141-4F1E-D74C-573D-7EA38877F1A9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.3-58210709%2B%2B%2BUE5%2BRelease-5.8&UserID=67f3b8e54f6f7f1ce38bde89af3fa053%7Cbec30e92b5724e0ea2ca186871e76633%7C582ae761-6942-404a-a96c-7ac8eb13952d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.10.14-22.43.44:659][644]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.10.14-22.43.44:659][644]LogNFORDenoise: NFORDenoise function shutting down
+[2026.10.14-22.43.44:659][644]RenderDocPlugin: plugin has been unloaded.
+[2026.10.14-22.43.44:659][644]LogXGEController: Cleaning working directory: C:/Users/anfen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.10.14-22.43.44:662][644]LogPakFile: Destroying PakPlatformFile
+[2026.10.14-22.43.45:234][644]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.10.14-22.43.45:304][644]LogExit: Exiting.
+[2026.10.14-22.43.45:337][644]Log file closed, 10/14/26 18:43:45
+>>>>>>> Stashed changes
