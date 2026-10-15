@@ -31046,3 +31046,40 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.15-02.00.38:117][395]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto52C9D591F41D745EA517C78A5C20E7BB7.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto5.umap'
 [2026.10.15-02.00.38:122][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.123
 [2026.10.15-02.00.38:122][395]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2026.10.15-02.05.36:579][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8750.706055
+[2026.10.15-02.05.37:578][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.15-02.05.37:578][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8751.372070, Update Interval: 343.613403
+[2026.10.15-02.12.12:250][ 69]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9146.380859
+[2026.10.15-02.12.13:248][ 72]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.15-02.12.13:248][ 72]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9147.046875, Update Interval: 320.585358
+[2026.10.15-02.13.59:764][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.15-02.13.59:827][438]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.15-02.13.59:827][438]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.15-02.13.59:828][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.15-02.13.59:908][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.10.15-02.13.59:953][438]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.15-02.13.59:954][438]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1DEF151DB41DCA49FD16F04A96A28B45E.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.15-02.14.00:010][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 246.005 ms (total: 4.11 sec)
+[2026.10.15-02.14.00:079][438]LogContentValidation: Enabled validators:
+[2026.10.15-02.14.00:079][438]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.15-02.14.00:079][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.15-02.14.00:079][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.15-02.14.00:079][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.15-02.14.00:079][438]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.15-02.14.00:079][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.15-02.14.00:079][438]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.15-02.14.00:079][438]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.15-02.14.00:079][438]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.15-02.14.00:079][438]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.15-02.14.00:079][438]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.15-02.14.00:080][438]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.15-02.14.00:080][438]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.15-02.14.00:080][438]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.15-02.14.00:080][438]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.15-02.14.00:080][438]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.15-02.14.00:080][438]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.15-02.14.00:080][438]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.15-02.14.00:080][438]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.15-02.14.00:080][438]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.15-02.14.00:080][438]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.15-02.14.00:080][438]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
