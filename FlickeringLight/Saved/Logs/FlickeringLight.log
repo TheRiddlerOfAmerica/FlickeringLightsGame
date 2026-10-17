@@ -32227,3 +32227,513 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.17-22.42.44:638][ 75]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
 [2026.10.17-22.42.44:650][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
 [2026.10.17-22.42.44:722][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.10.17-22.44.04:626][913]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/ToonProfile_16.svg'. File could not be found
+[2026.10.17-22.44.04:626][913]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2026.10.17-22.47.38:159][144]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11458.731445
+[2026.10.17-22.47.39:158][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-22.47.39:158][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11459.400391, Update Interval: 304.204224
+[2026.10.17-22.53.29:831][199]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11810.391602
+[2026.10.17-22.53.30:829][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-22.53.30:829][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11811.056641, Update Interval: 334.391907
+[2026.10.17-22.59.36:838][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12177.399414
+[2026.10.17-22.59.37:837][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-22.59.37:837][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12178.065430, Update Interval: 308.386475
+[2026.10.17-23.05.46:177][408]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12546.750977
+[2026.10.17-23.05.47:176][411]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-23.05.47:176][411]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12547.417969, Update Interval: 311.098358
+[2026.10.17-23.11.51:855][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12912.445312
+[2026.10.17-23.11.52:856][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-23.11.52:856][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12913.111328, Update Interval: 329.004791
+[2026.10.17-23.16.28:487][ 77]LogContentBrowser: Deferred new asset file creation: NewWaterWavesAsset
+[2026.10.17-23.16.28:502][ 77]LogContentBrowser: Creating deferred item: NewWaterWavesAsset
+[2026.10.17-23.16.28:546][ 78]LogContentBrowser: Renaming the item being created (Deferred Item: NewWaterWavesAsset).
+[2026.10.17-23.16.30:105][127]LogContentBrowser: Attempting asset rename: NewWaterWavesAsset -> NewWaterWavesAsset
+[2026.10.17-23.16.30:117][127]LogContentBrowser: End creating deferred item NewWaterWavesAsset
+[2026.10.17-23.16.30:140][127]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.10.17-23.16.30:149][127]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' with subface index 0 in Game thread.
+[2026.10.17-23.16.30:150][127]LogSlate: Display: Took 0.006613 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K) on Game thread.
+[2026.10.17-23.16.30:150][127]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' subface 0 in Game thread.
+[2026.10.17-23.16.30:150][127]LogSlate: Display: Font face '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.17-23.16.56:876][906]Cmd: TRANSACTION UNDO
+[2026.10.17-23.16.56:877][906]LogEditorTransaction: Undo Transform
+[2026.10.17-23.17.23:086][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2026.10.17-23.17.23:095][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.17-23.17.23:095][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.17-23.17.23:141][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto3
+[2026.10.17-23.17.23:142][ 18]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto34267E1B5422DD1886DBC91BD91E1830D.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto3.umap'
+[2026.10.17-23.17.23:148][ 18]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.207
+[2026.10.17-23.17.23:148][ 18]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.207
+[2026.10.17-23.17.23:149][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewWaterWavesAsset] ([1] browsable assets)...
+[2026.10.17-23.17.23:149][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewWaterWavesAsset]
+[2026.10.17-23.17.23:154][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewWaterWavesAsset_Auto3
+[2026.10.17-23.17.23:154][ 18]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/NewWaterWavesAsset_Auto35A4D1A144921AF21FF42D084A5FBD148.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/NewWaterWavesAsset_Auto3.uasset'
+[2026.10.17-23.17.23:155][ 18]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.10.17-23.18.12:045][186]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13292.650391
+[2026.10.17-23.18.12:172][190]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-23.18.12:172][190]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13292.739258, Update Interval: 336.318237
+[2026.10.17-23.18.15:096][266]Cmd: TRANSACTION UNDO
+[2026.10.17-23.18.15:096][266]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2026.10.17-23.18.22:461][442]LogAssetEditorSubsystem: Opening Asset editor for WaterWavesAsset /Game/NewWaterWavesAsset.NewWaterWavesAsset
+[2026.10.17-23.18.22:665][442]LogStreaming: Display: FlushAsyncLoading(619): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.17-23.18.22:854][442]LogTexture: Display: Building texture TwoD: /Water/Icons/WaterBodyCustomSprite.WaterBodyCustomSprite (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2026.10.17-23.18.22:990][442]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.14.dll
+[2026.10.17-23.18.23:013][442]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2026.10.17-23.18.23:016][442]LogTexture: Display: Building texture TwoD: /Water/Textures/BlackVT4x4.BlackVT4x4 (TFO_AutoDXT VT, 32x32 x1x1x1) (Required Memory Estimate: 2.197743 MB), EncodeSpeed: Fast
+[2026.10.17-23.18.23:052][442]LogTexture: Display: Building texture TwoD: /Water/Textures/Black.Black (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2026.10.17-23.18.23:053][442]LogTexture: Display: Building texture Array: /Water/Textures/BlackTexture2DArray.BlackTexture2DArray (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.116508 MB), EncodeSpeed: Fast
+[2026.10.17-23.18.23:058][442]LogTexture: Display: Building texture TwoD: /Water/Textures/Flowmaps/RiverFlowmap_Diffuse.RiverFlowmap_Diffuse (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.10.17-23.18.23:059][442]LogTexture: Display: Building texture TwoD: /Water/Textures/Flowmaps/RiverFlowmap_Normal.RiverFlowmap_Normal (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2026.10.17-23.18.23:136][442]LogStaticMesh: Display: Building static mesh S_WaterPlane_256 (Required Memory Estimate: 12.085257 MB)...
+[2026.10.17-23.18.23:143][442]LogTexture: Display: Building texture TwoD: /Water/Textures/Normals/T_Water_TilingNormal_With_Height_02_Softened.T_Water_TilingNormal_With_Height_02_Softened (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2026.10.17-23.18.23:298][442]LogTexture: Display: Building texture TwoD: /Water/Textures/Foam/T_WaterFlow_01_Foam_Tiled.T_WaterFlow_01_Foam_Tiled (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.10.17-23.18.23:311][442]LogTexture: Display: Building texture TwoD: /Water/Textures/Foam/T_WaterFlow_01_Foam_Tiled_N.T_WaterFlow_01_Foam_Tiled_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.10.17-23.18.23:549][442]LogStaticMesh: Built static mesh [0.41s] /Water/Meshes/S_WaterPlane_256.S_WaterPlane_256
+[2026.10.17-23.18.24:814][443]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.17-23.18.29:869][506]LogPSOHitching: Encountered 50 PSO creation hitches so far (20 graphics, 30 compute). 0 of them were precached.
+[2026.10.17-23.18.36:301][603]LogSlate: Window 'NewWaterWavesAsset' being destroyed
+[2026.10.17-23.18.36:409][603]LogSlate: Window 'NewWaterWavesAsset' being destroyed
+[2026.10.17-23.18.36:454][603]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-23.18.36:454][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-23.18.36:558][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2026.10.17-23.18.43:552][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2026.10.17-23.18.45:503][795]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.17-23.18.45:611][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2026.10.17-23.18.45:664][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.10.17-23.18.45:717][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.10.17-23.18.51:551][932]LogShaderCompilers: Display: ================================================
+[2026.10.17-23.18.51:551][932]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.17-23.18.51:551][932]LogShaderCompilers: Display: Total job queries 422, among them cache hits 56 (13.27%), DDC hits 328 (77.73%), Duplicates 26 (6.16%)
+[2026.10.17-23.18.51:551][932]LogShaderCompilers: Display: Tracking 340 distinct input hashes that result in 260 distinct outputs (76.47%)
+[2026.10.17-23.18.51:551][932]LogShaderCompilers: Display: RAM used: 3.35 MiB of 1.60 GiB budget. Usage: 0.20%
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Shaders Compiled: 12
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 0.43 s
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Job execution time: average 2.83 s, max 5.62 s
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Job life time (pending + execution): average 3.00 s, max 5.71
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Shader code size: total 154.074 KiB, numShaders 14, average 11.005 KiB, min 3.074 KiB, max 31.781 KiB
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.89 s
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Average processing rate: 2.04 jobs/sec
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Total thread time: 19.358 s
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Total thread preprocess time: 14.125 s
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Percentage time preprocessing: 72.96%
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Effective parallelization: 3.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.411050
+[2026.10.17-23.18.51:552][932]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 3.90 sec, max 3.90 sec, min 3.90 sec)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 3.57 sec, max 3.57 sec, min 3.57 sec)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> (compiled    2 times, average 1.82 sec, max 2.20 sec, min 1.44 sec)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display:            TVelocityVS<EVelocityPassMode::Velocity_Standard> (compiled    2 times, average 0.91 sec, max 1.09 sec, min 0.74 sec)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 20.16% of total time (compiled    1 times, average 3.90 sec, max 3.90 sec, min 3.90 sec)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> - 18.78% of total time (compiled    2 times, average 1.82 sec, max 2.20 sec, min 1.44 sec)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.44% of total time (compiled    1 times, average 3.57 sec, max 3.57 sec, min 3.57 sec)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display:            TVelocityVS<EVelocityPassMode::Velocity_Standard> - 9.42% of total time (compiled    2 times, average 0.91 sec, max 1.09 sec, min 0.74 sec)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display:                                                  FHitProxyPS - 8.13% of total time (compiled    2 times, average 0.79 sec, max 0.99 sec, min 0.59 sec)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display: === Material stats ===
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display: Materials Translated:    169
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display: Material Total Translate Time: 0.29 s
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display: Material Translation Only: 0.17 s (58%)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display: Material Cache Hits: 27 (16%)
+[2026.10.17-23.18.51:553][932]LogShaderCompilers: Display: ================================================
+[2026.10.17-23.19.27:899][282]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.10.17-23.19.27:899][282]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.10.17-23.19.27:912][282]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.17-23.19.27:918][282]LogTexture: Display: Building texture TwoD: /Water/Icons/WaterBodyLakeSprite.WaterBodyLakeSprite (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2026.10.17-23.19.27:934][282]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterZone
+[2026.10.17-23.19.27:940][282]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterZone as actor: WaterZone /Game/newlevel/floor1.floor1:PersistentLevel.WaterZone_0
+[2026.10.17-23.19.27:975][282]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyLake_0
+[2026.10.17-23.19.28:091][282]LogStaticMesh: Display: Building static mesh WaterInfoMesh_0 (Required Memory Estimate: 0.146365 MB)...
+[2026.10.17-23.19.28:091][282]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_0 (Required Memory Estimate: 0.092759 MB)...
+[2026.10.17-23.19.28:093][282]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyLake_0.WaterInfoDilatedMesh_0
+[2026.10.17-23.19.28:093][282]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyLake_0.WaterInfoMesh_0
+[2026.10.17-23.19.28:107][282]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyLake_0
+[2026.10.17-23.19.43:159][605]Cmd: DELETE
+[2026.10.17-23.19.43:160][605]Cmd: ACTOR DELETE
+[2026.10.17-23.19.43:174][605]LogEditorActor: Deleted Actor: WaterBodyLake
+[2026.10.17-23.19.43:260][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2026.10.17-23.19.43:266][605]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2026.10.17-23.19.49:517][725]Cmd: DELETE
+[2026.10.17-23.19.49:517][725]Cmd: ACTOR DELETE
+[2026.10.17-23.19.49:523][725]LogEditorActor: Deleted Actor: WaterZone
+[2026.10.17-23.19.49:586][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.10.17-23.19.49:592][725]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2026.10.17-23.20.07:492][160]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.10.17-23.20.07:492][160]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyLake
+[2026.10.17-23.20.07:512][160]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterZone
+[2026.10.17-23.20.07:516][160]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterZone as actor: WaterZone /Game/newlevel/floor1.floor1:PersistentLevel.WaterZone_1
+[2026.10.17-23.20.07:519][160]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyLake_1
+[2026.10.17-23.20.07:571][160]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyLake as actor: WaterBodyLake /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyLake_1
+[2026.10.17-23.20.23:194][528]Cmd: DELETE
+[2026.10.17-23.20.23:194][528]Cmd: ACTOR DELETE
+[2026.10.17-23.20.25:508][528]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2026.10.17-23.20.25:553][528]Message dialog closed, result: -1, title: Delete Referenced Actor
+[2026.10.17-23.20.25:556][528]LogEditorActor: Deleted Actor: WaterZone
+[2026.10.17-23.20.25:631][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2026.10.17-23.20.25:636][528]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2026.10.17-23.20.30:072][630]Cmd: DELETE
+[2026.10.17-23.20.30:072][630]Cmd: ACTOR DELETE
+[2026.10.17-23.20.30:078][630]LogEditorActor: Deleted Actor: WaterBodyLake
+[2026.10.17-23.20.30:167][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2026.10.17-23.20.30:172][630]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2026.10.17-23.20.38:244][829]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.10.17-23.20.38:244][829]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.10.17-23.20.38:253][829]LogStreaming: Display: FlushAsyncLoading(641): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.17-23.20.38:271][829]LogTexture: Display: Building texture TwoD: /Water/Icons/WaterBodyRiverSprite.WaterBodyRiverSprite (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2026.10.17-23.20.38:310][829]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterZone
+[2026.10.17-23.20.38:315][829]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterZone as actor: WaterZone /Game/newlevel/floor1.floor1:PersistentLevel.WaterZone_2
+[2026.10.17-23.20.38:317][829]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_0
+[2026.10.17-23.20.38:479][829]LogStaticMesh: Display: Building static mesh WaterInfoMesh_0 (Required Memory Estimate: 0.136165 MB)...
+[2026.10.17-23.20.38:479][829]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_0 (Required Memory Estimate: 0.183516 MB)...
+[2026.10.17-23.20.38:480][829]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_0.WaterInfoMesh_0
+[2026.10.17-23.20.38:481][829]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_0.WaterInfoDilatedMesh_0
+[2026.10.17-23.20.38:485][829]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_0
+[2026.10.17-23.20.38:749][829]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/70/52/8096de6aef7692cae8f1a79b38bec3b82087.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_0.WaterInfoDilatedMesh_2'.
+[2026.10.17-23.20.58:238][335]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: ================================================
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: Total job queries 490, among them cache hits 64 (13.06%), DDC hits 328 (66.94%), Duplicates 37 (7.55%)
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: Tracking 389 distinct input hashes that result in 298 distinct outputs (76.61%)
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: RAM used: 3.66 MiB of 1.60 GiB budget. Usage: 0.22%
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: Shaders Compiled: 61
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: Jobs assigned 61, completed 61 (100%)
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: Average time worker was idle: 15.18 s
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: Time job spent in pending queue: average 1.72 s, longest 4.75 s
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: Job execution time: average 1.44 s, max 5.62 s
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: Job life time (pending + execution): average 3.16 s, max 5.85
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: Shader code size: total 602.85 KiB, numShaders 65, average 9.274 KiB, min 3.074 KiB, max 34.965 KiB
+[2026.10.17-23.21.51:555][843]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.43 s
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Jobs were issued in 61 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Average processing rate: 3.95 jobs/sec
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Total thread time: 60.889 s
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Total thread preprocess time: 16.726 s
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Percentage time preprocessing: 27.47%
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Effective parallelization: 3.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.493230
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 3.90 sec, max 3.90 sec, min 3.90 sec)
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 1.60 sec, max 3.57 sec, min 0.44 sec)
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> (compiled    4 times, average 1.54 sec, max 2.20 sec, min 1.22 sec)
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.33 sec, max 1.58 sec, min 1.12 sec)
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    6 times, average 1.22 sec, max 1.75 sec, min 0.94 sec)
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.45% of total time (compiled    7 times, average 1.60 sec, max 3.57 sec, min 0.44 sec)
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.99% of total time (compiled    6 times, average 1.22 sec, max 1.75 sec, min 0.94 sec)
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.63% of total time (compiled    6 times, average 1.18 sec, max 1.57 sec, min 0.86 sec)
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> - 10.10% of total time (compiled    4 times, average 1.54 sec, max 2.20 sec, min 1.22 sec)
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.31% of total time (compiled   10 times, average 0.51 sec, max 0.84 sec, min 0.25 sec)
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: === Material stats ===
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Materials Translated:    178
+[2026.10.17-23.21.51:556][843]LogShaderCompilers: Display: Material Total Translate Time: 0.42 s
+[2026.10.17-23.21.51:557][843]LogShaderCompilers: Display: Material Translation Only: 0.29 s (68%)
+[2026.10.17-23.21.51:557][843]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.17-23.21.51:557][843]LogShaderCompilers: Display: Material Cache Hits: 27 (15%)
+[2026.10.17-23.21.51:557][843]LogShaderCompilers: Display: ================================================
+[2026.10.17-23.22.09:308][377]LogStaticMesh: Display: Building static mesh WaterInfoMesh_9 (Required Memory Estimate: 0.136165 MB)...
+[2026.10.17-23.22.09:312][377]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_0.WaterInfoMesh_9
+[2026.10.17-23.22.20:981][674]LogInteractiveToolsContext: Display: This Tool aligns the Pivots or Bounding Boxes of the input Objects.
+[2026.10.17-23.22.28:041][889]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-23.22.44:324][344]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-23.23.18:363][274]Cmd: DELETE
+[2026.10.17-23.23.18:363][274]Cmd: ACTOR DELETE
+[2026.10.17-23.23.18:376][274]LogEditorActor: Deleted Actor: WaterBodyRiver
+[2026.10.17-23.23.18:534][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2026.10.17-23.23.18:541][274]LogEditorActor: Deleted 1 Actors (0.177 secs)
+[2026.10.17-23.23.23:319][400]Cmd: DELETE
+[2026.10.17-23.23.23:319][400]Cmd: ACTOR DELETE
+[2026.10.17-23.23.23:328][400]LogEditorActor: Deleted Actor: WaterZone
+[2026.10.17-23.23.23:388][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2026.10.17-23.23.23:397][400]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2026.10.17-23.23.37:940][781]Cmd: EDIT CUT
+[2026.10.17-23.23.37:950][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.17-23.23.38:034][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.10.17-23.23.38:039][781]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2026.10.17-23.23.42:369][910]Cmd: TRANSACTION UNDO
+[2026.10.17-23.23.42:369][910]LogEditorTransaction: Undo Cut
+[2026.10.17-23.24.34:211][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13674.841797
+[2026.10.17-23.24.34:946][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-23.24.34:946][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13675.509766, Update Interval: 319.001434
+[2026.10.17-23.24.44:801][708]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.10.17-23.24.44:801][708]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.10.17-23.24.44:809][708]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_1
+[2026.10.17-23.24.44:814][708]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_1
+[2026.10.17-23.24.46:365][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2026.10.17-23.24.46:372][748]LogEditorActor: Deleted 0 Actors (0.086 secs)
+[2026.10.17-23.24.46:381][748]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.10.17-23.24.46:381][748]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterBodyRiver
+[2026.10.17-23.24.46:396][748]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterZone
+[2026.10.17-23.24.46:399][748]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterZone as actor: WaterZone /Game/newlevel/floor1.floor1:PersistentLevel.WaterZone_3
+[2026.10.17-23.24.46:399][748]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2
+[2026.10.17-23.24.46:417][748]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterBodyRiver as actor: WaterBodyRiver /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2
+[2026.10.17-23.25.09:408][353]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.17-23.25.09:445][353]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.17-23.25.09:445][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.17-23.25.09:486][353]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.17-23.25.09:515][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028102s)
+[2026.10.17-23.25.09:515][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.028209s)
+[2026.10.17-23.25.09:573][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2026.10.17-23.25.09:579][353]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.17-23.25.09:582][353]LogPlayLevel: PIE: World Init took: (0.003431s)
+[2026.10.17-23.25.09:582][353]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.10.17-23.25.09:582][353]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.17-23.25.09:582][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.17-23.25.09:583][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.17-23.25.09:583][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.17-23.25.09:583][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.17-23.25.09:583][353]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.17-23.25.09:583][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.17-23.25.09:583][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.17-23.25.09:583][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.17-23.25.09:583][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.17-23.25.09:583][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.17-23.25.09:583][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.17-23.25.09:583][353]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.17-23.25.09:589][353]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.17-23.25.09:590][353]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.17-23.25.09:591][353]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.17-23.25.09:592][353]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.17-23.25.09:593][353]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.17-23.25.09:594][353]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.17-23.25.09:603][353]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.17-23.25.09:604][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.17-23.25.09:604][353]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.17-23.25.09:606][353]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.17-23.25.09:612][353]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.17-23.25.09:613][353]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.17-23.25.09:613][353]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.17-23.25.09:613][353]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.17-23.25.09:613][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.17-23.25.09:613][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.17-23.25.09:613][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.17-23.25.09:614][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.10.17-23.25.09:618][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.10.17-23.25.09:622][353]LogInit: FAudioDevice initialized with ID 23.
+[2026.10.17-23.25.09:623][353]LogAudio: Display: Audio Device (ID: 23) registered with world 'floor1'.
+[2026.10.17-23.25.09:623][353]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.10.17-23.25.09:624][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.17-23.25.09:643][353]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.17-23.25.09:653][353]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.17-19.25.09
+[2026.10.17-23.25.09:654][353]LogWorld: Bringing up level for play took: 0.009604
+[2026.10.17-23.25.09:659][353]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.10.17-23.25.09:661][353]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.17-23.25.09:666][353]PIE: Server logged in
+[2026.10.17-23.25.09:670][353]PIE: Play in editor total start time 0.227 seconds.
+[2026.10.17-23.25.09:840][354]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.17-23.25.23:445][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.17-23.25.23:445][661]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.17-23.25.23:448][661]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-23.25.23:452][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-23.25.23:498][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.17-23.25.23:520][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-23.25.23:598][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.17-23.25.23:599][661]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.10.17-23.25.23:599][661]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=23, StreamState=4
+[2026.10.17-23.25.23:611][661]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.17-23.25.23:626][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.10.17-23.25.23:929][662]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.10.17-23.25.35:358][917]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-23.26.31:082][336]LogStaticMesh: Display: Building static mesh WaterInfoMesh_7 (Required Memory Estimate: 0.136165 MB)...
+[2026.10.17-23.26.31:082][336]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_7 (Required Memory Estimate: 0.183516 MB)...
+[2026.10.17-23.26.31:084][336]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_7
+[2026.10.17-23.26.31:084][336]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_7
+[2026.10.17-23.27.11:517][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.17-23.27.11:569][380]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.17-23.27.11:569][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.17-23.27.11:569][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.17-23.27.11:707][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2026.10.17-23.27.11:783][380]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.17-23.27.11:784][380]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1D5C82E2C49FBA02985B6E9AD09380FE8.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.17-23.27.11:831][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 314.065 ms (total: 5.01 sec)
+[2026.10.17-23.27.11:925][380]LogContentValidation: Enabled validators:
+[2026.10.17-23.27.11:925][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.17-23.27.11:925][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.17-23.27.11:925][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.17-23.27.11:925][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.17-23.27.11:925][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.17-23.27.11:925][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.17-23.27.11:925][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.17-23.27.11:925][380]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.17-23.27.11:925][380]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.17-23.27.11:925][380]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.17-23.27.11:925][380]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.17-23.27.11:926][380]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.17-23.27.11:926][380]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.17-23.27.11:926][380]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.17-23.27.11:926][380]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.17-23.27.11:926][380]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.17-23.27.11:926][380]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.17-23.27.11:926][380]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.17-23.27.11:926][380]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.17-23.27.11:926][380]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.17-23.27.11:926][380]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.17-23.27.11:926][380]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.17-23.27.51:710][812]LogShaderCompilers: Display: ================================================
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Total job queries 498, among them cache hits 64 (12.85%), DDC hits 328 (65.86%), Duplicates 37 (7.43%)
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Tracking 397 distinct input hashes that result in 305 distinct outputs (76.83%)
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: RAM used: 3.76 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Shaders Compiled: 69
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Jobs assigned 69, completed 69 (100%)
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Average time worker was idle: 50.54 s
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Time job spent in pending queue: average 1.53 s, longest 4.75 s
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Job execution time: average 1.63 s, max 6.56 s
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Job life time (pending + execution): average 3.16 s, max 6.61
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Shader code size: total 728.146 KiB, numShaders 74, average 9.839 KiB, min 2.223 KiB, max 37.879 KiB
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.07 s
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Average processing rate: 2.87 jobs/sec
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Total thread time: 80.38 s
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Total thread preprocess time: 17.373 s
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Percentage time preprocessing: 21.61%
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Effective parallelization: 3.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.417444
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.17-23.27.51:711][812]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 4.88 sec, max 5.87 sec, min 3.90 sec)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 2.04 sec, max 5.11 sec, min 0.44 sec)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> (compiled    5 times, average 1.76 sec, max 2.66 sec, min 1.22 sec)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.33 sec, max 1.58 sec, min 1.12 sec)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    6 times, average 1.22 sec, max 1.75 sec, min 0.94 sec)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.33% of total time (compiled    8 times, average 2.04 sec, max 5.11 sec, min 0.44 sec)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.15% of total time (compiled    2 times, average 4.88 sec, max 5.87 sec, min 3.90 sec)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> - 10.97% of total time (compiled    5 times, average 1.76 sec, max 2.66 sec, min 1.22 sec)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.08% of total time (compiled    6 times, average 1.22 sec, max 1.75 sec, min 0.94 sec)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.81% of total time (compiled    6 times, average 1.18 sec, max 1.57 sec, min 0.86 sec)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display: === Material stats ===
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display: Materials Translated:    178
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display: Material Total Translate Time: 0.42 s
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display: Material Translation Only: 0.29 s (68%)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display: Material Cache Hits: 27 (15%)
+[2026.10.17-23.27.51:712][812]LogShaderCompilers: Display: ================================================
+[2026.10.17-23.28.22:033][ 81]LogStaticMesh: Display: Building static mesh WaterInfoMesh_17 (Required Memory Estimate: 0.090449 MB)...
+[2026.10.17-23.28.22:034][ 81]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_17 (Required Memory Estimate: 0.127066 MB)...
+[2026.10.17-23.28.22:041][ 81]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_17
+[2026.10.17-23.28.22:041][ 81]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_17
+[2026.10.17-23.28.22:180][ 82]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/8c/9d/1edae167cfea742dda93e2de2214e47ae774.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_19'.
+[2026.10.17-23.28.22:180][ 82]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/8c/9d/1edae167cfea742dda93e2de2214e47ae774.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_17'.
+[2026.10.17-23.28.22:184][ 83]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/9e/2d/52d72aebff3920aa7b826bbb62f03d119f4b.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_17'.
+[2026.10.17-23.28.22:184][ 83]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/f7/f1/13693c93142d6d856422346ac491e40bda96.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_17'.
+[2026.10.17-23.28.22:185][ 83]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/9e/2d/52d72aebff3920aa7b826bbb62f03d119f4b.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_19'.
+[2026.10.17-23.28.24:220][141]LogStaticMesh: Display: Building static mesh WaterInfoMesh_20 (Required Memory Estimate: 0.085349 MB)...
+[2026.10.17-23.28.24:220][141]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_20 (Required Memory Estimate: 0.12079 MB)...
+[2026.10.17-23.28.24:222][141]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_20
+[2026.10.17-23.28.24:222][141]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_20
+[2026.10.17-23.28.24:348][142]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/05/53/c0d2c088d7b69f5028881ee07e2abcea4f70.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_20'.
+[2026.10.17-23.28.24:349][142]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/80/c0/aed44f47dc05dde7683e5cc9eeaa6954c1e6.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_20'.
+[2026.10.17-23.28.24:352][142]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/12/24/444ca96a95f3d988c52fa3d251ac4d4cc0d1.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_22'.
+[2026.10.17-23.28.24:353][142]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/d6/5f/a64e398338075e06c15873e9d5a174776af4.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_21'.
+[2026.10.17-23.28.26:799][210]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_23 (Required Memory Estimate: 0.12079 MB)...
+[2026.10.17-23.28.26:799][210]LogStaticMesh: Display: Building static mesh WaterInfoMesh_23 (Required Memory Estimate: 0.085349 MB)...
+[2026.10.17-23.28.26:801][210]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_23
+[2026.10.17-23.28.26:801][210]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_23
+[2026.10.17-23.28.26:963][211]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/f0/50/4d6cc4ed3a186e1a290d21d2646bc55735c5.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_25'.
+[2026.10.17-23.28.26:963][211]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/f0/50/4d6cc4ed3a186e1a290d21d2646bc55735c5.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_24'.
+[2026.10.17-23.28.26:965][211]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/df/cd/0018693bf200e931dd2c18fb2d8d70ccb7da.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_23'.
+[2026.10.17-23.28.26:969][212]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/17/61/1436c38ff2a7d0c012dae877d7d5adc91eba.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_23'.
+[2026.10.17-23.28.26:969][212]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/17/61/1436c38ff2a7d0c012dae877d7d5adc91eba.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_24'.
+[2026.10.17-23.28.30:587][313]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_26 (Required Memory Estimate: 0.12079 MB)...
+[2026.10.17-23.28.30:587][313]LogStaticMesh: Display: Building static mesh WaterInfoMesh_26 (Required Memory Estimate: 0.085349 MB)...
+[2026.10.17-23.28.30:590][313]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_26
+[2026.10.17-23.28.30:590][313]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_26
+[2026.10.17-23.28.30:601][313]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/StaticMesh/78/7a/9841d4c81ae13b9ededc7b1d2677955ae9b3.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_27'.
+[2026.10.17-23.28.30:704][314]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/90/36/13daef11a2195ed2bfe4b63e9cfc26c9bb74.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_27'.
+[2026.10.17-23.28.30:704][314]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/19/f7/f0c42210096725b2c8cd1d6408f9c2b045b9.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_28'.
+[2026.10.17-23.28.30:711][315]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/0b/a8/8fafb633fe34a0e812d9ef0247013dc651c4.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_26'.
+[2026.10.17-23.28.30:711][315]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/0b/a8/8fafb633fe34a0e812d9ef0247013dc651c4.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_27'.
+[2026.10.17-23.28.46:447][752]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_29 (Required Memory Estimate: 0.12079 MB)...
+[2026.10.17-23.28.46:447][752]LogStaticMesh: Display: Building static mesh WaterInfoMesh_29 (Required Memory Estimate: 0.085349 MB)...
+[2026.10.17-23.28.46:450][752]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_29
+[2026.10.17-23.28.46:450][752]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_29
+[2026.10.17-23.28.46:460][752]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/StaticMesh/ec/b8/936054db93d65724f9e05b1d8bded12985ba.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_30'.
+[2026.10.17-23.28.46:460][752]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/StaticMesh/4a/0c/a008538385ea185b3d16e9d06b4cf2c8e522.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_30'.
+[2026.10.17-23.28.46:561][753]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/ef/da/f613dfee5af03cf802a80ffe74187a8d5819.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_29'.
+[2026.10.17-23.28.46:561][753]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/ef/da/f613dfee5af03cf802a80ffe74187a8d5819.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_30'.
+[2026.10.17-23.28.46:564][754]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/63/1b/6e5cba0ab3a1f7de8d2ab8e5542c781f72c2.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_29'.
+[2026.10.17-23.28.46:564][754]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/63/1b/6e5cba0ab3a1f7de8d2ab8e5542c781f72c2.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_30'.
+[2026.10.17-23.28.49:668][834]LogStaticMesh: Display: Building static mesh WaterInfoMesh_32 (Required Memory Estimate: 0.090449 MB)...
+[2026.10.17-23.28.49:668][834]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_32 (Required Memory Estimate: 0.127066 MB)...
+[2026.10.17-23.28.49:672][834]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_32
+[2026.10.17-23.28.49:672][834]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_32
+[2026.10.17-23.28.49:681][834]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/StaticMesh/9a/e2/4bbd08d160a23ca2ea9b0e4c9c20a8119bcc.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_33'.
+[2026.10.17-23.28.49:779][835]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/27/a7/11e7faa6fb365578520ab74636c5b9896bdc.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_34'.
+[2026.10.17-23.28.49:779][835]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/c1/53/31b3a6f12a75d6a3e5e23815e172b54a5f66.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_33'.
+[2026.10.17-23.28.49:782][836]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/fb/6b/0c7def4db7d2f0c72c955e97549e2f0fe789.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_33'.
+[2026.10.17-23.28.49:783][836]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/f1/9b/8d1360f395a33bc8bd390818531b53d5e997.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_34'.
+[2026.10.17-23.28.51:156][878]LogStaticMesh: Display: Building static mesh WaterInfoMesh_35 (Required Memory Estimate: 0.090449 MB)...
+[2026.10.17-23.28.51:156][878]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_35 (Required Memory Estimate: 0.127066 MB)...
+[2026.10.17-23.28.51:158][878]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_35
+[2026.10.17-23.28.51:159][878]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_35
+[2026.10.17-23.28.51:273][879]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/8d/c5/fee98a16493be938f7fd3f69cd8daf66dd62.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_36'.
+[2026.10.17-23.28.51:273][879]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/81/a1/a3f6636e5845ca49aa17f37fd0b8668c3457.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_37'.
+[2026.10.17-23.28.51:279][880]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/9c/78/1693d16c475e9b9d87311bcf24050b8319e0.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_35'.
+[2026.10.17-23.28.51:279][880]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/9c/78/1693d16c475e9b9d87311bcf24050b8319e0.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_37'.
+[2026.10.17-23.28.51:372][882]LogStaticMesh: Display: Building static mesh WaterInfoMesh_38 (Required Memory Estimate: 0.090449 MB)...
+[2026.10.17-23.28.51:372][882]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_38 (Required Memory Estimate: 0.127066 MB)...
+[2026.10.17-23.28.51:374][882]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_38
+[2026.10.17-23.28.51:374][882]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_38
+[2026.10.17-23.28.51:489][883]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/3e/50/6bd89994e46c7b483cdced6632b7de644761.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_40'.
+[2026.10.17-23.28.51:489][883]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/75/7b/eeb7de2ebedbd4e78956177dd122b0651440.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_39'.
+[2026.10.17-23.28.51:494][884]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/3b/bc/e901d9dfbe47b7cf810c3e11ae8769a6113f.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_39'.
+[2026.10.17-23.28.51:495][884]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/3b/bc/e901d9dfbe47b7cf810c3e11ae8769a6113f.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_38'.
+[2026.10.17-23.28.52:593][918]LogStaticMesh: Display: Building static mesh WaterInfoMesh_41 (Required Memory Estimate: 0.090449 MB)...
+[2026.10.17-23.28.52:593][918]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_41 (Required Memory Estimate: 0.127066 MB)...
+[2026.10.17-23.28.52:596][918]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_41
+[2026.10.17-23.28.52:596][918]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_41
+[2026.10.17-23.28.52:706][919]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/3f/b3/e59da80f2e922ddd64d1c3000dc9cee084ed.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_42'.
+[2026.10.17-23.28.52:706][919]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/dc/1b/6d35144411b520ff3edbccccb567ffb4adf7.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_41'.
+[2026.10.17-23.28.52:710][919]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/be/f1/66dcee900efd70ff19aa6ea1931e26042790.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_41'.
+[2026.10.17-23.28.52:710][919]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/5b/6f/cbf774c1c0df50c31d4d35461844a8cf89a7.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_41'.
+[2026.10.17-23.29.13:301][440]LogStaticMesh: Display: Building static mesh WaterInfoMesh_44 (Required Memory Estimate: 0.085349 MB)...
+[2026.10.17-23.29.13:301][440]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_44 (Required Memory Estimate: 0.12079 MB)...
+[2026.10.17-23.29.13:302][440]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_44
+[2026.10.17-23.29.13:302][440]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_44
+[2026.10.17-23.29.16:966][519]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_45 (Required Memory Estimate: 0.127066 MB)...
+[2026.10.17-23.29.16:966][519]LogStaticMesh: Display: Building static mesh WaterInfoMesh_45 (Required Memory Estimate: 0.090449 MB)...
+[2026.10.17-23.29.16:967][519]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_45
+[2026.10.17-23.29.16:967][519]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_45
+[2026.10.17-23.29.19:943][587]LogStaticMesh: Display: Building static mesh WaterInfoMesh_46 (Required Memory Estimate: 0.090449 MB)...
+[2026.10.17-23.29.19:943][587]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_46 (Required Memory Estimate: 0.127066 MB)...
+[2026.10.17-23.29.19:944][587]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_46
+[2026.10.17-23.29.19:944][587]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_46
+[2026.10.17-23.29.32:580][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.17-23.29.32:645][927]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.17-23.29.32:645][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.17-23.29.32:645][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.17-23.29.32:752][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2026.10.17-23.29.32:820][927]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.17-23.29.32:820][927]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor161C73EE84A93B36C8966728F4B508123.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.17-23.29.32:872][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.186 ms (total: 5.30 sec)
+[2026.10.17-23.29.32:943][927]LogContentValidation: Enabled validators:
+[2026.10.17-23.29.32:943][927]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.17-23.29.32:943][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.17-23.29.32:943][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.17-23.29.32:944][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.17-23.29.32:944][927]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.17-23.29.32:944][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.17-23.29.32:944][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.17-23.29.32:944][927]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.17-23.29.32:944][927]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.17-23.29.32:944][927]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.17-23.29.32:944][927]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.17-23.29.32:944][927]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.17-23.29.32:944][927]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
