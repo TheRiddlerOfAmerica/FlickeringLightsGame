@@ -2217,3 +2217,133 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.17-19.41.01:132][939]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.17-19.41.01:132][939]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.17-19.41.01:132][939]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.17-19.41.39:463][350]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-19.41.42:863][446]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-19.41.51:517][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 310.231354
+[2026.10.17-19.41.51:652][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-19.41.51:652][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 310.329102, Update Interval: 333.981750
+[2026.10.17-19.42.02:801][  8]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-19.42.17:756][415]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-19.42.26:959][690]Cmd: TRANSACTION UNDO
+[2026.10.17-19.42.26:960][690]LogEditorTransaction: Undo Transform
+[2026.10.17-19.42.40:317][ 44]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.10.17-19.42.40:320][ 44]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.10.17-19.42.59:443][670]Cmd: DUPLICATE
+[2026.10.17-19.42.59:443][670]Cmd: ACTOR DUPLICATE
+[2026.10.17-19.43.14:358][134]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-19.43.51:121][156]Cmd: TRANSACTION UNDO
+[2026.10.17-19.43.51:121][156]LogEditorTransaction: Undo Transform
+[2026.10.17-19.44.02:882][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.17-19.44.02:947][457]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.17-19.44.02:948][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.17-19.44.02:948][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.17-19.44.03:074][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.17-19.44.03:104][457]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.17-19.44.03:104][457]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1E14DCC754ED226DB4EA283AEB4F197DE.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.17-19.44.03:136][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 254.731 ms (total: 537.401 ms)
+[2026.10.17-19.44.03:195][457]LogContentValidation: Enabled validators:
+[2026.10.17-19.44.03:195][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.17-19.44.03:195][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.17-19.44.03:195][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.17-19.44.03:195][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.17-19.44.03:195][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.17-19.44.03:195][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.17-19.44.03:195][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.17-19.44.03:195][457]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.17-19.44.03:195][457]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.17-19.44.03:195][457]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.17-19.44.03:195][457]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.17-19.44.03:195][457]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.17-19.44.03:196][457]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.17-19.44.03:196][457]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.17-19.44.03:196][457]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.17-19.44.03:196][457]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.17-19.44.03:196][457]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.17-19.44.03:196][457]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.17-19.44.03:196][457]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.17-19.44.03:196][457]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.17-19.44.03:196][457]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.17-19.44.03:196][457]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.17-19.44.11:881][680]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-19.44.23:077][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.17-19.44.23:141][976]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.17-19.44.23:141][976]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.17-19.44.23:141][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.17-19.44.23:213][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.10.17-19.44.23:246][976]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.17-19.44.23:247][976]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1C1D17DBE425D3A90D92D63AC13319715.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.17-19.44.23:299][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 222.525 ms (total: 759.926 ms)
+[2026.10.17-19.44.23:358][976]LogContentValidation: Enabled validators:
+[2026.10.17-19.44.23:359][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.17-19.44.23:359][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.17-19.44.23:359][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.17-19.44.23:359][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.17-19.44.23:359][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.17-19.44.23:359][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.17-19.44.23:359][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.17-19.44.23:359][976]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.17-19.44.23:359][976]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.17-19.44.23:359][976]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.17-19.44.23:359][976]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.17-19.44.23:359][976]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.17-19.44.23:359][976]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.17-19.44.23:359][976]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.17-19.44.23:359][976]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.17-19.44.23:359][976]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.17-19.44.23:359][976]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.17-19.44.23:359][976]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.17-19.44.23:359][976]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.17-19.44.23:359][976]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.17-19.44.23:359][976]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.17-19.44.23:359][976]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.17-19.46.27:982][223]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-19.46.35:662][445]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-19.46.43:284][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.17-19.46.43:346][663]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.17-19.46.43:347][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.17-19.46.43:347][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.17-19.46.43:459][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.10.17-19.46.43:490][663]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.17-19.46.43:491][663]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1BCC3AC9C441DDA527816E3A376F7EB49.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.17-19.46.43:532][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 248.193 ms (total: 1.00 sec)
+[2026.10.17-19.46.43:596][663]LogContentValidation: Enabled validators:
+[2026.10.17-19.46.43:596][663]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.17-19.46.43:596][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.17-19.46.43:596][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.17-19.46.43:596][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.17-19.46.43:596][663]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.17-19.46.43:596][663]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.17-19.46.43:596][663]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.17-19.46.43:596][663]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.17-19.46.43:596][663]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.17-19.46.43:596][663]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.17-19.46.43:596][663]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.17-19.46.43:596][663]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.17-19.46.43:596][663]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.17-19.46.43:596][663]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.17-19.46.43:598][663]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.17-19.46.43:598][663]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.17-19.46.43:598][663]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.17-19.46.43:598][663]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.17-19.46.43:598][663]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.17-19.46.43:598][663]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.17-19.46.43:598][663]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.17-19.46.43:598][663]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.17-19.47.28:296][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 647.010376
+[2026.10.17-19.47.28:428][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-19.47.28:428][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 647.109497, Update Interval: 353.120514
+[2026.10.17-19.53.29:025][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1007.738525
+[2026.10.17-19.53.30:024][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-19.53.30:024][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1008.404846, Update Interval: 327.856689
+[2026.10.17-19.59.10:381][642]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1349.095093
+[2026.10.17-19.59.11:380][645]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-19.59.11:380][645]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1349.760254, Update Interval: 352.838531
+[2026.10.17-20.05.34:568][126]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1733.281372
+[2026.10.17-20.05.35:570][129]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-20.05.35:570][129]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1733.950073, Update Interval: 358.152405
+[2026.10.17-20.12.08:249][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2126.961914
+[2026.10.17-20.12.09:252][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-20.12.09:252][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2127.629883, Update Interval: 314.013489
+[2026.10.17-20.17.58:936][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2477.650391
+[2026.10.17-20.17.59:937][362]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-20.17.59:937][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2478.317871, Update Interval: 322.156433
