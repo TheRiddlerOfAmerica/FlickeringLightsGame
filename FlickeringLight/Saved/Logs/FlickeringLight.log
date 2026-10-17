@@ -29479,3 +29479,54 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.17-22.09.16:411][923]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2026.10.17-22.09.18:020][974]LogSlate: Window 'Message Log' being destroyed
 [2026.10.17-22.09.18:088][974]LogSlate: Window 'Message Log' being destroyed
+[2026.10.17-22.12.05:120][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9323.778320
+[2026.10.17-22.12.06:120][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-22.12.06:120][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9324.446289, Update Interval: 306.784271
+[2026.10.17-22.18.01:907][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9680.599609
+[2026.10.17-22.18.02:908][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-22.18.02:908][663]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9681.266602, Update Interval: 318.823822
+[2026.10.17-22.24.12:470][966]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10051.172852
+[2026.10.17-22.24.12:589][971]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-22.24.12:589][971]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10051.265625, Update Interval: 303.660400
+[2026.10.17-22.24.19:313][196]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/ProblemSupport/PasswordDisplay.PasswordDisplay_C
+[2026.10.17-22.24.19:313][196]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/ProblemSupport/PasswordDisplay.PasswordDisplay_C
+[2026.10.17-22.24.19:315][196]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/ProblemSupport/PasswordDisplay.PasswordDisplay as actor: PasswordDisplay_C /Game/newlevel/floor1.floor1:PersistentLevel.PasswordDisplay_C_0
+[2026.10.17-22.24.19:317][196]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/ProblemSupport/PasswordDisplay.PasswordDisplay as actor: PasswordDisplay_C /Game/newlevel/floor1.floor1:PersistentLevel.PasswordDisplay_C_0
+[2026.10.17-22.24.19:350][198]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.17-22.24.22:934][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.10.17-22.24.22:942][332]LogEditorActor: Deleted 0 Actors (0.063 secs)
+[2026.10.17-22.24.22:951][332]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/ProblemSupport/PasswordDisplay.PasswordDisplay_C
+[2026.10.17-22.24.22:951][332]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/ProblemSupport/PasswordDisplay.PasswordDisplay_C
+[2026.10.17-22.24.22:954][332]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/ProblemSupport/PasswordDisplay.PasswordDisplay as actor: PasswordDisplay_C /Game/newlevel/floor1.floor1:PersistentLevel.PasswordDisplay_C_1
+[2026.10.17-22.24.22:957][332]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/ProblemSupport/PasswordDisplay.PasswordDisplay as actor: PasswordDisplay_C /Game/newlevel/floor1.floor1:PersistentLevel.PasswordDisplay_C_1
+[2026.10.17-22.24.30:233][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.17-22.24.30:290][581]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.17-22.24.30:291][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.17-22.24.30:291][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.17-22.24.30:377][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.10.17-22.24.30:413][581]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.17-22.24.30:413][581]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor10E23B4774BB421D6DB7F1C99E451839E.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.17-22.24.30:452][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 218.761 ms (total: 3.95 sec)
+[2026.10.17-22.24.30:510][581]LogContentValidation: Enabled validators:
+[2026.10.17-22.24.30:510][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.17-22.24.30:510][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.17-22.24.30:510][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.17-22.24.30:510][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.17-22.24.30:510][581]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.17-22.24.30:510][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.17-22.24.30:510][581]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.17-22.24.30:510][581]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.17-22.24.30:510][581]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.17-22.24.30:510][581]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.17-22.24.30:510][581]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.17-22.24.30:510][581]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.17-22.24.30:511][581]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.17-22.24.30:511][581]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.17-22.24.30:511][581]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.17-22.24.30:511][581]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.17-22.24.30:511][581]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.17-22.24.30:511][581]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.17-22.24.30:511][581]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.17-22.24.30:511][581]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.17-22.24.30:511][581]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.17-22.24.30:511][581]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
