@@ -11193,3 +11193,361 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.17-21.45.56:268][493]LogPlayLevel: Display: Destroying online subsystem :Context_6
 [2026.10.17-21.45.57:288][522]LogSlate: Window 'Message Log' being destroyed
 [2026.10.17-21.45.57:366][522]LogSlate: Window 'Message Log' being destroyed
+[2026.10.17-21.47.08:702][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7827.406250
+[2026.10.17-21.47.09:704][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-21.47.09:704][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7828.073730, Update Interval: 311.695312
+[2026.10.17-21.47.19:072][191]LogSlate: Window 'Editor Diagnostics' being destroyed
+[2026.10.17-21.47.19:138][191]LogSlate: Window 'Editor Diagnostics' being destroyed
+[2026.10.17-21.47.31:325][547]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.17-21.47.31:356][547]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.17-21.47.31:356][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.17-21.47.31:356][547]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.17-21.47.31:380][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024459s)
+[2026.10.17-21.47.31:380][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.024581s)
+[2026.10.17-21.47.31:423][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.10.17-21.47.31:427][547]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.17-21.47.31:430][547]LogPlayLevel: PIE: World Init took: (0.003569s)
+[2026.10.17-21.47.31:430][547]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.10.17-21.47.31:430][547]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.17-21.47.31:430][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.17-21.47.31:430][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.17-21.47.31:430][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.17-21.47.31:430][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.17-21.47.31:430][547]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.17-21.47.31:430][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.17-21.47.31:430][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.17-21.47.31:430][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.17-21.47.31:430][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.17-21.47.31:430][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.17-21.47.31:430][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.17-21.47.31:430][547]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.17-21.47.31:435][547]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.17-21.47.31:435][547]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.17-21.47.31:436][547]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.17-21.47.31:437][547]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.17-21.47.31:438][547]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.17-21.47.31:438][547]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.17-21.47.31:445][547]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.17-21.47.31:446][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.17-21.47.31:446][547]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.17-21.47.31:446][547]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.17-21.47.31:451][547]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.17-21.47.31:451][547]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.17-21.47.31:452][547]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.17-21.47.31:452][547]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.17-21.47.31:452][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.17-21.47.31:452][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.17-21.47.31:452][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.17-21.47.31:453][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.10.17-21.47.31:456][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.10.17-21.47.31:460][547]LogInit: FAudioDevice initialized with ID 6.
+[2026.10.17-21.47.31:460][547]LogAudio: Display: Audio Device (ID: 6) registered with world 'floor1'.
+[2026.10.17-21.47.31:460][547]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.10.17-21.47.31:460][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.17-21.47.31:475][547]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.17-21.47.31:480][547]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.17-17.47.31
+[2026.10.17-21.47.31:481][547]LogWorld: Bringing up level for play took: 0.004876
+[2026.10.17-21.47.31:485][547]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.10.17-21.47.31:487][547]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.17-21.47.31:489][547]PIE: Server logged in
+[2026.10.17-21.47.31:492][547]PIE: Play in editor total start time 0.137 seconds.
+[2026.10.17-21.47.31:511][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:511][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:511][547]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.31:511][547]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.31:564][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:564][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:564][548]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.31:564][548]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.31:635][548]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.17-21.47.31:669][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:669][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:669][549]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.31:669][549]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.31:833][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:833][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:833][550]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.31:833][550]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.31:936][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:936][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:936][551]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.31:936][551]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.31:961][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:962][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:962][552]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.31:962][552]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.31:992][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:992][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.31:992][553]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.31:992][553]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:023][554]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:023][554]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:023][554]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:023][554]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:053][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:053][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:054][555]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:054][555]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:078][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:079][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:079][556]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:079][556]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:107][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:107][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:107][557]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:107][557]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:132][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:132][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:132][558]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:132][558]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:159][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:159][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:159][559]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:159][559]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:174][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:174][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:174][560]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:174][560]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:208][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:209][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:209][561]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:209][561]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:235][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:236][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:236][562]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:236][562]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:255][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:256][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:256][563]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:256][563]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:281][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:281][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:281][564]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:281][564]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:300][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:300][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:300][565]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:300][565]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:377][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:377][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:378][566]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:378][566]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:388][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:390][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:390][567]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:390][567]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:407][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:407][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:407][568]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:407][568]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:429][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:429][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:429][569]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:429][569]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:456][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:456][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:456][570]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:456][570]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:474][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:474][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:474][571]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:474][571]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:494][572]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:494][572]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:494][572]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:494][572]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:515][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:516][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:516][573]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:516][573]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:540][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:540][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:540][574]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:540][574]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:562][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:562][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:562][575]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:562][575]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:587][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:587][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:587][576]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:587][576]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:616][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:616][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:616][577]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:616][577]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:643][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:643][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:643][578]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:643][578]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:665][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:665][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:665][579]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:665][579]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:695][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:695][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:695][580]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:695][580]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:718][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:718][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:718][581]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:718][581]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:748][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:748][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:748][582]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:748][582]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:769][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:769][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:769][583]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:769][583]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:792][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:793][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:793][584]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:793][584]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:823][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:823][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:823][585]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:823][585]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:845][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:845][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:845][586]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:845][586]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:872][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:872][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:872][587]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:872][587]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:904][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:904][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:904][588]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:904][588]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:935][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:936][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:936][589]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:936][589]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:955][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:955][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:956][590]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:956][590]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.32:984][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:985][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.32:985][591]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.32:985][591]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:007][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:007][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:007][592]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:007][592]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:034][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:035][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:035][593]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:035][593]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:057][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:057][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:057][594]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:058][594]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:084][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:084][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:084][595]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:084][595]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:119][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:119][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:119][596]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:119][596]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:138][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:138][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:138][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:138][597]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:163][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:163][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:163][598]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:163][598]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:195][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:195][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:195][599]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:195][599]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:222][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:222][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:222][600]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:222][600]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:255][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:255][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:256][601]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:256][601]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:287][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:287][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:288][602]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:288][602]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:322][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:323][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:323][603]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:323][603]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:351][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:352][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:352][604]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:352][604]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:378][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:379][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:379][605]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:379][605]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:410][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:410][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:410][606]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:410][606]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:435][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:436][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:436][607]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:436][607]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:465][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:465][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:466][608]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:466][608]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:494][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:494][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:494][609]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:494][609]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:522][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:522][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:522][610]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:522][610]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:556][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:557][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:557][611]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:557][611]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:567][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:567][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:567][612]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:567][612]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:584][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:584][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Timer in /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress_C". Node:  SetPercent Graph:  EventGraph Function:  Execute Ubergraph Menu Shift Progress Blueprint:  Menu_ShiftProgress
+[2026.10.17-21.47.33:584][613]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.10.17-21.47.33:584][613]LogScript: Warning: Script Msg called by: Menu_ShiftProgress_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.Menu_ShiftProgress_C_0
+[2026.10.17-21.47.33:624][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.17-21.47.33:624][614]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.17-21.47.33:624][614]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-21.47.33:627][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-21.47.33:630][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.17-21.47.33:637][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-21.47.33:689][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.17-21.47.33:689][614]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.10.17-21.47.33:690][614]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=6, StreamState=4
+[2026.10.17-21.47.33:702][614]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.17-21.47.33:711][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.10.17-21.47.33:976][615]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.10.17-21.47.39:931][852]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Menu_ShiftProgress.Menu_ShiftProgress
+[2026.10.17-21.47.39:945][852]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.10.17-21.47.40:117][852]LogStreaming: Display: FlushAsyncLoading(380): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.17-21.47.42:385][852]LogModuleManager: InternalLoadLibrary: 'SequencerWidgets' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-SequencerWidgets.dll')
+[2026.10.17-21.47.43:203][852]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' with subface index 0 in Game thread.
+[2026.10.17-21.47.43:203][852]LogSlate: Display: Took 0.001110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K) on Game thread.
+[2026.10.17-21.47.43:203][852]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface 0 in Game thread.
+[2026.10.17-21.47.43:203][852]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.17-21.47.55:202][248]LogSlate: Window 'Menu_ShiftProgress' being destroyed
+[2026.10.17-21.47.55:215][248]LogSlate: Window 'Menu_ShiftProgress' being destroyed
+[2026.10.17-21.47.55:269][248]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-21.47.55:269][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-21.47.55:282][248]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-21.47.55:283][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-21.47.55:755][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.10.17-21.48.02:146][561]LogSlate: Window 'Message Log' being destroyed
+[2026.10.17-21.48.02:154][561]LogSlate: Window 'Message Log' being destroyed
