@@ -32737,3 +32737,363 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.17-23.29.32:945][927]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.17-23.29.46:982][ 29]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.17-23.29.47:027][ 29]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.17-23.29.47:027][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.17-23.29.47:070][ 29]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.17-23.29.47:099][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029125s)
+[2026.10.17-23.29.47:099][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.029249s)
+[2026.10.17-23.29.47:155][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2026.10.17-23.29.47:159][ 29]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.17-23.29.47:163][ 29]LogPlayLevel: PIE: World Init took: (0.003557s)
+[2026.10.17-23.29.47:163][ 29]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.10.17-23.29.47:163][ 29]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.17-23.29.47:163][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.17-23.29.47:163][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.17-23.29.47:163][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.17-23.29.47:163][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.17-23.29.47:163][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.17-23.29.47:163][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.17-23.29.47:163][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.17-23.29.47:163][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.17-23.29.47:163][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.17-23.29.47:163][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.17-23.29.47:163][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.17-23.29.47:163][ 29]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.17-23.29.47:169][ 29]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.17-23.29.47:170][ 29]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.17-23.29.47:172][ 29]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.17-23.29.47:173][ 29]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.17-23.29.47:174][ 29]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.17-23.29.47:175][ 29]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.17-23.29.47:184][ 29]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.17-23.29.47:184][ 29]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.17-23.29.47:184][ 29]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.17-23.29.47:185][ 29]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.17-23.29.47:192][ 29]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.17-23.29.47:192][ 29]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.17-23.29.47:192][ 29]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.17-23.29.47:192][ 29]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.17-23.29.47:192][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.17-23.29.47:192][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.17-23.29.47:193][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.17-23.29.47:194][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.10.17-23.29.47:200][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.10.17-23.29.47:205][ 29]LogInit: FAudioDevice initialized with ID 24.
+[2026.10.17-23.29.47:205][ 29]LogAudio: Display: Audio Device (ID: 24) registered with world 'floor1'.
+[2026.10.17-23.29.47:205][ 29]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.10.17-23.29.47:206][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.17-23.29.47:227][ 29]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.17-23.29.47:238][ 29]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.17-19.29.47
+[2026.10.17-23.29.47:239][ 29]LogWorld: Bringing up level for play took: 0.011821
+[2026.10.17-23.29.47:246][ 29]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.10.17-23.29.47:247][ 29]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.17-23.29.47:251][ 29]PIE: Server logged in
+[2026.10.17-23.29.47:258][ 29]PIE: Play in editor total start time 0.23 seconds.
+[2026.10.17-23.29.47:445][ 30]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.17-23.29.57:121][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.17-23.29.57:121][280]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.17-23.29.57:127][280]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-23.29.57:135][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-23.29.57:170][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.17-23.29.57:195][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-23.29.57:259][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.17-23.29.57:260][280]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.10.17-23.29.57:261][280]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=24, StreamState=4
+[2026.10.17-23.29.57:273][280]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.17-23.29.57:287][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.10.17-23.29.57:562][281]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.10.17-23.30.11:021][592]Cmd: DELETE
+[2026.10.17-23.30.11:021][592]Cmd: ACTOR DELETE
+[2026.10.17-23.30.11:035][592]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.17-23.30.11:089][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.10.17-23.30.11:094][592]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2026.10.17-23.30.18:283][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.17-23.30.18:342][777]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.17-23.30.18:342][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.17-23.30.18:342][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.17-23.30.18:456][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2026.10.17-23.30.18:519][777]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.17-23.30.18:520][777]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor18C82F3E0439E39A976A16A8F52A01ECC.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.17-23.30.18:571][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 288.962 ms (total: 5.59 sec)
+[2026.10.17-23.30.18:641][777]LogContentValidation: Enabled validators:
+[2026.10.17-23.30.18:641][777]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.17-23.30.18:641][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.17-23.30.18:641][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.17-23.30.18:642][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.17-23.30.18:642][777]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.17-23.30.18:642][777]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.17-23.30.18:642][777]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.17-23.30.18:642][777]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.17-23.30.18:642][777]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.17-23.30.18:642][777]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.17-23.30.18:642][777]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.17-23.30.18:642][777]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.17-23.30.18:642][777]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.17-23.30.18:642][777]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.17-23.30.18:642][777]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.17-23.30.18:642][777]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.17-23.30.18:642][777]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.17-23.30.18:642][777]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.17-23.30.18:642][777]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.17-23.30.18:642][777]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.17-23.30.18:642][777]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.17-23.30.18:642][777]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.17-23.30.43:986][ 24]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14044.635742
+[2026.10.17-23.30.44:995][ 27]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-23.30.44:996][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14045.332031, Update Interval: 356.495239
+[2026.10.17-23.31.01:224][297]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_50 (Required Memory Estimate: 0.164743 MB)...
+[2026.10.17-23.31.01:224][297]LogStaticMesh: Display: Building static mesh WaterInfoMesh_50 (Required Memory Estimate: 0.120997 MB)...
+[2026.10.17-23.31.01:227][297]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_50
+[2026.10.17-23.31.01:227][297]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_50
+[2026.10.17-23.31.01:335][298]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/77/97/a8bc3c65c0e10c25d294ec90cc155817fa31.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_52'.
+[2026.10.17-23.31.01:336][298]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/0c/8f/cf7d7a6a6092d3710a19eedc751f6e9e96ed.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_51'.
+[2026.10.17-23.31.01:338][299]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/0c/8f/cf7d7a6a6092d3710a19eedc751f6e9e96ed.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_50'.
+[2026.10.17-23.31.01:340][299]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/e8/ae/0b90ff07696ee2a8f7a7941389a62667d677.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_51'.
+[2026.10.17-23.31.01:343][299]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/bb/34/48e7ccb648a6f40b58e1014000b96dfa07af.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_52'.
+[2026.10.17-23.31.01:344][299]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/bb/34/48e7ccb648a6f40b58e1014000b96dfa07af.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_50'.
+[2026.10.17-23.31.02:602][336]LogStaticMesh: Display: Building static mesh WaterInfoMesh_53 (Required Memory Estimate: 0.115844 MB)...
+[2026.10.17-23.31.02:603][336]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_53 (Required Memory Estimate: 0.158361 MB)...
+[2026.10.17-23.31.02:605][336]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_53
+[2026.10.17-23.31.02:605][336]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_53
+[2026.10.17-23.31.02:755][337]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/c0/60/31aef89eebd35d85476eb2645266e7784b1a.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_55'.
+[2026.10.17-23.31.02:755][337]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/c0/60/31aef89eebd35d85476eb2645266e7784b1a.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_53'.
+[2026.10.17-23.31.02:757][338]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/cf/5a/f79cdad4597091eed262afbe8d70260aac02.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_54'.
+[2026.10.17-23.31.02:758][338]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/7a/1a/930df604b544798f3cf43247489df9231b42.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_53'.
+[2026.10.17-23.31.02:759][338]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/7a/1a/930df604b544798f3cf43247489df9231b42.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_55'.
+[2026.10.17-23.31.06:098][442]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_59 (Required Memory Estimate: 0.158361 MB)...
+[2026.10.17-23.31.06:098][442]LogStaticMesh: Display: Building static mesh WaterInfoMesh_59 (Required Memory Estimate: 0.115844 MB)...
+[2026.10.17-23.31.06:101][442]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_59
+[2026.10.17-23.31.06:102][442]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_59
+[2026.10.17-23.31.06:112][442]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/StaticMesh/60/13/0098f63c3cc2d62268a639e4b8dde378e0fc.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_60'.
+[2026.10.17-23.31.06:266][445]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/61/af/411b30a7399cd58f7298ba97fbdc7dc75d54.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_59'.
+[2026.10.17-23.31.06:266][445]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/61/af/411b30a7399cd58f7298ba97fbdc7dc75d54.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_60'.
+[2026.10.17-23.31.06:269][445]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/fb/48/e26366bfefef67b1440aaa6df659406897e1.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_59'.
+[2026.10.17-23.31.06:270][445]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/fb/48/e26366bfefef67b1440aaa6df659406897e1.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_61'.
+[2026.10.17-23.31.06:611][456]LogStaticMesh: Display: Building static mesh WaterInfoMesh_62 (Required Memory Estimate: 0.131118 MB)...
+[2026.10.17-23.31.06:612][456]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_62 (Required Memory Estimate: 0.177267 MB)...
+[2026.10.17-23.31.06:615][456]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_62
+[2026.10.17-23.31.06:616][456]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_62
+[2026.10.17-23.31.06:777][457]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/4f/eb/30efcd46d0d2a8c6ac5381e76d1fe42f8d3f.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_64'.
+[2026.10.17-23.31.06:778][457]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/4f/eb/30efcd46d0d2a8c6ac5381e76d1fe42f8d3f.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_62'.
+[2026.10.17-23.31.06:779][458]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/e2/44/7d4e1dc4051b84ee61383c5ea6ce7d4e09e7.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_62'.
+[2026.10.17-23.31.06:782][458]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/e3/98/e2b5cfd1dc2e73da7f4d3054705c3777a3ac.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_64'.
+[2026.10.17-23.31.06:782][458]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/e3/98/e2b5cfd1dc2e73da7f4d3054705c3777a3ac.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_62'.
+[2026.10.17-23.31.08:926][527]LogStaticMesh: Display: Building static mesh WaterInfoMesh_65 (Required Memory Estimate: 0.136165 MB)...
+[2026.10.17-23.31.08:927][527]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_65 (Required Memory Estimate: 0.183516 MB)...
+[2026.10.17-23.31.08:930][527]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_65
+[2026.10.17-23.31.08:930][527]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_65
+[2026.10.17-23.31.09:034][528]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/06/21/909c1b2ee2a951a2b230ad67df8159c84239.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_67'.
+[2026.10.17-23.31.09:034][528]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/e8/9d/4095c6c700874f4831c047f0141fa15f429e.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_67'.
+[2026.10.17-23.31.09:038][529]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/21/ce/7df89ecc7dca9a7c42b6628f50438299ea10.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_65'.
+[2026.10.17-23.31.09:039][529]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/04/7d/387eacbd750918c4becd67138f875ea8a9c2.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_67'.
+[2026.10.17-23.31.10:882][589]LogStaticMesh: Display: Building static mesh WaterInfoMesh_68 (Required Memory Estimate: 0.146365 MB)...
+[2026.10.17-23.31.10:882][589]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_68 (Required Memory Estimate: 0.196066 MB)...
+[2026.10.17-23.31.10:885][589]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_68
+[2026.10.17-23.31.10:885][589]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_68
+[2026.10.17-23.31.11:031][590]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/68/05/8a4fd2cbd00a800c8e79750f0a2be936a657.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_68'.
+[2026.10.17-23.31.11:031][590]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/bb/82/f68d9cea2c335cdc3e37da91386cda2987a4.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_69'.
+[2026.10.17-23.31.11:035][590]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/69/e9/a50c91842c3349b76ea6488f1db2ac018c21.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_69'.
+[2026.10.17-23.31.11:036][590]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/ea/79/e89bacf49ca7332967c194518b11ce9a71df.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_70'.
+[2026.10.17-23.31.11:036][590]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/ea/79/e89bacf49ca7332967c194518b11ce9a71df.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_68'.
+[2026.10.17-23.31.16:966][763]LogStaticMesh: Display: Building static mesh WaterInfoMesh_71 (Required Memory Estimate: 0.146365 MB)...
+[2026.10.17-23.31.16:966][763]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_71 (Required Memory Estimate: 0.196066 MB)...
+[2026.10.17-23.31.16:969][763]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_71
+[2026.10.17-23.31.16:970][763]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_71
+[2026.10.17-23.31.17:172][766]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/9d/93/51732397237967ef895a39219416566a7e64.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_73'.
+[2026.10.17-23.31.17:172][766]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/7a/24/7c369e6b65acdc798aa0d5522ef54f13696c.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_72'.
+[2026.10.17-23.31.17:177][766]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/37/d4/4279090864f5b1dda6234102e916b594439f.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_73'.
+[2026.10.17-23.31.17:177][766]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/49/d2/1be0100a90a42d6952acc9333abd41c5e426.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_72'.
+[2026.10.17-23.31.19:693][834]Cmd: TRANSACTION UNDO
+[2026.10.17-23.31.19:693][834]LogEditorTransaction: Undo Transform
+[2026.10.17-23.31.21:425][865]Cmd: TRANSACTION UNDO
+[2026.10.17-23.31.21:425][865]LogEditorTransaction: Undo Transform
+[2026.10.17-23.31.23:563][904]Cmd: TRANSACTION UNDO
+[2026.10.17-23.31.23:563][904]LogEditorTransaction: Undo Transform
+[2026.10.17-23.31.26:101][953]Cmd: TRANSACTION UNDO
+[2026.10.17-23.31.26:101][953]LogEditorTransaction: Undo Transform
+[2026.10.17-23.31.28:204][992]Cmd: TRANSACTION UNDO
+[2026.10.17-23.31.28:204][992]LogEditorTransaction: Undo Transform
+[2026.10.17-23.31.36:715][200]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-23.31.57:528][754]LogStaticMesh: Display: Building static mesh WaterInfoMesh_94 (Required Memory Estimate: 0.136165 MB)...
+[2026.10.17-23.31.57:528][754]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_94 (Required Memory Estimate: 0.183516 MB)...
+[2026.10.17-23.31.57:532][754]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_94
+[2026.10.17-23.31.57:532][754]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_94
+[2026.10.17-23.31.57:676][755]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/9c/bf/fd4f56f738f0c6e1dc0cf0b3f472611645e8.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_95'.
+[2026.10.17-23.31.57:676][755]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/f6/5e/e87a3e2c1d0965c934f92e8937389fd0490b.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_96'.
+[2026.10.17-23.31.57:680][756]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/bc/b2/f656142508dce8626d67d8dc422b06012e04.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_96'.
+[2026.10.17-23.31.57:683][756]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/5d/f6/d7cdb6bb924f3f3eab1d1cc2997061aef2c5.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_95'.
+[2026.10.17-23.31.57:683][756]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/5d/f6/d7cdb6bb924f3f3eab1d1cc2997061aef2c5.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_94'.
+[2026.10.17-23.31.59:115][797]LogStaticMesh: Display: Building static mesh WaterInfoMesh_97 (Required Memory Estimate: 0.181907 MB)...
+[2026.10.17-23.31.59:115][797]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_97 (Required Memory Estimate: 0.239992 MB)...
+[2026.10.17-23.31.59:118][797]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_97
+[2026.10.17-23.31.59:118][797]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_97
+[2026.10.17-23.31.59:232][799]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/24/f3/57f089d63961be4cbb23fde2e12f72222432.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_99'.
+[2026.10.17-23.31.59:232][799]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/24/f3/57f089d63961be4cbb23fde2e12f72222432.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_98'.
+[2026.10.17-23.31.59:234][799]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/7d/dd/0b4c92e38b212a04fe57bd6c57a51d167b97.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_97'.
+[2026.10.17-23.31.59:235][799]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/5b/f0/557f5db528abd8646dc86a2a5b2c85589e42.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_97'.
+[2026.10.17-23.31.59:236][799]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/5b/f0/557f5db528abd8646dc86a2a5b2c85589e42.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_98'.
+[2026.10.17-23.32.04:669][943]LogStaticMesh: Display: Building static mesh WaterInfoMesh_100 (Required Memory Estimate: 0.192 MB)...
+[2026.10.17-23.32.04:669][943]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_100 (Required Memory Estimate: 0.252516 MB)...
+[2026.10.17-23.32.04:673][943]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_100
+[2026.10.17-23.32.04:673][943]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_100
+[2026.10.17-23.32.04:836][944]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/4a/3b/fffece00c3ca84fae501ba9a7fd530fb1f13.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_102'.
+[2026.10.17-23.32.04:837][944]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/a6/97/e82cf351293bf00a768d8731c53d6205a0a0.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_100'.
+[2026.10.17-23.32.07:763][ 16]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_103 (Required Memory Estimate: 0.271395 MB)...
+[2026.10.17-23.32.07:763][ 16]LogStaticMesh: Display: Building static mesh WaterInfoMesh_103 (Required Memory Estimate: 0.207248 MB)...
+[2026.10.17-23.32.07:768][ 16]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_103
+[2026.10.17-23.32.07:768][ 16]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_103
+[2026.10.17-23.32.07:884][ 17]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/a3/b7/892faa1ace84a5f9d46eea13aeb68533c5e9.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_105'.
+[2026.10.17-23.32.07:885][ 17]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/ab/85/dd03406443908feae7fa141143d0ede38b90.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_105'.
+[2026.10.17-23.32.07:888][ 18]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/a1/0f/22a5ccfd9bb0a76661f9cb9422e71657118e.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_105'.
+[2026.10.17-23.32.07:890][ 18]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/6e/a3/7d6338127d16c96d3326a38c31f15ad8439a.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_104'.
+[2026.10.17-23.32.07:891][ 18]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/6e/a3/7d6338127d16c96d3326a38c31f15ad8439a.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_103'.
+[2026.10.17-23.32.09:724][ 72]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_106 (Required Memory Estimate: 0.252516 MB)...
+[2026.10.17-23.32.09:724][ 72]LogStaticMesh: Display: Building static mesh WaterInfoMesh_106 (Required Memory Estimate: 0.192 MB)...
+[2026.10.17-23.32.09:727][ 72]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_106
+[2026.10.17-23.32.09:728][ 72]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_106
+[2026.10.17-23.32.09:846][ 73]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/66/f3/d95f5e11731c57aff55cf6cafbf6d2640112.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_108'.
+[2026.10.17-23.32.09:846][ 74]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/66/f3/d95f5e11731c57aff55cf6cafbf6d2640112.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_106'.
+[2026.10.17-23.32.09:848][ 74]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/78/c2/a663b2b4a73b7b4c47b99101533e068c2a40.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_107'.
+[2026.10.17-23.32.09:848][ 74]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/78/c2/a663b2b4a73b7b4c47b99101533e068c2a40.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_106'.
+[2026.10.17-23.32.09:852][ 74]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/b4/d3/199d2b8b44cebf600783037457c698d82332.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_106'.
+[2026.10.17-23.32.09:853][ 74]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/b4/d3/199d2b8b44cebf600783037457c698d82332.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_108'.
+[2026.10.17-23.32.11:226][114]LogStaticMesh: Display: Building static mesh WaterInfoMesh_109 (Required Memory Estimate: 0.151412 MB)...
+[2026.10.17-23.32.11:226][114]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_109 (Required Memory Estimate: 0.202314 MB)...
+[2026.10.17-23.32.11:230][114]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_109
+[2026.10.17-23.32.11:230][114]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_109
+[2026.10.17-23.32.11:242][114]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/StaticMesh/8b/e5/8cdc6607bda0b6a515ec16e5d374e4156b6f.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_110'.
+[2026.10.17-23.32.11:243][114]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/StaticMesh/7b/73/f805ae8aea466d1056ebdc04a59f1048bbba.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_110'.
+[2026.10.17-23.32.11:360][115]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/6d/db/d841d92e3be47cd66302a4690205d464b6ea.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_109'.
+[2026.10.17-23.32.11:360][115]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/09/81/2d3b4c4f1a135f28e6970176a6e8cd327742.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_110'.
+[2026.10.17-23.32.11:363][115]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/70/8c/4c6d1bd5e7e5d112783270570a3bbeae911f.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_110'.
+[2026.10.17-23.32.11:366][116]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/ac/15/79672794e2e59dbb73c29943a798f5def301.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_111'.
+[2026.10.17-23.32.11:366][116]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/ac/15/79672794e2e59dbb73c29943a798f5def301.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_109'.
+[2026.10.17-23.32.19:774][334]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_115 (Required Memory Estimate: 0.233717 MB)...
+[2026.10.17-23.32.19:774][334]LogStaticMesh: Display: Building static mesh WaterInfoMesh_115 (Required Memory Estimate: 0.17686 MB)...
+[2026.10.17-23.32.19:778][334]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_115
+[2026.10.17-23.32.19:779][334]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_115
+[2026.10.17-23.32.19:887][335]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/77/b4/f24a948c3fd6ea2b0d3e7d2ef5745273136b.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_117'.
+[2026.10.17-23.32.19:887][335]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/b1/b3/5e2325863630f49a5e8893a857490975d3a7.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_115'.
+[2026.10.17-23.32.19:890][336]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/90/60/d2cb6e17f8878636e62e8545ba99dee4853a.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_115'.
+[2026.10.17-23.32.19:890][336]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/90/60/d2cb6e17f8878636e62e8545ba99dee4853a.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_117'.
+[2026.10.17-23.32.19:892][336]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/76/95/e5fd1d630f378cd0687bab64b86814541597.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_115'.
+[2026.10.17-23.32.19:893][336]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/76/95/e5fd1d630f378cd0687bab64b86814541597.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_117'.
+[2026.10.17-23.32.21:054][371]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_118 (Required Memory Estimate: 0.202314 MB)...
+[2026.10.17-23.32.21:054][371]LogStaticMesh: Display: Building static mesh WaterInfoMesh_118 (Required Memory Estimate: 0.151412 MB)...
+[2026.10.17-23.32.21:057][371]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_118
+[2026.10.17-23.32.21:058][371]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_118
+[2026.10.17-23.32.21:193][372]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/2e/0d/9b31f52ad81893323f67f2e78a7f0ff66b2e.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_120'.
+[2026.10.17-23.32.21:194][372]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/4b/e6/f8d257e0b4531e1092c0064f3b9ba1056e76.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_119'.
+[2026.10.17-23.32.21:197][372]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/a6/f1/b821345831a6e7b4b2046363a68116281e95.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_120'.
+[2026.10.17-23.32.21:198][373]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/ba/ce/4c27d848a043315d85383d3b66b027084fa1.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_119'.
+[2026.10.17-23.32.21:199][373]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/ba/ce/4c27d848a043315d85383d3b66b027084fa1.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_118'.
+[2026.10.17-23.32.23:515][440]LogStaticMesh: Display: Building static mesh WaterInfoMesh_124 (Required Memory Estimate: 0.095656 MB)...
+[2026.10.17-23.32.23:515][440]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_124 (Required Memory Estimate: 0.133314 MB)...
+[2026.10.17-23.32.23:516][440]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_124
+[2026.10.17-23.32.23:516][440]LogStaticMesh: Built static mesh [0.00s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_124
+[2026.10.17-23.32.23:644][441]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/03/10/5d649fd64cec370bc100c56f694d6e3949c1.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_126'.
+[2026.10.17-23.32.23:645][441]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/f4/ec/60da82c14fe56082bb87c3babcba73e6b48f.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_125'.
+[2026.10.17-23.32.23:646][441]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/f4/ec/60da82c14fe56082bb87c3babcba73e6b48f.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_126'.
+[2026.10.17-23.32.23:648][441]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/e6/9b/50170d027a08bebfb10e293e5e9f596fc21a.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_124'.
+[2026.10.17-23.32.23:651][442]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/d8/e6/3baf78608b54e9f3390e6240a84f58ca9731.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_124'.
+[2026.10.17-23.32.23:651][442]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/d8/e6/3baf78608b54e9f3390e6240a84f58ca9731.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_125'.
+[2026.10.17-23.32.26:435][526]LogStaticMesh: Display: Building static mesh WaterInfoMesh_127 (Required Memory Estimate: 0.10575 MB)...
+[2026.10.17-23.32.26:435][526]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_127 (Required Memory Estimate: 0.145864 MB)...
+[2026.10.17-23.32.26:437][526]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_127
+[2026.10.17-23.32.26:437][526]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_127
+[2026.10.17-23.32.26:598][527]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/89/ad/ee63a6738e5ccb83efdffd34cd5e6182f642.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_128'.
+[2026.10.17-23.32.26:599][527]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/6a/c8/815c06552869d6ef3a1ec20ad8afc809aad4.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_129'.
+[2026.10.17-23.32.26:602][528]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/c5/db/7b6a03fe8716989d5dbd12ac44eba6958e4e.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_129'.
+[2026.10.17-23.32.26:602][528]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/ae/29/5d3007dd1089115ae8392b22095ea5c3c4bb.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_128'.
+[2026.10.17-23.32.36:915][801]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_130 (Required Memory Estimate: 0.145864 MB)...
+[2026.10.17-23.32.36:917][801]LogStaticMesh: Display: Building static mesh WaterInfoMesh_130 (Required Memory Estimate: 0.10575 MB)...
+[2026.10.17-23.32.36:920][801]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_130
+[2026.10.17-23.32.36:921][801]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_130
+[2026.10.17-23.32.37:025][802]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/3c/c9/7148a2da3f20ea008f48f0662d3dbf28266c.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_132'.
+[2026.10.17-23.32.37:027][802]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/98/7b/d3d7a42c4b96fd9fa6054afc58dd9fc69017.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_131'.
+[2026.10.17-23.32.37:027][802]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/98/7b/d3d7a42c4b96fd9fa6054afc58dd9fc69017.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_130'.
+[2026.10.17-23.32.37:031][803]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/7f/0e/1d6d978f751c1599b91f0524869f7562fdcc.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_131'.
+[2026.10.17-23.32.37:031][803]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/cd/80/2bba83e26312ce3ad8aadd781a038d8bce20.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_132'.
+[2026.10.17-23.32.43:089][980]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_136 (Required Memory Estimate: 0.145864 MB)...
+[2026.10.17-23.32.43:090][980]LogStaticMesh: Display: Building static mesh WaterInfoMesh_136 (Required Memory Estimate: 0.10575 MB)...
+[2026.10.17-23.32.43:093][980]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_136
+[2026.10.17-23.32.43:093][980]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_136
+[2026.10.17-23.32.43:227][981]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/92/cd/4794804d1e9bb7fb3327387d3a66a6a26a3f.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_137'.
+[2026.10.17-23.32.43:227][981]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/5e/15/cb93f36a23dbe1dbdd0f1806f1706744be11.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_138'.
+[2026.10.17-23.32.43:236][982]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/0c/54/3dee923d0377d285298de7604153e17e5174.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_137'.
+[2026.10.17-23.32.43:236][982]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/0c/54/3dee923d0377d285298de7604153e17e5174.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_136'.
+[2026.10.17-23.32.53:780][288]LogStaticMesh: Display: Building static mesh WaterInfoMesh_139 (Required Memory Estimate: 0.10575 MB)...
+[2026.10.17-23.32.53:780][288]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_139 (Required Memory Estimate: 0.145864 MB)...
+[2026.10.17-23.32.53:783][288]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_139
+[2026.10.17-23.32.53:783][288]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_139
+[2026.10.17-23.32.53:794][288]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/StaticMesh/e4/7c/76b226eb84363edbe24a762ffd288d6b1dba.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_140'.
+[2026.10.17-23.32.53:908][289]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/15/a8/7dfe9388655a47c5fdb86295a49685193fa8.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_139'.
+[2026.10.17-23.32.53:909][290]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/15/a8/7dfe9388655a47c5fdb86295a49685193fa8.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_140'.
+[2026.10.17-23.32.53:911][290]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/2d/1f/73b4bab8fe49514400ea5367b661aebfe820.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_140'.
+[2026.10.17-23.32.53:912][290]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/2d/1f/73b4bab8fe49514400ea5367b661aebfe820.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_139'.
+[2026.10.17-23.32.57:412][374]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_142 (Required Memory Estimate: 0.152113 MB)...
+[2026.10.17-23.32.57:412][374]LogStaticMesh: Display: Building static mesh WaterInfoMesh_142 (Required Memory Estimate: 0.110797 MB)...
+[2026.10.17-23.32.57:415][374]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_142
+[2026.10.17-23.32.57:415][374]LogStaticMesh: Built static mesh [0.01s] /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_142
+[2026.10.17-23.32.57:550][375]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/ff/f6/6e4dac3c48c29f060a163b58662c2f1ec92e.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_143'.
+[2026.10.17-23.32.57:550][375]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/bd/37/dd255692b362e8349597ff2cf579306b0d34.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_142'.
+[2026.10.17-23.32.57:553][376]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/37/2e/c985a23ffcd8f36fad224ad39077313daa4b.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoDilatedMesh_144'.
+[2026.10.17-23.32.57:553][376]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/1e/af/56e622b0844e57cf5867736a280e5bf80115.udd from '/Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterInfoMesh_143'.
+[2026.10.17-23.33.22:101][884]Cmd: DELETE
+[2026.10.17-23.33.22:101][884]Cmd: ACTOR DELETE
+[2026.10.17-23.33.22:102][884]LogEditorActor: Cannot delete component WaterSplineComponent /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterSpline: Can't delete non-instanced components or the scene root.
+[2026.10.17-23.33.25:805][974]Cmd: DELETE
+[2026.10.17-23.33.25:805][974]Cmd: ACTOR DELETE
+[2026.10.17-23.33.25:806][974]LogEditorActor: Cannot delete component WaterSplineComponent /Game/newlevel/floor1.floor1:PersistentLevel.WaterBodyRiver_2.WaterSpline: Can't delete non-instanced components or the scene root.
+[2026.10.17-23.33.30:837][ 62]Cmd: DELETE
+[2026.10.17-23.33.30:837][ 62]Cmd: ACTOR DELETE
+[2026.10.17-23.33.30:857][ 62]LogEditorActor: Deleted Actor: WaterBodyRiver
+[2026.10.17-23.33.30:960][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2026.10.17-23.33.30:966][ 62]LogEditorActor: Deleted 1 Actors (0.130 secs)
+[2026.10.17-23.33.39:179][272]Cmd: DELETE
+[2026.10.17-23.33.39:179][272]Cmd: ACTOR DELETE
+[2026.10.17-23.33.39:194][272]LogEditorActor: Deleted Actor: WaterZone
+[2026.10.17-23.33.39:242][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.10.17-23.33.39:250][272]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2026.10.17-23.33.48:673][602]Cmd: DUPLICATE
+[2026.10.17-23.33.48:673][602]Cmd: ACTOR DUPLICATE
+[2026.10.17-23.34.00:335][  6]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.17-23.34.36:498][258]LogModuleManager: InternalLoadLibrary: 'HierarchicalLODUtilities' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-HierarchicalLODUtilities.dll')
+[2026.10.17-23.34.39:374][368]Cmd: TRANSACTION UNDO
+[2026.10.17-23.34.39:374][368]LogEditorTransaction: Undo Place Objects
+[2026.10.17-23.34.56:828][978]Cmd: TRANSACTION UNDO
+[2026.10.17-23.34.56:828][978]LogEditorTransaction: Undo Transform
+[2026.10.17-23.35.14:126][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.17-23.35.14:189][547]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.17-23.35.14:191][547]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.17-23.35.14:191][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.17-23.35.14:308][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.10.17-23.35.14:344][547]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.17-23.35.14:344][547]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor132139C8448C257BE163308A763A8C37B.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.17-23.35.14:378][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 252.065 ms (total: 5.84 sec)
+[2026.10.17-23.35.14:439][547]LogContentValidation: Enabled validators:
+[2026.10.17-23.35.14:439][547]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.17-23.35.14:439][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.17-23.35.14:439][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.17-23.35.14:439][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.17-23.35.14:439][547]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.17-23.35.14:439][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.17-23.35.14:439][547]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.17-23.35.14:439][547]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.17-23.35.14:441][547]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.17-23.35.14:441][547]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.17-23.35.14:441][547]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.17-23.35.14:441][547]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.17-23.35.14:441][547]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.17-23.35.14:441][547]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.17-23.35.14:441][547]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.17-23.35.14:441][547]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.17-23.35.14:441][547]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.17-23.35.14:441][547]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.17-23.35.14:441][547]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.17-23.35.14:441][547]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.17-23.35.14:441][547]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.17-23.35.14:441][547]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
