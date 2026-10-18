@@ -2218,3 +2218,924 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.18-20.22.59:631][882]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.18-20.22.59:631][882]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.18-20.22.59:631][882]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-20.25.37:583][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 362.079407
+[2026.10.18-20.25.38:584][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-20.25.38:585][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 362.747864, Update Interval: 316.666779
+[2026.10.18-20.30.38:091][938]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.10.18-20.30.57:606][436]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 682.102783
+[2026.10.18-20.30.57:733][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-20.30.57:734][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 682.199585, Update Interval: 301.935486
+[2026.10.18-20.32.02:609][750]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.18-20.32.05:924][924]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.18-20.32.09:736][131]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.10.18-20.32.09:736][131]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.10.18-20.32.09:740][131]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/newlevel/floor1.floor1:PersistentLevel.DirectionalLight_1
+[2026.10.18-20.32.09:741][131]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/newlevel/floor1.floor1:PersistentLevel.DirectionalLight_1
+[2026.10.18-20.32.09:828][131]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' with subface index 0 in Render thread.
+[2026.10.18-20.32.09:828][131]LogSlate: Display: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K) on Render thread.
+[2026.10.18-20.32.09:828][131]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' subface 0 in Render thread.
+[2026.10.18-20.32.09:828][131]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' subface index 0 successfully added to font face map in Render thread.
+[2026.10.18-20.32.19:789][403]Cmd: DELETE
+[2026.10.18-20.32.19:789][403]Cmd: ACTOR DELETE
+[2026.10.18-20.32.19:813][403]LogEditorActor: Deleted Actor: DirectionalLight
+[2026.10.18-20.32.19:909][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.10.18-20.32.19:914][403]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2026.10.18-20.32.25:959][667]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.10.18-20.32.25:959][667]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.10.18-20.32.34:744][983]Cmd: DELETE
+[2026.10.18-20.32.34:744][983]Cmd: ACTOR DELETE
+[2026.10.18-20.32.34:749][983]LogEditorActor: Deleted Actor: PointLight
+[2026.10.18-20.32.34:800][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.10.18-20.32.34:803][983]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2026.10.18-20.32.59:676][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.10.18-20.32.59:681][ 77]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-20.32.59:681][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-20.32.59:729][ 77]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto1
+[2026.10.18-20.32.59:730][ 77]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto1A579F1954D5CFFB925C13C885DBAFFC8.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto1.umap'
+[2026.10.18-20.32.59:735][ 77]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.101
+[2026.10.18-20.32.59:735][ 77]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2026.10.18-20.33.46:309][498]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.10.18-20.33.46:309][498]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.10.18-20.34.36:919][785]Cmd: EDIT COPY
+[2026.10.18-20.34.37:534][793]Cmd: EDIT PASTE
+[2026.10.18-20.36.04:193][321]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 988.691162
+[2026.10.18-20.36.04:335][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-20.36.04:335][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 988.810547, Update Interval: 309.783630
+[2026.10.18-20.36.24:563][ 14]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.36.28:724][163]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.37.03:827][388]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.37.12:698][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-20.37.12:751][681]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.18-20.37.12:752][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-20.37.12:752][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-20.37.12:871][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.10.18-20.37.12:909][681]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.18-20.37.12:910][681]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1214D62324DC7836F2E1EA18C53A417ED.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.18-20.37.12:966][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 268.493 ms (total: 616.538 ms)
+[2026.10.18-20.37.13:020][681]LogContentValidation: Enabled validators:
+[2026.10.18-20.37.13:020][681]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-20.37.13:020][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-20.37.13:020][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-20.37.13:020][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-20.37.13:020][681]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-20.37.13:020][681]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-20.37.13:020][681]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-20.37.13:020][681]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-20.37.13:020][681]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-20.37.13:020][681]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.18-20.37.13:020][681]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-20.37.13:021][681]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.18-20.37.13:021][681]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-20.37.13:021][681]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-20.37.13:021][681]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-20.37.13:021][681]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.18-20.37.13:021][681]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-20.37.13:021][681]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-20.37.13:021][681]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-20.37.13:021][681]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-20.37.13:021][681]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-20.37.13:021][681]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-20.37.13:048][682]LogStreaming: Display: FlushAsyncLoading(377): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.18-20.37.49:377][233]Cmd: EDIT COPY
+[2026.10.18-20.37.49:796][249]Cmd: EDIT PASTE
+[2026.10.18-20.38.25:411][370]Cmd: EDIT COPY
+[2026.10.18-20.38.26:111][399]Cmd: EDIT PASTE
+[2026.10.18-20.39.07:172][726]Cmd: EDIT COPY
+[2026.10.18-20.39.07:914][753]Cmd: EDIT PASTE
+[2026.10.18-20.40.05:091][541]Cmd: EDIT COPY
+[2026.10.18-20.40.05:648][559]Cmd: EDIT PASTE
+[2026.10.18-20.40.34:790][342]Cmd: EDIT COPY
+[2026.10.18-20.40.35:239][356]Cmd: EDIT PASTE
+[2026.10.18-20.41.23:733][725]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.41.26:386][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1310.883423
+[2026.10.18-20.41.26:492][817]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-20.41.26:492][817]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1310.964600, Update Interval: 340.531616
+[2026.10.18-20.42.06:493][165]Cmd: EDIT COPY
+[2026.10.18-20.42.06:939][179]Cmd: EDIT PASTE
+[2026.10.18-20.42.35:918][ 52]Cmd: DELETE
+[2026.10.18-20.42.35:918][ 52]Cmd: ACTOR DELETE
+[2026.10.18-20.42.35:924][ 52]LogEditorActor: Deleted Actor: PointLight
+[2026.10.18-20.42.35:984][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.10.18-20.42.35:987][ 52]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2026.10.18-20.42.56:205][482]Cmd: EDIT COPY
+[2026.10.18-20.42.56:555][492]Cmd: EDIT PASTE
+[2026.10.18-20.44.47:364][ 68]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-20.44.47:364][ 68]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-20.44.47:365][ 68]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_0
+[2026.10.18-20.44.47:368][ 68]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_0
+[2026.10.18-20.44.50:189][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.10.18-20.44.50:193][155]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.10.18-20.44.50:203][155]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-20.44.50:203][155]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-20.44.50:205][155]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_1
+[2026.10.18-20.44.50:207][155]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_1
+[2026.10.18-20.44.54:937][275]Cmd: EDIT COPY
+[2026.10.18-20.44.55:417][287]Cmd: EDIT PASTE
+[2026.10.18-20.45.00:199][405]Cmd: EDIT COPY
+[2026.10.18-20.45.00:607][415]Cmd: EDIT PASTE
+[2026.10.18-20.45.14:142][729]Cmd: EDIT COPY
+[2026.10.18-20.45.14:531][739]Cmd: EDIT PASTE
+[2026.10.18-20.45.33:824][308]Cmd: EDIT COPY
+[2026.10.18-20.45.34:212][318]Cmd: EDIT PASTE
+[2026.10.18-20.45.39:301][440]Cmd: EDIT COPY
+[2026.10.18-20.45.39:651][449]Cmd: EDIT PASTE
+[2026.10.18-20.47.06:748][871]Cmd: DELETE
+[2026.10.18-20.47.06:748][871]Cmd: ACTOR DELETE
+[2026.10.18-20.47.06:751][871]LogEditorActor: Deleted Actor: PointLight
+[2026.10.18-20.47.06:785][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.10.18-20.47.06:789][871]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.10.18-20.47.24:559][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1669.053345
+[2026.10.18-20.47.24:694][374]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-20.47.24:695][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1669.153809, Update Interval: 343.785522
+[2026.10.18-20.47.58:805][444]Cmd: DELETE
+[2026.10.18-20.47.58:805][444]Cmd: ACTOR DELETE
+[2026.10.18-20.47.58:810][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.18-20.47.58:841][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.18-20.47.58:845][444]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.10.18-20.48.29:594][335]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.48.32:958][426]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.48.46:613][809]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.48.54:433][ 29]Cmd: TRANSACTION UNDO
+[2026.10.18-20.48.54:435][ 29]LogEditorTransaction: Undo Transform
+[2026.10.18-20.49.16:075][612]Cmd: TRANSACTION UNDO
+[2026.10.18-20.49.16:075][612]LogEditorTransaction: Undo Transform
+[2026.10.18-20.49.40:894][248]Cmd: EDIT COPY
+[2026.10.18-20.49.41:233][255]Cmd: EDIT PASTE
+[2026.10.18-20.49.57:665][633]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.18-20.49.57:686][633]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.18-20.49.57:688][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.18-20.49.57:704][633]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.10.18-20.49.57:704][633]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.10.18-20.49.57:706][633]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.18-20.49.57:728][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021471s)
+[2026.10.18-20.49.57:728][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.021708s)
+[2026.10.18-20.49.57:807][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.10.18-20.49.57:812][633]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.18-20.49.57:818][633]LogPlayLevel: PIE: World Init took: (0.005930s)
+[2026.10.18-20.49.57:819][633]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.10.18-20.49.57:820][633]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.18-20.49.57:820][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.18-20.49.57:820][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.18-20.49.57:820][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.18-20.49.57:820][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.18-20.49.57:820][633]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.18-20.49.57:820][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.18-20.49.57:820][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.18-20.49.57:820][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.18-20.49.57:820][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.18-20.49.57:820][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.18-20.49.57:820][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.18-20.49.57:820][633]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.18-20.49.57:825][633]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.18-20.49.57:825][633]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.49.57:826][633]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.18-20.49.57:827][633]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.49.57:828][633]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.18-20.49.57:828][633]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.49.57:835][633]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.18-20.49.57:835][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.18-20.49.57:835][633]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.18-20.49.57:837][633]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.18-20.49.57:844][633]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.18-20.49.57:844][633]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.18-20.49.57:844][633]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.18-20.49.57:844][633]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.18-20.49.57:845][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.18-20.49.57:845][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.18-20.49.57:845][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.18-20.49.57:845][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.10.18-20.49.57:849][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.10.18-20.49.57:852][633]LogInit: FAudioDevice initialized with ID 2.
+[2026.10.18-20.49.57:852][633]LogAudio: Display: Audio Device (ID: 2) registered with world 'floor1'.
+[2026.10.18-20.49.57:852][633]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.10.18-20.49.57:857][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.49.57:875][633]LogStreaming: Display: FlushAsyncLoading(379): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.18-20.49.57:895][633]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.18-20.49.57:902][633]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.18-16.49.57
+[2026.10.18-20.49.57:903][633]LogWorld: Bringing up level for play took: 0.005919
+[2026.10.18-20.49.57:910][633]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.10.18-20.49.57:921][633]LogWindows: WindowsPlatformFeatures enabled
+[2026.10.18-20.49.57:923][633]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.18-20.49.57:924][633]LogModuleManager: InternalLoadLibrary: 'Voice' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-Voice.dll')
+[2026.10.18-20.49.57:931][633]LogModuleManager: InternalLoadLibrary: 'MovieSceneCapture' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-MovieSceneCapture.dll')
+[2026.10.18-20.49.57:973][633]PIE: Server logged in
+[2026.10.18-20.49.57:975][633]PIE: Play in editor total start time 0.296 seconds.
+[2026.10.18-20.49.58:153][634]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.18-20.50.12:494][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.50.12:495][ 54]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.18-20.50.12:499][ 54]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-20.50.12:505][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.50.12:514][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.18-20.50.12:521][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.50.12:561][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.50.12:563][ 54]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.10.18-20.50.12:566][ 54]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=2, StreamState=4
+[2026.10.18-20.50.12:574][ 54]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.18-20.50.12:589][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.18-20.50.12:651][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.10.18-20.50.22:668][322]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.18-20.50.22:706][322]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.18-20.50.22:706][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.18-20.50.22:706][322]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.18-20.50.22:737][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029889s)
+[2026.10.18-20.50.22:737][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.030023s)
+[2026.10.18-20.50.22:770][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.10.18-20.50.22:772][322]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.18-20.50.22:775][322]LogPlayLevel: PIE: World Init took: (0.003285s)
+[2026.10.18-20.50.22:775][322]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.10.18-20.50.22:775][322]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.18-20.50.22:775][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.18-20.50.22:775][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.18-20.50.22:775][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.18-20.50.22:775][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.18-20.50.22:775][322]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.18-20.50.22:775][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.18-20.50.22:775][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.18-20.50.22:775][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.18-20.50.22:775][322]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.18-20.50.22:775][322]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.18-20.50.22:775][322]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.18-20.50.22:775][322]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.18-20.50.22:780][322]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.18-20.50.22:781][322]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.50.22:782][322]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.18-20.50.22:782][322]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.50.22:783][322]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.18-20.50.22:784][322]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.50.22:790][322]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.18-20.50.22:790][322]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.18-20.50.22:790][322]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.18-20.50.22:791][322]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.18-20.50.22:796][322]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.18-20.50.22:796][322]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.18-20.50.22:796][322]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.18-20.50.22:796][322]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.18-20.50.22:796][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.18-20.50.22:796][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.18-20.50.22:796][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.18-20.50.22:797][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.10.18-20.50.22:801][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.10.18-20.50.22:804][322]LogInit: FAudioDevice initialized with ID 3.
+[2026.10.18-20.50.22:804][322]LogAudio: Display: Audio Device (ID: 3) registered with world 'floor1'.
+[2026.10.18-20.50.22:804][322]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.10.18-20.50.22:805][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.50.22:825][322]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.18-20.50.22:831][322]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.18-16.50.22
+[2026.10.18-20.50.22:831][322]LogWorld: Bringing up level for play took: 0.005057
+[2026.10.18-20.50.22:837][322]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.10.18-20.50.22:838][322]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.18-20.50.22:841][322]PIE: Server logged in
+[2026.10.18-20.50.22:844][322]PIE: Play in editor total start time 0.137 seconds.
+[2026.10.18-20.50.22:999][323]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.18-20.50.33:702][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.50.33:703][637]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.18-20.50.33:705][637]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-20.50.33:706][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.50.33:730][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.18-20.50.33:739][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.50.33:799][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.50.33:800][637]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.10.18-20.50.33:800][637]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=3, StreamState=4
+[2026.10.18-20.50.33:811][637]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.18-20.50.33:821][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.10.18-20.50.33:879][638]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.10.18-20.51.21:103][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.10.18-20.51.21:107][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-20.51.21:107][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-20.51.21:149][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto2
+[2026.10.18-20.51.21:150][311]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto22E2E0C7A4E41D24196F0A8B996DFE38D.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto2.umap'
+[2026.10.18-20.51.21:154][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.108
+[2026.10.18-20.51.21:154][311]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.108
+[2026.10.18-20.51.57:861][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-20.51.57:919][470]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.18-20.51.57:920][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-20.51.57:920][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-20.51.58:015][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.10.18-20.51.58:055][470]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.18-20.51.58:055][470]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor19022B2C243585B3C1488118C9ADCBD7A.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.18-20.51.58:087][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.328 ms (total: 842.867 ms)
+[2026.10.18-20.51.58:150][470]LogContentValidation: Enabled validators:
+[2026.10.18-20.51.58:150][470]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-20.51.58:150][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-20.51.58:150][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-20.51.58:150][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-20.51.58:150][470]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-20.51.58:150][470]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-20.51.58:150][470]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-20.51.58:150][470]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-20.51.58:150][470]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-20.51.58:150][470]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.18-20.51.58:150][470]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-20.51.58:151][470]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.18-20.51.58:151][470]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-20.51.58:151][470]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-20.51.58:151][470]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-20.51.58:151][470]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.18-20.51.58:151][470]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-20.51.58:151][470]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-20.51.58:151][470]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-20.51.58:151][470]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-20.51.58:151][470]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-20.51.58:151][470]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-20.52.07:738][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.10.18-20.52.07:742][732]Cmd: MAP LOAD FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/RiddlersTestCorner/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.18-20.52.07:787][732]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-20.52.07:787][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.52.07:822][732]LogAudio: Display: Audio Device unregistered from world 'floor1'.
+[2026.10.18-20.52.07:831][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.10.18-20.52.07:833][732]LogStreaming: Display: FlushAsyncLoading(380): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.18-20.52.07:844][732]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2026.10.18-20.52.07:844][732]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.10.18-20.52.07:924][732]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.18-20.52.07:957][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.18-20.52.07:975][732]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.18-20.52.07:975][732]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2026.10.18-20.52.07:975][732]LogSlate: Window 'Open Level' being destroyed
+[2026.10.18-20.52.08:058][733]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.18-20.52.14:839][943]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.18-20.52.14:857][943]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.18-20.52.14:857][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.18-20.52.14:857][943]LogPlayLevel: Creating play world package: /Game/RiddlersTestCorner/UEDPIE_0_TestMap
+[2026.10.18-20.52.14:883][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025893s)
+[2026.10.18-20.52.14:883][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RiddlersTestCorner/TestMap.TestMap to /Game/RiddlersTestCorner/UEDPIE_0_TestMap.TestMap (0.026112s)
+[2026.10.18-20.52.14:933][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.10.18-20.52.14:937][943]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.10.18-20.52.14:940][943]LogPlayLevel: PIE: World Init took: (0.002618s)
+[2026.10.18-20.52.14:940][943]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.10.18-20.52.14:940][943]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.18-20.52.14:940][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.18-20.52.14:940][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.18-20.52.14:940][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.18-20.52.14:940][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.18-20.52.14:940][943]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.18-20.52.14:940][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.18-20.52.14:940][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.18-20.52.14:940][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.18-20.52.14:940][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.18-20.52.14:940][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.18-20.52.14:940][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.18-20.52.14:940][943]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.18-20.52.14:945][943]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.18-20.52.14:945][943]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.52.14:946][943]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.18-20.52.14:947][943]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.52.14:947][943]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.18-20.52.14:948][943]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.52.14:954][943]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.18-20.52.14:954][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.18-20.52.14:954][943]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.18-20.52.14:956][943]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.18-20.52.14:961][943]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.18-20.52.14:961][943]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.18-20.52.14:961][943]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.18-20.52.14:961][943]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.18-20.52.14:961][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.18-20.52.14:961][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.18-20.52.14:961][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.18-20.52.14:962][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.10.18-20.52.14:965][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.10.18-20.52.14:969][943]LogInit: FAudioDevice initialized with ID 4.
+[2026.10.18-20.52.14:969][943]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap'.
+[2026.10.18-20.52.14:969][943]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.10.18-20.52.14:969][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.52.14:983][943]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.18-20.52.14:987][943]LogWorld: Bringing World /Game/RiddlersTestCorner/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2026.10.18-16.52.14
+[2026.10.18-20.52.14:987][943]LogWorld: Bringing up level for play took: 0.003944
+[2026.10.18-20.52.14:992][943]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.10.18-20.52.14:993][943]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.18-20.52.15:000][943]PIE: Server logged in
+[2026.10.18-20.52.15:004][943]PIE: Play in editor total start time 0.147 seconds.
+[2026.10.18-20.52.15:211][944]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.18-20.52.22:495][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.52.22:495][160]LogWorld: BeginTearingDown for /Game/RiddlersTestCorner/UEDPIE_0_TestMap
+[2026.10.18-20.52.22:499][160]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-20.52.22:502][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.52.22:532][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.18-20.52.22:539][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.52.22:589][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.52.22:590][160]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.10.18-20.52.22:591][160]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=4, StreamState=4
+[2026.10.18-20.52.22:600][160]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.18-20.52.22:613][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.10.18-20.52.22:670][161]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.10.18-20.52.38:202][581]Cmd: TRANSACTION UNDO
+[2026.10.18-20.52.38:202][581]LogEditorTransaction: Undo Transform
+[2026.10.18-20.53.03:255][378]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.18-20.53.03:284][378]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.18-20.53.03:284][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.18-20.53.03:285][378]LogPlayLevel: Creating play world package: /Game/RiddlersTestCorner/UEDPIE_0_TestMap
+[2026.10.18-20.53.03:321][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034832s)
+[2026.10.18-20.53.03:321][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RiddlersTestCorner/TestMap.TestMap to /Game/RiddlersTestCorner/UEDPIE_0_TestMap.TestMap (0.034976s)
+[2026.10.18-20.53.03:353][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.10.18-20.53.03:356][378]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.10.18-20.53.03:358][378]LogPlayLevel: PIE: World Init took: (0.002531s)
+[2026.10.18-20.53.03:358][378]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.10.18-20.53.03:358][378]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.18-20.53.03:358][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.18-20.53.03:358][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.18-20.53.03:358][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.18-20.53.03:358][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.18-20.53.03:358][378]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.18-20.53.03:358][378]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.18-20.53.03:358][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.18-20.53.03:358][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.18-20.53.03:358][378]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.18-20.53.03:358][378]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.18-20.53.03:358][378]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.18-20.53.03:358][378]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.18-20.53.03:364][378]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.18-20.53.03:364][378]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.53.03:365][378]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.18-20.53.03:366][378]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.53.03:366][378]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.18-20.53.03:367][378]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.53.03:373][378]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.18-20.53.03:373][378]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.18-20.53.03:373][378]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.18-20.53.03:375][378]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.18-20.53.03:380][378]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.18-20.53.03:380][378]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.18-20.53.03:380][378]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.18-20.53.03:380][378]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.18-20.53.03:380][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.18-20.53.03:380][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.18-20.53.03:380][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.18-20.53.03:380][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.10.18-20.53.03:383][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.10.18-20.53.03:388][378]LogInit: FAudioDevice initialized with ID 5.
+[2026.10.18-20.53.03:388][378]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2026.10.18-20.53.03:388][378]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.10.18-20.53.03:389][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.53.03:400][378]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.18-20.53.03:404][378]LogWorld: Bringing World /Game/RiddlersTestCorner/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2026.10.18-16.53.03
+[2026.10.18-20.53.03:405][378]LogWorld: Bringing up level for play took: 0.004220
+[2026.10.18-20.53.03:411][378]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.10.18-20.53.03:412][378]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.18-20.53.03:416][378]PIE: Server logged in
+[2026.10.18-20.53.03:418][378]PIE: Play in editor total start time 0.134 seconds.
+[2026.10.18-20.53.03:613][379]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.18-20.53.06:385][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.53.06:385][461]LogWorld: BeginTearingDown for /Game/RiddlersTestCorner/UEDPIE_0_TestMap
+[2026.10.18-20.53.06:391][461]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-20.53.06:392][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.53.06:397][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.18-20.53.06:406][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.53.06:443][461]LogAudio: Display: Audio Device unregistered from world 'TestMap'.
+[2026.10.18-20.53.06:443][461]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.10.18-20.53.06:443][461]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=5, StreamState=4
+[2026.10.18-20.53.06:452][461]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.18-20.53.06:456][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.53.06:462][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.10.18-20.53.06:524][462]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.10.18-20.53.16:402][745]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.18-20.53.16:423][745]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.18-20.53.16:423][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.18-20.53.16:423][745]LogPlayLevel: Creating play world package: /Game/RiddlersTestCorner/UEDPIE_0_TestMap
+[2026.10.18-20.53.16:440][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016770s)
+[2026.10.18-20.53.16:440][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RiddlersTestCorner/TestMap.TestMap to /Game/RiddlersTestCorner/UEDPIE_0_TestMap.TestMap (0.016856s)
+[2026.10.18-20.53.16:490][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.10.18-20.53.16:492][745]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.10.18-20.53.16:495][745]LogPlayLevel: PIE: World Init took: (0.002662s)
+[2026.10.18-20.53.16:495][745]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.10.18-20.53.16:495][745]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.18-20.53.16:495][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.18-20.53.16:495][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.18-20.53.16:495][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.18-20.53.16:495][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.18-20.53.16:495][745]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.18-20.53.16:495][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.18-20.53.16:495][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.18-20.53.16:495][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.18-20.53.16:495][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.18-20.53.16:495][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.18-20.53.16:495][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.18-20.53.16:495][745]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.18-20.53.16:499][745]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.18-20.53.16:500][745]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.53.16:500][745]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.18-20.53.16:501][745]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.53.16:502][745]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.18-20.53.16:503][745]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.53.16:509][745]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.18-20.53.16:509][745]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.18-20.53.16:509][745]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.18-20.53.16:510][745]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.18-20.53.16:514][745]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.18-20.53.16:514][745]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.18-20.53.16:514][745]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.18-20.53.16:514][745]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.18-20.53.16:514][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.18-20.53.16:515][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.18-20.53.16:515][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.18-20.53.16:515][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.10.18-20.53.16:518][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.10.18-20.53.16:522][745]LogInit: FAudioDevice initialized with ID 6.
+[2026.10.18-20.53.16:522][745]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMap'.
+[2026.10.18-20.53.16:522][745]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.10.18-20.53.16:522][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.53.16:535][745]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.18-20.53.16:539][745]LogWorld: Bringing World /Game/RiddlersTestCorner/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2026.10.18-16.53.16
+[2026.10.18-20.53.16:539][745]LogWorld: Bringing up level for play took: 0.003784
+[2026.10.18-20.53.16:544][745]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.10.18-20.53.16:545][745]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.18-20.53.16:548][745]PIE: Server logged in
+[2026.10.18-20.53.16:551][745]PIE: Play in editor total start time 0.129 seconds.
+[2026.10.18-20.53.16:732][746]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.18-20.53.21:737][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.53.21:737][900]LogWorld: BeginTearingDown for /Game/RiddlersTestCorner/UEDPIE_0_TestMap
+[2026.10.18-20.53.21:741][900]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-20.53.21:743][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.53.21:766][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.18-20.53.21:776][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.53.21:828][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.53.21:828][900]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.10.18-20.53.21:829][900]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=6, StreamState=4
+[2026.10.18-20.53.21:837][900]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.18-20.53.21:847][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.10.18-20.53.21:905][901]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.10.18-20.53.30:745][145]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.18-20.53.30:778][145]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.18-20.53.30:778][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.18-20.53.30:779][145]LogPlayLevel: Creating play world package: /Game/RiddlersTestCorner/UEDPIE_0_TestMap
+[2026.10.18-20.53.30:823][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044148s)
+[2026.10.18-20.53.30:823][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RiddlersTestCorner/TestMap.TestMap to /Game/RiddlersTestCorner/UEDPIE_0_TestMap.TestMap (0.044366s)
+[2026.10.18-20.53.30:861][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.10.18-20.53.30:863][145]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.10.18-20.53.30:866][145]LogPlayLevel: PIE: World Init took: (0.002788s)
+[2026.10.18-20.53.30:866][145]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.10.18-20.53.30:866][145]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.18-20.53.30:866][145]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.18-20.53.30:866][145]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.18-20.53.30:866][145]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.18-20.53.30:866][145]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.18-20.53.30:866][145]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.18-20.53.30:866][145]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.18-20.53.30:867][145]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.18-20.53.30:867][145]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.18-20.53.30:867][145]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.18-20.53.30:867][145]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.18-20.53.30:867][145]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.18-20.53.30:867][145]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.18-20.53.30:871][145]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.18-20.53.30:871][145]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.53.30:872][145]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.18-20.53.30:873][145]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.53.30:875][145]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.18-20.53.30:876][145]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.18-20.53.30:882][145]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.18-20.53.30:882][145]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.18-20.53.30:882][145]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.18-20.53.30:883][145]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.18-20.53.30:888][145]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.18-20.53.30:888][145]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.18-20.53.30:888][145]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.18-20.53.30:888][145]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.18-20.53.30:888][145]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.18-20.53.30:888][145]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.18-20.53.30:888][145]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.18-20.53.30:890][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.10.18-20.53.30:893][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.10.18-20.53.30:897][145]LogInit: FAudioDevice initialized with ID 7.
+[2026.10.18-20.53.30:897][145]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestMap'.
+[2026.10.18-20.53.30:897][145]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.10.18-20.53.30:897][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.53.30:920][145]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.18-20.53.30:924][145]LogWorld: Bringing World /Game/RiddlersTestCorner/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2026.10.18-16.53.30
+[2026.10.18-20.53.30:925][145]LogWorld: Bringing up level for play took: 0.004241
+[2026.10.18-20.53.30:931][145]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.10.18-20.53.30:932][145]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.18-20.53.30:936][145]PIE: Server logged in
+[2026.10.18-20.53.30:939][145]PIE: Play in editor total start time 0.161 seconds.
+[2026.10.18-20.53.31:147][146]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.18-20.53.36:226][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.53.36:226][309]LogWorld: BeginTearingDown for /Game/RiddlersTestCorner/UEDPIE_0_TestMap
+[2026.10.18-20.53.36:230][309]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-20.53.36:234][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.53.36:239][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.18-20.53.36:250][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.53.36:299][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-20.53.36:299][309]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.10.18-20.53.36:300][309]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=7, StreamState=4
+[2026.10.18-20.53.36:309][309]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.18-20.53.36:319][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.10.18-20.53.36:389][310]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.10.18-20.54.01:107][436]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2065.598145
+[2026.10.18-20.54.02:108][439]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-20.54.02:108][439]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2066.265137, Update Interval: 320.290527
+[2026.10.18-20.54.32:296][994]Cmd: TRANSACTION UNDO
+[2026.10.18-20.54.32:296][994]LogEditorTransaction: Undo Transform
+[2026.10.18-20.54.33:986][ 44]Cmd: TRANSACTION UNDO
+[2026.10.18-20.54.33:986][ 44]LogEditorTransaction: Undo Transform
+[2026.10.18-20.54.37:571][160]Cmd: TRANSACTION UNDO
+[2026.10.18-20.54.37:571][160]LogEditorTransaction: Undo Transform
+[2026.10.18-20.54.39:588][221]Cmd: TRANSACTION UNDO
+[2026.10.18-20.54.39:588][221]LogEditorTransaction: Undo Transform
+[2026.10.18-20.54.41:273][276]Cmd: TRANSACTION UNDO
+[2026.10.18-20.54.41:273][276]LogEditorTransaction: Undo Transform
+[2026.10.18-20.54.42:936][325]Cmd: TRANSACTION UNDO
+[2026.10.18-20.54.42:936][325]LogEditorTransaction: Undo Transform
+[2026.10.18-20.54.45:294][402]Cmd: TRANSACTION UNDO
+[2026.10.18-20.54.45:294][402]LogEditorTransaction: Undo Clicking on Elements
+[2026.10.18-20.54.52:078][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.10.18-20.54.52:085][610]Cmd: MAP LOAD FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.18-20.54.52:126][610]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-20.54.52:126][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-20.54.52:159][610]LogAudio: Display: Audio Device unregistered from world 'TestMap'.
+[2026.10.18-20.54.52:162][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.10.18-20.54.52:165][610]LogStreaming: Display: FlushAsyncLoading(381): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.18-20.54.52:176][610]LogAudio: Display: Audio Device (ID: 1) registered with world 'floor1'.
+[2026.10.18-20.54.52:176][610]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.18-20.54.52:227][610]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.18-20.54.52:279][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.10.18-20.54.52:296][610]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.18-20.54.52:296][610]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2026.10.18-20.54.52:296][610]LogSlate: Window 'Open Level' being destroyed
+[2026.10.18-20.54.52:373][611]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.18-20.54.58:617][786]Cmd: EDIT COPY
+[2026.10.18-20.55.03:026][895]Cmd: DELETE
+[2026.10.18-20.55.03:026][895]Cmd: ACTOR DELETE
+[2026.10.18-20.55.03:031][895]LogEditorActor: Deleted Actor: Problem_LockedCabinet_C
+[2026.10.18-20.55.03:066][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.10.18-20.55.03:071][895]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2026.10.18-20.55.40:994][911]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.56.33:084][305]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.57.18:468][693]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.57.28:969][993]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.57.34:391][134]Cmd: TRANSACTION UNDO
+[2026.10.18-20.57.34:392][134]LogEditorTransaction: Undo Transform
+[2026.10.18-20.57.38:999][245]Cmd: TRANSACTION UNDO
+[2026.10.18-20.57.38:999][245]LogEditorTransaction: Undo Transform
+[2026.10.18-20.57.49:003][498]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.58.00:667][806]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.58.14:529][175]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.58.45:380][ 17]LogShaderCompilers: Display: ================================================
+[2026.10.18-20.58.45:380][ 17]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.18-20.58.45:380][ 17]LogShaderCompilers: Display: Total job queries 375, among them cache hits 37 (9.87%), DDC hits 316 (84.27%), Duplicates 21 (5.60%)
+[2026.10.18-20.58.45:380][ 17]LogShaderCompilers: Display: Tracking 317 distinct input hashes that result in 240 distinct outputs (75.71%)
+[2026.10.18-20.58.45:380][ 17]LogShaderCompilers: Display: RAM used: 3.17 MiB of 1.60 GiB budget. Usage: 0.19%
+[2026.10.18-20.58.45:380][ 17]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Job execution time: average 3.65 s, max 3.65 s
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Job life time (pending + execution): average 3.68 s, max 3.68
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Shader code size: total 14.77 KiB, numShaders 2, average 7.385 KiB, min 4.938 KiB, max 9.832 KiB
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.68 s
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Average processing rate: 0.27 jobs/sec
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Total thread time: 1.926 s
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Total thread preprocess time: 14.969 s
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Percentage time preprocessing: 777.01%
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Effective parallelization: 0.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.065483
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> (compiled    1 times, average 1.15 sec, max 1.15 sec, min 1.15 sec)
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display:            TVelocityVS<EVelocityPassMode::Velocity_Standard> (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> - 59.78% of total time (compiled    1 times, average 1.15 sec, max 1.15 sec, min 1.15 sec)
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display:            TVelocityVS<EVelocityPassMode::Velocity_Standard> - 40.22% of total time (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.18-20.58.45:381][ 17]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.18-20.58.45:382][ 17]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.10.18-20.58.45:382][ 17]LogShaderCompilers: Display: === Material stats ===
+[2026.10.18-20.58.45:382][ 17]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.18-20.58.45:382][ 17]LogShaderCompilers: Display: Materials Translated:    161
+[2026.10.18-20.58.45:382][ 17]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.10.18-20.58.45:382][ 17]LogShaderCompilers: Display: Material Translation Only: 0.11 s (50%)
+[2026.10.18-20.58.45:382][ 17]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.10.18-20.58.45:382][ 17]LogShaderCompilers: Display: Material Cache Hits: 27 (17%)
+[2026.10.18-20.58.45:382][ 17]LogShaderCompilers: Display: ================================================
+[2026.10.18-20.58.58:190][358]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-20.59.02:484][470]Cmd: TRANSACTION UNDO
+[2026.10.18-20.59.02:484][470]LogEditorTransaction: Undo Transform
+[2026.10.18-21.00.04:266][100]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2428.751709
+[2026.10.18-21.00.04:439][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-21.00.04:439][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2428.882080, Update Interval: 359.304169
+[2026.10.18-21.00.11:174][297]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.00.50:272][415]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.00.54:062][540]Cmd: TRANSACTION UNDO
+[2026.10.18-21.00.54:062][540]LogEditorTransaction: Undo Transform
+[2026.10.18-21.00.57:702][647]Cmd: TRANSACTION UNDO
+[2026.10.18-21.00.57:702][647]LogEditorTransaction: Undo Transform
+[2026.10.18-21.01.05:036][871]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.01.07:466][949]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.02.22:452][997]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.02.26:182][114]Cmd: TRANSACTION UNDO
+[2026.10.18-21.02.26:182][114]LogEditorTransaction: Undo Transform
+[2026.10.18-21.03.15:073][466]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.03.27:186][763]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.03.35:428][955]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.03.43:339][150]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.04.24:088][230]Cmd: DELETE
+[2026.10.18-21.04.24:088][230]Cmd: ACTOR DELETE
+[2026.10.18-21.04.24:120][230]LogEditorActor: Deleted Actor: PointLight
+[2026.10.18-21.04.24:426][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.10.18-21.04.24:436][230]LogEditorActor: Deleted 1 Actors (0.349 secs)
+[2026.10.18-21.05.31:111][ 18]Cmd: DELETE
+[2026.10.18-21.05.31:112][ 18]Cmd: ACTOR DELETE
+[2026.10.18-21.05.31:116][ 18]LogEditorActor: Deleted Actor: PointLight
+[2026.10.18-21.05.31:154][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.18-21.05.31:159][ 18]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2026.10.18-21.06.11:987][ 78]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.06.11:987][ 78]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.06.11:988][ 78]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_0
+[2026.10.18-21.06.11:990][ 78]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_0
+[2026.10.18-21.06.14:044][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.10.18-21.06.14:048][132]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.10.18-21.06.14:056][132]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.06.14:056][132]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.06.14:058][132]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_7
+[2026.10.18-21.06.14:059][132]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_7
+[2026.10.18-21.06.17:907][223]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.06.17:907][223]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.06.17:908][223]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_8
+[2026.10.18-21.06.17:910][223]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_8
+[2026.10.18-21.06.19:154][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.10.18-21.06.19:158][256]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2026.10.18-21.06.19:167][256]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.06.19:167][256]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.06.19:169][256]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_9
+[2026.10.18-21.06.19:171][256]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_9
+[2026.10.18-21.06.22:817][348]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.06.22:817][348]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.06.22:818][348]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_0
+[2026.10.18-21.06.22:821][348]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_0
+[2026.10.18-21.06.24:515][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.10.18-21.06.24:518][391]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2026.10.18-21.06.24:528][391]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.06.24:528][391]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.06.24:531][391]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_1
+[2026.10.18-21.06.24:533][391]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_1
+[2026.10.18-21.06.27:020][444]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.06.27:020][444]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.06.27:021][444]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_2
+[2026.10.18-21.06.27:023][444]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_2
+[2026.10.18-21.06.28:485][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.18-21.06.28:488][483]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2026.10.18-21.06.28:499][483]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.06.28:499][483]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.06.28:502][483]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_3
+[2026.10.18-21.06.28:505][483]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_3
+[2026.10.18-21.06.30:104][528]Cmd: EDIT COPY
+[2026.10.18-21.06.30:594][539]Cmd: EDIT PASTE
+[2026.10.18-21.06.30:594][539]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.10.18-21.06.33:657][619]Cmd: EDIT COPY
+[2026.10.18-21.06.34:108][631]Cmd: EDIT PASTE
+[2026.10.18-21.06.38:171][737]Cmd: EDIT COPY
+[2026.10.18-21.06.38:539][747]Cmd: EDIT PASTE
+[2026.10.18-21.06.45:495][932]Cmd: EDIT COPY
+[2026.10.18-21.06.45:872][940]Cmd: EDIT PASTE
+[2026.10.18-21.06.51:525][ 85]Cmd: EDIT COPY
+[2026.10.18-21.06.51:854][ 92]Cmd: EDIT PASTE
+[2026.10.18-21.06.57:143][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-21.06.57:201][220]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.18-21.06.57:203][220]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-21.06.57:203][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-21.06.57:271][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.18-21.06.57:319][220]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.18-21.06.57:319][220]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor11265ADB84697680B03CFF7B38A12064D.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.18-21.06.57:358][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.993 ms (total: 1.05 sec)
+[2026.10.18-21.06.57:417][220]LogContentValidation: Enabled validators:
+[2026.10.18-21.06.57:417][220]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-21.06.57:417][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-21.06.57:417][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-21.06.57:417][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-21.06.57:417][220]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-21.06.57:417][220]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-21.06.57:417][220]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-21.06.57:417][220]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-21.06.57:417][220]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-21.06.57:417][220]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.18-21.06.57:417][220]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-21.06.57:417][220]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.18-21.06.57:417][220]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-21.06.57:417][220]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-21.06.57:417][220]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-21.06.57:417][220]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.18-21.06.57:418][220]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-21.06.57:418][220]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-21.06.57:418][220]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-21.06.57:418][220]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-21.06.57:418][220]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-21.06.57:418][220]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-21.07.02:863][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2847.355469
+[2026.10.18-21.07.03:004][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-21.07.03:004][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2847.460938, Update Interval: 325.992615
+[2026.10.18-21.11.37:423][878]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.11.41:485][996]Cmd: TRANSACTION UNDO
+[2026.10.18-21.11.41:485][996]LogEditorTransaction: Undo Transform
+[2026.10.18-21.11.46:857][144]Cmd: TRANSACTION UNDO
+[2026.10.18-21.11.46:857][144]LogEditorTransaction: Undo Transform
+[2026.10.18-21.11.50:515][248]Cmd: TRANSACTION UNDO
+[2026.10.18-21.11.50:515][248]LogEditorTransaction: Undo Transform
+[2026.10.18-21.12.35:635][363]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.12.45:004][620]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.13.00:517][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3204.998291
+[2026.10.18-21.13.00:656][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-21.13.00:656][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3205.099121, Update Interval: 339.207733
+[2026.10.18-21.17.32:107][482]Cmd: DELETE
+[2026.10.18-21.17.32:107][482]Cmd: ACTOR DELETE
+[2026.10.18-21.17.32:117][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.18-21.17.32:194][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.10.18-21.17.32:211][482]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2026.10.18-21.17.40:519][713]Cmd: DELETE
+[2026.10.18-21.17.40:519][713]Cmd: ACTOR DELETE
+[2026.10.18-21.17.40:523][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.18-21.17.40:553][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.10.18-21.17.40:557][713]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.10.18-21.19.16:947][390]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.19.20:113][496]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3584.595215
+[2026.10.18-21.19.20:193][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-21.19.20:193][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3584.659424, Update Interval: 329.770203
+[2026.10.18-21.20.14:149][102]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.20.17:935][208]Cmd: TRANSACTION UNDO
+[2026.10.18-21.20.17:935][208]LogEditorTransaction: Undo Transform
+[2026.10.18-21.20.38:231][778]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.20.41:268][860]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.20.45:453][970]Cmd: TRANSACTION UNDO
+[2026.10.18-21.20.45:453][970]LogEditorTransaction: Undo Transform
+[2026.10.18-21.21.05:736][509]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.21.50:681][609]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.438 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17424 files in 17785 folders with total size 350 MiB.
+[2026.10.18-21.22.36:494][839]Cmd: DELETE
+[2026.10.18-21.22.36:494][839]Cmd: ACTOR DELETE
+[2026.10.18-21.22.36:505][839]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.18-21.22.36:589][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.10.18-21.22.36:610][839]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2026.10.18-21.22.42:794][  1]Cmd: DELETE
+[2026.10.18-21.22.42:794][  1]Cmd: ACTOR DELETE
+[2026.10.18-21.22.42:798][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.18-21.22.42:828][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.10.18-21.22.42:833][  1]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.10.18-21.23.13:964][881]Cmd: DELETE
+[2026.10.18-21.23.13:964][881]Cmd: ACTOR DELETE
+[2026.10.18-21.23.13:968][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.18-21.23.14:034][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.10.18-21.23.14:039][881]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2026.10.18-21.23.54:055][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.10.18-21.23.54:061][686]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-21.23.54:061][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-21.23.54:096][686]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto3
+[2026.10.18-21.23.54:097][686]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto309F23E7B42EA799AD312F38F4AEB7F37.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto3.umap'
+[2026.10.18-21.23.54:100][686]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.092
+[2026.10.18-21.23.54:100][686]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2026.10.18-21.23.55:917][751]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.24.02:550][961]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.24.19:725][413]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.24.36:036][848]Cmd: TRANSACTION UNDO
+[2026.10.18-21.24.36:036][848]LogEditorTransaction: Undo Transform
+[2026.10.18-21.24.52:355][285]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.24.57:570][429]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.25.10:968][810]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.25.14:587][912]Cmd: TRANSACTION UNDO
+[2026.10.18-21.25.14:587][912]LogEditorTransaction: Undo Transform
+[2026.10.18-21.25.34:757][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3959.235107
+[2026.10.18-21.25.34:879][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-21.25.34:879][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3959.330811, Update Interval: 300.952179
+[2026.10.18-21.25.41:546][670]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.25.46:425][795]Cmd: TRANSACTION UNDO
+[2026.10.18-21.25.46:425][795]LogEditorTransaction: Undo Transform
+[2026.10.18-21.26.25:721][903]Cmd: TRANSACTION UNDO
+[2026.10.18-21.26.25:721][903]LogEditorTransaction: Undo Transform
+[2026.10.18-21.26.27:385][950]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.26.48:479][606]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.27.03:412][114]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.27.11:779][363]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.27.22:074][647]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.27.34:095][997]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.27.46:956][346]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.28.06:838][879]Cmd: DELETE
+[2026.10.18-21.28.06:838][879]Cmd: ACTOR DELETE
+[2026.10.18-21.28.06:860][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.18-21.28.06:984][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.10.18-21.28.07:001][879]LogEditorActor: Deleted 1 Actors (0.161 secs)
+[2026.10.18-21.28.26:991][396]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.28.32:413][517]Cmd: TRANSACTION UNDO
+[2026.10.18-21.28.32:413][517]LogEditorTransaction: Undo Transform
+[2026.10.18-21.28.53:043][  4]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.29.30:725][ 45]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.30.02:789][190]Cmd: TRANSACTION UNDO
+[2026.10.18-21.30.02:789][190]LogEditorTransaction: Undo Transform
+[2026.10.18-21.30.05:246][268]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-21.30.12:989][552]Cmd: TRANSACTION UNDO
+[2026.10.18-21.30.12:989][552]LogEditorTransaction: Undo Transform
+[2026.10.18-21.31.32:999][663]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4317.475586
+[2026.10.18-21.31.34:001][666]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-21.31.34:001][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4318.143066, Update Interval: 350.122986
