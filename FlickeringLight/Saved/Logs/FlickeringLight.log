@@ -3139,3 +3139,312 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.18-21.31.32:999][663]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4317.475586
 [2026.10.18-21.31.34:001][666]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.18-21.31.34:001][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4318.143066, Update Interval: 350.122986
+[2026.10.18-21.34.19:650][193]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.34.19:650][193]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.34.19:653][193]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_0
+[2026.10.18-21.34.19:654][193]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_0
+[2026.10.18-21.34.20:396][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.10.18-21.34.20:408][215]LogEditorActor: Deleted 0 Actors (0.095 secs)
+[2026.10.18-21.34.20:416][215]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.34.20:416][215]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.34.20:418][215]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_1
+[2026.10.18-21.34.20:421][215]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_1
+[2026.10.18-21.34.31:624][540]Cmd: EDIT COPY
+[2026.10.18-21.34.31:979][550]Cmd: EDIT PASTE
+[2026.10.18-21.34.36:471][675]Cmd: EDIT PASTE
+[2026.10.18-21.34.43:168][860]Cmd: EDIT COPY
+[2026.10.18-21.34.43:589][872]Cmd: EDIT PASTE
+[2026.10.18-21.34.56:544][202]Cmd: EDIT COPY
+[2026.10.18-21.34.57:508][230]Cmd: EDIT PASTE
+[2026.10.18-21.35.06:784][480]Cmd: EDIT COPY
+[2026.10.18-21.35.07:210][492]Cmd: EDIT PASTE
+[2026.10.18-21.35.11:496][604]Cmd: EDIT COPY
+[2026.10.18-21.35.11:916][616]Cmd: EDIT PASTE
+[2026.10.18-21.36.31:131][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.10.18-21.36.31:142][174]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-21.36.31:142][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-21.36.31:187][174]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto4
+[2026.10.18-21.36.31:187][174]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto4D98F3C7F4ED8C746AA983EBA38DBD76E.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto4.umap'
+[2026.10.18-21.36.31:191][174]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.093
+[2026.10.18-21.36.31:191][174]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2026.10.18-21.38.08:391][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4712.846680
+[2026.10.18-21.38.09:392][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-21.38.09:392][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4713.514160, Update Interval: 359.549561
+[2026.10.18-21.38.44:884][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.38.44:884][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.38.44:885][696]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_13
+[2026.10.18-21.38.44:888][696]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_13
+[2026.10.18-21.38.46:896][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.10.18-21.38.46:898][759]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2026.10.18-21.38.46:905][759]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.38.46:906][759]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.38.46:908][759]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_14
+[2026.10.18-21.38.46:910][759]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_14
+[2026.10.18-21.38.49:697][836]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.38.49:697][836]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.38.49:698][836]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_6
+[2026.10.18-21.38.49:700][836]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_6
+[2026.10.18-21.38.51:167][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.10.18-21.38.51:170][884]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2026.10.18-21.38.51:178][884]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.38.51:178][884]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.38.51:180][884]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_7
+[2026.10.18-21.38.51:182][884]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_7
+[2026.10.18-21.38.54:153][964]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.38.54:153][964]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.38.54:155][964]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_15
+[2026.10.18-21.38.54:158][964]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_15
+[2026.10.18-21.38.56:531][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.10.18-21.38.56:535][ 36]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2026.10.18-21.38.56:543][ 36]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.38.56:543][ 36]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.38.56:546][ 36]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_16
+[2026.10.18-21.38.56:548][ 36]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_16
+[2026.10.18-21.38.58:535][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.38.58:535][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.38.58:536][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_8
+[2026.10.18-21.38.58:539][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_8
+[2026.10.18-21.39.00:743][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.10.18-21.39.00:747][156]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2026.10.18-21.39.00:755][156]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.39.00:755][156]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.39.00:757][156]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_9
+[2026.10.18-21.39.00:760][156]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_9
+[2026.10.18-21.39.04:211][241]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.39.04:211][241]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.39.04:212][241]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_17
+[2026.10.18-21.39.04:214][241]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_17
+[2026.10.18-21.39.05:818][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.10.18-21.39.05:822][292]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.10.18-21.39.05:830][292]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.39.05:830][292]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.39.05:833][292]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_18
+[2026.10.18-21.39.05:835][292]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_18
+[2026.10.18-21.39.10:808][430]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.39.10:808][430]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.39.10:809][430]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_19
+[2026.10.18-21.39.10:811][430]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_19
+[2026.10.18-21.39.15:748][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.10.18-21.39.15:751][578]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2026.10.18-21.39.15:759][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.39.15:759][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.39.15:761][578]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_20
+[2026.10.18-21.39.15:764][578]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_20
+[2026.10.18-21.39.21:971][733]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.39.21:971][733]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.39.21:972][733]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_10
+[2026.10.18-21.39.21:974][733]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_10
+[2026.10.18-21.39.24:103][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.10.18-21.39.24:106][802]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.10.18-21.39.24:114][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.39.24:114][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.39.24:116][802]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_11
+[2026.10.18-21.39.24:119][802]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_11
+[2026.10.18-21.39.25:993][855]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.39.25:993][855]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.39.25:994][855]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_12
+[2026.10.18-21.39.25:996][855]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_12
+[2026.10.18-21.39.28:082][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.10.18-21.39.28:085][916]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.10.18-21.39.28:093][916]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.39.28:093][916]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.39.28:096][916]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_13
+[2026.10.18-21.39.28:098][916]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_13
+[2026.10.18-21.39.30:798][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-21.39.30:863][993]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.18-21.39.30:864][993]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-21.39.30:864][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-21.39.30:940][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.10.18-21.39.30:989][993]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.18-21.39.30:990][993]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor11828FB5C45CD9D61205D46AB6B23D659.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.18-21.39.31:022][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 224.121 ms (total: 1.28 sec)
+[2026.10.18-21.39.31:080][993]LogContentValidation: Enabled validators:
+[2026.10.18-21.39.31:080][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-21.39.31:080][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-21.39.31:080][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-21.39.31:080][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-21.39.31:080][993]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-21.39.31:080][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-21.39.31:080][993]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-21.39.31:081][993]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-21.39.31:081][993]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-21.39.31:081][993]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.18-21.39.31:081][993]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-21.39.31:081][993]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.18-21.39.31:081][993]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-21.39.31:081][993]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-21.39.31:081][993]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-21.39.31:081][993]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.18-21.39.31:081][993]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-21.39.31:081][993]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-21.39.31:081][993]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-21.39.31:081][993]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-21.39.31:081][993]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-21.39.31:081][993]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-21.40.06:588][ 86]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.06:588][ 86]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.06:589][ 86]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_14
+[2026.10.18-21.40.06:591][ 86]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_14
+[2026.10.18-21.40.09:183][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.10.18-21.40.09:185][166]LogEditorActor: Deleted 0 Actors (0.069 secs)
+[2026.10.18-21.40.09:193][166]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.09:193][166]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.09:196][166]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_15
+[2026.10.18-21.40.09:199][166]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_15
+[2026.10.18-21.40.11:474][232]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.11:474][232]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.11:476][232]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_16
+[2026.10.18-21.40.11:479][232]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_16
+[2026.10.18-21.40.13:048][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.10.18-21.40.13:051][280]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.10.18-21.40.13:060][280]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.13:060][280]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.13:062][280]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_17
+[2026.10.18-21.40.13:064][280]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_17
+[2026.10.18-21.40.15:693][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.15:693][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.15:695][351]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_18
+[2026.10.18-21.40.15:698][351]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_18
+[2026.10.18-21.40.17:095][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.10.18-21.40.17:099][392]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2026.10.18-21.40.17:108][392]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.17:108][392]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.17:110][392]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_19
+[2026.10.18-21.40.17:112][392]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_19
+[2026.10.18-21.40.19:012][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.19:012][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.19:013][448]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_20
+[2026.10.18-21.40.19:015][448]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_20
+[2026.10.18-21.40.19:063][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.10.18-21.40.19:067][448]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.10.18-21.40.19:074][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.19:075][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst_C
+[2026.10.18-21.40.19:076][448]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_21
+[2026.10.18-21.40.19:078][448]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PressureBurst.Problem_PressureBurst as actor: Problem_PressureBurst_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PressureBurst_C_21
+[2026.10.18-21.40.35:775][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.35:775][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.35:776][928]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_21
+[2026.10.18-21.40.35:779][928]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_21
+[2026.10.18-21.40.36:071][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.10.18-21.40.36:075][936]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.10.18-21.40.36:083][936]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.36:083][936]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.36:085][936]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_22
+[2026.10.18-21.40.36:087][936]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_22
+[2026.10.18-21.40.40:885][ 76]Cmd: DELETE
+[2026.10.18-21.40.40:885][ 76]Cmd: ACTOR DELETE
+[2026.10.18-21.40.40:891][ 76]LogEditorActor: Deleted Actor: Problem_PipeWeld_C
+[2026.10.18-21.40.40:921][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.10.18-21.40.40:926][ 76]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.10.18-21.40.43:231][137]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.43:231][137]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.43:232][137]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_23
+[2026.10.18-21.40.43:234][137]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_23
+[2026.10.18-21.40.46:619][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.10.18-21.40.46:623][244]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2026.10.18-21.40.46:631][244]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.46:631][244]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.46:633][244]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_24
+[2026.10.18-21.40.46:634][244]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_24
+[2026.10.18-21.40.49:368][318]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.49:368][318]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.49:369][318]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_25
+[2026.10.18-21.40.49:372][318]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_25
+[2026.10.18-21.40.52:873][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.10.18-21.40.52:875][426]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2026.10.18-21.40.52:884][426]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.52:884][426]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.52:886][426]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_26
+[2026.10.18-21.40.52:888][426]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_26
+[2026.10.18-21.40.55:087][482]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.55:087][482]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.55:089][482]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_27
+[2026.10.18-21.40.55:093][482]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_27
+[2026.10.18-21.40.56:402][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.10.18-21.40.56:404][519]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2026.10.18-21.40.56:414][519]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.56:414][519]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.56:417][519]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_28
+[2026.10.18-21.40.56:420][519]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_28
+[2026.10.18-21.40.58:651][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.58:651][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.58:652][576]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_29
+[2026.10.18-21.40.58:655][576]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_29
+[2026.10.18-21.40.59:593][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.10.18-21.40.59:597][603]LogEditorActor: Deleted 0 Actors (0.072 secs)
+[2026.10.18-21.40.59:604][603]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.59:604][603]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld_C
+[2026.10.18-21.40.59:607][603]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_30
+[2026.10.18-21.40.59:609][603]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_PipeWeld.Problem_PipeWeld as actor: Problem_PipeWeld_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_PipeWeld_C_30
+[2026.10.18-21.41.10:240][908]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.10:240][908]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.10:241][908]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_8
+[2026.10.18-21.41.10:245][908]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_8
+[2026.10.18-21.41.11:368][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.10.18-21.41.11:371][940]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2026.10.18-21.41.11:381][940]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.11:381][940]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.11:383][940]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_9
+[2026.10.18-21.41.11:386][940]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_9
+[2026.10.18-21.41.13:264][993]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.13:264][993]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.13:265][993]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_10
+[2026.10.18-21.41.13:267][993]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_10
+[2026.10.18-21.41.14:416][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.10.18-21.41.14:420][ 25]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.10.18-21.41.14:428][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.14:428][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.14:430][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_11
+[2026.10.18-21.41.14:431][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_11
+[2026.10.18-21.41.16:467][ 80]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.16:467][ 80]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.16:468][ 80]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_12
+[2026.10.18-21.41.16:470][ 80]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_12
+[2026.10.18-21.41.17:405][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.10.18-21.41.17:407][106]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.10.18-21.41.17:417][106]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.17:418][106]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire_C
+[2026.10.18-21.41.17:419][106]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_13
+[2026.10.18-21.41.17:422][106]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/Problems/Problem_Fire.Problem_Fire as actor: Problem_Fire_C /Game/newlevel/floor1.floor1:PersistentLevel.Problem_Fire_C_13
+[2026.10.18-21.44.57:367][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5121.836914
+[2026.10.18-21.44.58:366][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-21.44.58:366][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5122.502441, Update Interval: 358.608368
+[2026.10.18-21.49.31:358][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.10.18-21.49.31:363][690]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-21.49.31:363][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-21.49.31:410][690]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto5
+[2026.10.18-21.49.31:411][690]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto503F04053446D4413FF708AB7136A412B.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto5.umap'
+[2026.10.18-21.49.31:415][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.090
+[2026.10.18-21.49.31:416][690]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2026.10.18-21.51.35:235][138]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5519.713379
+[2026.10.18-21.51.36:235][141]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-21.51.36:235][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5520.380371, Update Interval: 347.195038
+[2026.10.18-21.58.00:572][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5905.046875
+[2026.10.18-21.58.01:571][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-21.58.01:571][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5905.713379, Update Interval: 358.687103
+[2026.10.18-22.04.40:577][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6305.048340
+[2026.10.18-22.04.41:576][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-22.04.41:576][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6305.716309, Update Interval: 357.888733
+[2026.10.18-22.11.09:917][662]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6694.400879
+[2026.10.18-22.11.10:917][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-22.11.10:917][666]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6695.066895, Update Interval: 322.178406
+[2026.10.18-22.17.22:587][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7067.073242
+[2026.10.18-22.17.23:587][783]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-22.17.23:588][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7067.740234, Update Interval: 310.587494
+[2026.10.18-22.21.50:452][584]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.208 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17424 files in 17785 folders with total size 350 MiB.
+[2026.10.18-22.23.17:890][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7422.377930
+[2026.10.18-22.23.18:083][911]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-22.23.18:083][911]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7422.531250, Update Interval: 352.726837
+[2026.10.18-22.28.27:904][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.10.18-22.28.27:910][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-22.28.27:910][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-22.28.27:996][ 89]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto6
+[2026.10.18-22.28.27:998][ 89]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto6DA1C75B14BA6BB63A865FEA1ABCDE366.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto6.umap'
+[2026.10.18-22.28.28:005][ 89]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.149
+[2026.10.18-22.28.28:005][ 89]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.149
+[2026.10.18-22.29.46:465][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7810.948242
+[2026.10.18-22.29.47:465][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-22.29.47:465][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7811.614746, Update Interval: 355.303192
+[2026.10.18-22.36.37:149][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8221.631836
+[2026.10.18-22.36.38:148][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-22.36.38:148][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8222.295898, Update Interval: 335.607788
