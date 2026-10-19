@@ -3551,3 +3551,1041 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.18-23.20.49:332][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.18-23.20.49:333][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10873.502930, Update Interval: 327.875000
 [2026.10.18-23.21.50:965][ 38]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.721 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17424 files in 17785 folders with total size 350 MiB.
+[2026.10.18-23.26.11:247][180]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.10.18-23.26.17:210][296]Cmd: DELETE
+[2026.10.18-23.26.17:210][296]Cmd: ACTOR DELETE
+[2026.10.18-23.26.17:220][296]LogEditorActor: Deleted Actor: Brush
+[2026.10.18-23.26.17:297][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2026.10.18-23.26.17:360][296]LogEditorActor: Deleted 1 Actors (0.150 secs)
+[2026.10.18-23.26.28:894][513]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.10.18-23.26.52:181][996]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-23.27.06:409][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11250.936523
+[2026.10.18-23.27.06:574][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-23.27.06:575][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11251.058594, Update Interval: 303.144012
+[2026.10.18-23.29.07:344][811]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-23.29.15:077][  2]Cmd: EDIT COPY
+[2026.10.18-23.29.15:532][ 13]Cmd: EDIT PASTE
+[2026.10.18-23.29.39:046][550]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-23.29.54:891][996]Cmd: EDIT COPY
+[2026.10.18-23.29.55:473][ 14]Cmd: EDIT PASTE
+[2026.10.18-23.30.06:992][327]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-23.31.23:040][483]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-23.31.39:893][975]Cmd: TRANSACTION UNDO
+[2026.10.18-23.31.39:893][975]LogEditorTransaction: Undo Transform
+[2026.10.18-23.32.29:650][406]Cmd: DELETE
+[2026.10.18-23.32.29:650][406]Cmd: ACTOR DELETE
+[2026.10.18-23.32.29:664][406]LogEditorActor: Deleted Actor: DoorFrame_C
+[2026.10.18-23.32.29:976][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2026.10.18-23.32.29:990][406]LogEditorActor: Deleted 1 Actors (0.340 secs)
+[2026.10.18-23.32.45:237][867]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11589.742188
+[2026.10.18-23.32.45:367][871]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-23.32.45:367][871]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11589.853516, Update Interval: 302.772308
+[2026.10.18-23.34.24:009][472]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-23.34.28:960][613]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-23.34.41:697][978]Cmd: TRANSACTION UNDO
+[2026.10.18-23.34.41:697][978]LogEditorTransaction: Undo Transform
+[2026.10.18-23.34.56:948][400]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.18-23.35.39:411][608]Cmd: DELETE
+[2026.10.18-23.35.39:411][608]Cmd: ACTOR DELETE
+[2026.10.18-23.35.39:420][608]LogEditorActor: Deleted Actor: DoorFrame_C
+[2026.10.18-23.35.39:519][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.10.18-23.35.39:535][608]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2026.10.18-23.35.44:212][750]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.18-23.35.44:243][750]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.18-23.35.44:243][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.18-23.35.44:243][750]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.18-23.35.44:310][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067193s)
+[2026.10.18-23.35.44:310][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.067304s)
+[2026.10.18-23.35.44:357][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.10.18-23.35.44:361][750]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.18-23.35.44:363][750]LogPlayLevel: PIE: World Init took: (0.002771s)
+[2026.10.18-23.35.44:363][750]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.10.18-23.35.44:363][750]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.18-23.35.44:363][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.18-23.35.44:363][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.18-23.35.44:363][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.18-23.35.44:363][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.18-23.35.44:363][750]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.18-23.35.44:363][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.18-23.35.44:363][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.18-23.35.44:363][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.18-23.35.44:363][750]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.18-23.35.44:363][750]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.18-23.35.44:363][750]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.18-23.35.44:364][750]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.18-23.35.44:367][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.18-23.35.44:368][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.18-23.35.44:369][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.18-23.35.44:370][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.18-23.35.44:371][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.18-23.35.44:371][750]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.18-23.35.44:378][750]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.18-23.35.44:378][750]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.18-23.35.44:378][750]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.18-23.35.44:380][750]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.18-23.35.44:386][750]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.18-23.35.44:386][750]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.18-23.35.44:386][750]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.18-23.35.44:386][750]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.18-23.35.44:386][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.18-23.35.44:386][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.18-23.35.44:386][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.18-23.35.44:387][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.10.18-23.35.44:390][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.10.18-23.35.44:394][750]LogInit: FAudioDevice initialized with ID 9.
+[2026.10.18-23.35.44:394][750]LogAudio: Display: Audio Device (ID: 9) registered with world 'floor1'.
+[2026.10.18-23.35.44:394][750]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.10.18-23.35.44:394][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-23.35.44:424][750]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.18-23.35.44:429][750]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.18-19.35.44
+[2026.10.18-23.35.44:431][750]LogWorld: Bringing up level for play took: 0.006375
+[2026.10.18-23.35.44:436][750]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.10.18-23.35.44:437][750]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.18-23.35.44:440][750]PIE: Server logged in
+[2026.10.18-23.35.44:444][750]PIE: Play in editor total start time 0.202 seconds.
+[2026.10.18-23.35.44:681][751]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.18-23.35.46:925][795]Cmd: DebugManager.CycleToPreviousColumn
+[2026.10.18-23.36.04:256][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-23.36.04:256][343]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.18-23.36.04:258][343]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-23.36.04:262][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-23.36.04:271][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.18-23.36.04:289][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-23.36.04:348][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-23.36.04:349][343]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.10.18-23.36.04:349][343]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=9, StreamState=4
+[2026.10.18-23.36.04:359][343]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.18-23.36.04:372][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.10.18-23.36.04:438][344]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.10.18-23.37.12:857][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.10.18-23.37.12:861][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-23.37.12:861][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-23.37.12:913][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto7
+[2026.10.18-23.37.12:913][415]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto7C7174EB74D800F2E5B6B8F8001AC4566.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto7.umap'
+[2026.10.18-23.37.12:918][415]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.109
+[2026.10.18-23.37.12:918][415]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.109
+[2026.10.18-23.38.29:597][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11934.100586
+[2026.10.18-23.38.29:728][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-23.38.29:728][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11934.196289, Update Interval: 318.199402
+[2026.10.18-23.42.29:975][667]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.18-23.42.29:994][667]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.18-23.42.29:994][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.18-23.42.29:994][667]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.18-23.42.30:065][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070361s)
+[2026.10.18-23.42.30:065][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.070478s)
+[2026.10.18-23.42.30:145][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2026.10.18-23.42.30:149][667]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.18-23.42.30:153][667]LogPlayLevel: PIE: World Init took: (0.002691s)
+[2026.10.18-23.42.30:153][667]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.10.18-23.42.30:153][667]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.18-23.42.30:153][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.18-23.42.30:153][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.18-23.42.30:153][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.18-23.42.30:153][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.18-23.42.30:153][667]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.18-23.42.30:153][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.18-23.42.30:153][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.18-23.42.30:153][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.18-23.42.30:153][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.18-23.42.30:153][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.18-23.42.30:153][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.18-23.42.30:154][667]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.18-23.42.30:159][667]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.18-23.42.30:159][667]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.18-23.42.30:160][667]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.18-23.42.30:161][667]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.18-23.42.30:163][667]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.18-23.42.30:164][667]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.18-23.42.30:169][667]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.18-23.42.30:169][667]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.18-23.42.30:169][667]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.18-23.42.30:171][667]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.18-23.42.30:176][667]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.18-23.42.30:176][667]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.18-23.42.30:176][667]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.18-23.42.30:176][667]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.18-23.42.30:176][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.18-23.42.30:177][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.18-23.42.30:177][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.18-23.42.30:177][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.10.18-23.42.30:180][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.10.18-23.42.30:183][667]LogInit: FAudioDevice initialized with ID 10.
+[2026.10.18-23.42.30:183][667]LogAudio: Display: Audio Device (ID: 10) registered with world 'floor1'.
+[2026.10.18-23.42.30:183][667]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.10.18-23.42.30:183][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-23.42.30:213][667]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.18-23.42.30:218][667]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.18-19.42.30
+[2026.10.18-23.42.30:219][667]LogWorld: Bringing up level for play took: 0.006433
+[2026.10.18-23.42.30:224][667]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.10.18-23.42.30:225][667]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.18-23.42.30:228][667]PIE: Server logged in
+[2026.10.18-23.42.30:232][667]PIE: Play in editor total start time 0.239 seconds.
+[2026.10.18-23.42.30:386][668]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.18-23.42.46:225][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-23.42.46:226][144]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.18-23.42.46:228][144]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-23.42.46:232][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-23.42.46:251][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.18-23.42.46:268][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-23.42.46:331][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.18-23.42.46:332][144]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.10.18-23.42.46:332][144]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=10, StreamState=4
+[2026.10.18-23.42.46:344][144]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.18-23.42.46:358][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2026.10.18-23.42.46:455][145]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.10.18-23.44.34:216][516]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12298.708984
+[2026.10.18-23.44.35:215][519]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-23.44.35:215][519]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12299.375977, Update Interval: 312.191528
+[2026.10.18-23.47.30:008][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2026.10.18-23.47.30:014][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.18-23.47.30:014][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.18-23.47.30:073][ 43]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto8
+[2026.10.18-23.47.30:073][ 43]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto8BD8BA518408CC118002328BF3D59FAA3.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto8.umap'
+[2026.10.18-23.47.30:077][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.133
+[2026.10.18-23.47.30:077][ 43]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.133
+[2026.10.18-23.50.38:406][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12662.899414
+[2026.10.18-23.50.38:641][152]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-23.50.38:641][152]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12662.988281, Update Interval: 311.757568
+[2026.10.18-23.56.37:652][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13022.145508
+[2026.10.18-23.56.38:651][ 77]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-23.56.38:651][ 77]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13022.811523, Update Interval: 325.725281
+[2026.10.18-23.57.30:733][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2026.10.18-23.57.30:741][233]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.056
+[2026.10.18-23.57.30:744][233]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameplayElements/RoomTransitions/DoorFrame] ([2] browsable assets)...
+[2026.10.18-23.57.30:744][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayElements/RoomTransitions/DoorFrame]
+[2026.10.18-23.57.30:758][233]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameplayElements/RoomTransitions/DoorFrame_Auto9
+[2026.10.18-23.57.30:758][233]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/DoorFrame_Auto9F1A0843642B74C1D5FA6C09364DCEE77.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/GameplayElements/RoomTransitions/DoorFrame_Auto9.uasset'
+[2026.10.18-23.57.30:759][233]LogFileHelpers: Auto-saving content packages took 0.017
+[2026.10.19-00.02.49:653][190]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13394.155273
+[2026.10.19-00.02.50:655][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-00.02.50:655][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13394.825195, Update Interval: 340.518799
+[2026.10.19-00.07.48:065][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.10.19-00.07.48:078][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.19-00.07.48:150][930]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.19-00.07.48:151][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.19-00.07.48:151][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.19-00.07.48:263][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.10.19-00.07.48:316][930]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.19-00.07.48:316][930]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor158A217614DEA0684FF674B951CBB6029.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.19-00.07.48:339][930]LogFileHelpers: Saving Package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-00.07.48:339][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameplayElements/RoomTransitions/DoorFrame] ([2] browsable assets)...
+[2026.10.19-00.07.48:339][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayElements/RoomTransitions/DoorFrame]
+[2026.10.19-00.07.48:344][930]LogSavePackage: Moving output files for package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-00.07.48:346][930]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/DoorFrame0CAAB9E7481A699FCD867082E2509619.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameplayElements/RoomTransitions/DoorFrame.uasset'
+[2026.10.19-00.07.48:373][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 294.871 ms (total: 1.57 sec)
+[2026.10.19-00.07.48:446][930]LogContentValidation: Enabled validators:
+[2026.10.19-00.07.48:446][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.19-00.07.48:446][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.19-00.07.48:446][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.19-00.07.48:446][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.19-00.07.48:446][930]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.19-00.07.48:446][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.19-00.07.48:446][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.19-00.07.48:446][930]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.19-00.07.48:446][930]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.19-00.07.48:446][930]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.10.19-00.07.48:446][930]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.19-00.07.48:446][930]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.19-00.07.48:447][930]AssetCheck: /Game/GameplayElements/RoomTransitions/DoorFrame Validating asset
+[2026.10.19-00.07.48:447][930]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.19-00.07.48:447][930]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.19-00.07.48:447][930]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.19-00.07.48:447][930]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.10.19-00.07.48:447][930]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.19-00.07.48:447][930]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.19-00.07.48:447][930]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.19-00.07.48:447][930]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.19-00.07.48:447][930]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.19-00.07.48:447][930]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.19-00.07.48:474][930]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.19-00.07.56:042][101]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.19-00.07.56:057][101]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.19-00.07.56:057][101]LogBlueprint: Compiling Blueprint '/Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame'
+[2026.10.19-00.07.56:063][101]LogPlayLevel: [PlayLevel] Compiling DoorFrame before play...
+[2026.10.19-00.07.56:225][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.10.19-00.07.56:229][101]LogPlayLevel: PlayLevel: Blueprint regeneration took 171 ms (1 blueprints)
+[2026.10.19-00.07.56:229][101]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-00.07.56:255][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026092s)
+[2026.10.19-00.07.56:255][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.026151s)
+[2026.10.19-00.07.56:299][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.10.19-00.07.56:301][101]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.19-00.07.56:304][101]LogPlayLevel: PIE: World Init took: (0.002777s)
+[2026.10.19-00.07.56:304][101]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.10.19-00.07.56:304][101]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.19-00.07.56:304][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.19-00.07.56:304][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.19-00.07.56:304][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.19-00.07.56:304][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.19-00.07.56:304][101]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.19-00.07.56:304][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.19-00.07.56:304][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.19-00.07.56:304][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.19-00.07.56:304][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.19-00.07.56:304][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.19-00.07.56:304][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.19-00.07.56:304][101]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.19-00.07.56:311][101]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.19-00.07.56:311][101]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.19-00.07.56:312][101]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.19-00.07.56:312][101]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.19-00.07.56:314][101]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.19-00.07.56:315][101]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.19-00.07.56:321][101]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.19-00.07.56:321][101]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.19-00.07.56:321][101]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.19-00.07.56:322][101]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.19-00.07.56:327][101]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.19-00.07.56:327][101]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.19-00.07.56:328][101]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.19-00.07.56:328][101]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.19-00.07.56:328][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.19-00.07.56:328][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.19-00.07.56:328][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.19-00.07.56:330][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.10.19-00.07.56:333][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.10.19-00.07.56:336][101]LogInit: FAudioDevice initialized with ID 11.
+[2026.10.19-00.07.56:336][101]LogAudio: Display: Audio Device (ID: 11) registered with world 'floor1'.
+[2026.10.19-00.07.56:336][101]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.10.19-00.07.56:336][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-00.07.56:352][101]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.19-00.07.56:359][101]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.18-20.07.56
+[2026.10.19-00.07.56:360][101]LogWorld: Bringing up level for play took: 0.007092
+[2026.10.19-00.07.56:364][101]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.10.19-00.07.56:365][101]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.19-00.07.56:368][101]PIE: Server logged in
+[2026.10.19-00.07.56:373][101]PIE: Play in editor total start time 0.316 seconds.
+[2026.10.19-00.07.56:534][102]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.19-00.08.13:209][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-00.08.13:210][632]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-00.08.13:213][632]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-00.08.13:221][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-00.08.13:231][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.19-00.08.13:253][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-00.08.13:316][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-00.08.13:317][632]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.10.19-00.08.13:318][632]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=11, StreamState=4
+[2026.10.19-00.08.13:326][632]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.19-00.08.13:341][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2026.10.19-00.08.13:448][633]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.10.19-00.09.17:440][108]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13781.918945
+[2026.10.19-00.09.17:578][112]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-00.09.17:578][112]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13782.027344, Update Interval: 303.466278
+[2026.10.19-00.15.16:437][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14140.916016
+[2026.10.19-00.15.17:436][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-00.15.17:437][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14141.585938, Update Interval: 329.012115
+[2026.10.19-00.21.18:854][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14503.330078
+[2026.10.19-00.21.19:853][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-00.21.19:854][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14503.995117, Update Interval: 359.857178
+[2026.10.19-00.21.51:918][419]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.669 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17424 files in 17785 folders with total size 350 MiB.
+[2026.10.19-00.28.09:975][552]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14914.437500
+[2026.10.19-00.28.10:980][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-00.28.10:980][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14915.104492, Update Interval: 309.523621
+[2026.10.19-00.34.11:036][635]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15275.495117
+[2026.10.19-00.34.12:024][638]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-00.34.12:025][639]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15276.151367, Update Interval: 358.313538
+[2026.10.19-00.40.42:451][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15666.904297
+[2026.10.19-00.40.43:452][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-00.40.43:453][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15667.572266, Update Interval: 330.740692
+[2026.10.19-00.47.05:879][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16050.345703
+[2026.10.19-00.47.06:876][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-00.47.06:876][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16051.009766, Update Interval: 359.441528
+[2026.10.19-00.53.47:751][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16454.046875
+[2026.10.19-00.53.48:758][173]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-00.53.48:758][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16454.716797, Update Interval: 320.570709
+[2026.10.19-00.59.43:583][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16809.878906
+[2026.10.19-00.59.44:586][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-00.59.44:586][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16810.546875, Update Interval: 336.777863
+[2026.10.19-01.05.53:091][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17179.392578
+[2026.10.19-01.05.54:094][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-01.05.54:094][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17180.058594, Update Interval: 301.789001
+[2026.10.19-01.11.39:814][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17526.093750
+[2026.10.19-01.11.40:813][388]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-01.11.40:813][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17526.761719, Update Interval: 323.527954
+[2026.10.19-01.17.49:822][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17896.187500
+[2026.10.19-01.17.50:822][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-01.17.50:822][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17896.853516, Update Interval: 347.559448
+[2026.10.19-01.21.49:808][215]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.560 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17424 files in 17785 folders with total size 350 MiB.
+[2026.10.19-01.24.25:161][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18291.671875
+[2026.10.19-01.24.26:161][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-01.24.26:161][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18292.337891, Update Interval: 327.364105
+[2026.10.19-01.30.21:685][219]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PlayerCharacter/OverworkedSteve.OverworkedSteve_C
+[2026.10.19-01.30.21:685][219]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PlayerCharacter/OverworkedSteve.OverworkedSteve_C
+[2026.10.19-01.30.21:705][219]LogActorFactory: Actor Factory spawned Blueprint /Game/PlayerCharacter/OverworkedSteve.OverworkedSteve as actor: OverworkedSteve_C /Game/newlevel/floor1.floor1:PersistentLevel.OverworkedSteve_C_0
+[2026.10.19-01.30.21:715][219]LogActorFactory: Actor Factory spawned Blueprint /Game/PlayerCharacter/OverworkedSteve.OverworkedSteve as actor: OverworkedSteve_C /Game/newlevel/floor1.floor1:PersistentLevel.OverworkedSteve_C_0
+[2026.10.19-01.30.24:607][281]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18651.214844
+[2026.10.19-01.30.24:793][285]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-01.30.24:794][285]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18651.351562, Update Interval: 309.743347
+[2026.10.19-01.30.25:488][293]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2026.10.19-01.30.25:503][293]LogEditorActor: Deleted 0 Actors (0.260 secs)
+[2026.10.19-01.30.25:512][293]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PlayerCharacter/OverworkedSteve.OverworkedSteve_C
+[2026.10.19-01.30.25:512][293]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/PlayerCharacter/OverworkedSteve.OverworkedSteve_C
+[2026.10.19-01.30.25:527][293]LogActorFactory: Actor Factory spawned Blueprint /Game/PlayerCharacter/OverworkedSteve.OverworkedSteve as actor: OverworkedSteve_C /Game/newlevel/floor1.floor1:PersistentLevel.OverworkedSteve_C_1
+[2026.10.19-01.30.25:532][293]LogActorFactory: Actor Factory spawned Blueprint /Game/PlayerCharacter/OverworkedSteve.OverworkedSteve as actor: OverworkedSteve_C /Game/newlevel/floor1.floor1:PersistentLevel.OverworkedSteve_C_1
+[2026.10.19-01.30.27:172][317]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.19-01.30.27:209][317]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.19-01.30.27:209][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.19-01.30.27:210][317]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-01.30.27:260][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050148s)
+[2026.10.19-01.30.27:260][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.050294s)
+[2026.10.19-01.30.27:307][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.10.19-01.30.27:311][317]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.19-01.30.27:321][317]LogPlayLevel: PIE: World Init took: (0.009419s)
+[2026.10.19-01.30.27:321][317]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.10.19-01.30.27:321][317]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.19-01.30.27:321][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.19-01.30.27:321][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.19-01.30.27:321][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.19-01.30.27:321][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.19-01.30.27:321][317]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.19-01.30.27:321][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.19-01.30.27:322][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.19-01.30.27:322][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.19-01.30.27:322][317]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.19-01.30.27:322][317]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.19-01.30.27:322][317]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.19-01.30.27:322][317]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.19-01.30.27:328][317]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.19-01.30.27:329][317]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.30.27:330][317]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.19-01.30.27:331][317]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.30.27:332][317]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.19-01.30.27:332][317]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.30.27:340][317]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.19-01.30.27:340][317]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.19-01.30.27:340][317]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.19-01.30.27:342][317]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.19-01.30.27:347][317]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.19-01.30.27:347][317]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.19-01.30.27:347][317]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.19-01.30.27:347][317]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.19-01.30.27:351][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.19-01.30.27:351][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.19-01.30.27:352][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.19-01.30.27:354][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.10.19-01.30.27:359][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.10.19-01.30.27:362][317]LogInit: FAudioDevice initialized with ID 12.
+[2026.10.19-01.30.27:363][317]LogAudio: Display: Audio Device (ID: 12) registered with world 'floor1'.
+[2026.10.19-01.30.27:363][317]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.10.19-01.30.27:364][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.30.27:386][317]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.19-01.30.27:394][317]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.18-21.30.27
+[2026.10.19-01.30.27:402][317]LogWorld: Bringing up level for play took: 0.016141
+[2026.10.19-01.30.27:410][317]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.10.19-01.30.27:413][317]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.19-01.30.27:420][317]PIE: Server logged in
+[2026.10.19-01.30.27:425][317]PIE: Play in editor total start time 0.22 seconds.
+[2026.10.19-01.30.27:581][317]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.19-01.30.41:439][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.30.41:440][726]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-01.30.41:443][726]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-01.30.41:450][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.30.41:469][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.19-01.30.41:486][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.30.41:550][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.30.41:552][726]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.10.19-01.30.41:554][726]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=12, StreamState=4
+[2026.10.19-01.30.41:569][726]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.19-01.30.41:581][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.10.19-01.30.41:749][727]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.10.19-01.30.57:183][ 21]Cmd: DELETE
+[2026.10.19-01.30.57:184][ 21]Cmd: ACTOR DELETE
+[2026.10.19-01.30.57:228][ 21]LogEditorActor: Deleted Actor: OverworkedSteve_C
+[2026.10.19-01.30.57:281][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2026.10.19-01.30.57:286][ 21]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2026.10.19-01.31.14:518][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.19-01.31.14:575][420]LogFileHelpers: Saving Package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-01.31.14:575][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameplayElements/RoomTransitions/DoorFrame] ([2] browsable assets)...
+[2026.10.19-01.31.14:575][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayElements/RoomTransitions/DoorFrame]
+[2026.10.19-01.31.14:584][420]LogSavePackage: Moving output files for package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-01.31.14:585][420]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/DoorFrameFB2144A94AFBE06BC3E64B81C046B1A1.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameplayElements/RoomTransitions/DoorFrame.uasset'
+[2026.10.19-01.31.14:599][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.277 ms (total: 1.65 sec)
+[2026.10.19-01.31.14:658][420]LogContentValidation: Enabled validators:
+[2026.10.19-01.31.14:658][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.19-01.31.14:658][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.19-01.31.14:658][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.19-01.31.14:658][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.19-01.31.14:658][420]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.19-01.31.14:658][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.19-01.31.14:658][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.19-01.31.14:658][420]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.19-01.31.14:658][420]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.19-01.31.14:658][420]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.19-01.31.14:658][420]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.19-01.31.14:659][420]AssetCheck: /Game/GameplayElements/RoomTransitions/DoorFrame Validating asset
+[2026.10.19-01.31.14:659][420]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.19-01.31.14:659][420]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.19-01.31.14:659][420]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.19-01.31.14:659][420]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.19-01.31.14:659][420]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.19-01.31.14:659][420]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.19-01.31.14:659][420]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.19-01.31.14:659][420]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.19-01.31.14:659][420]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.19-01.31.14:659][420]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.19-01.31.16:928][488]LogSlate: Window 'DoorFrame' being destroyed
+[2026.10.19-01.31.16:932][488]LogSlate: Window 'DoorFrame' being destroyed
+[2026.10.19-01.31.16:964][488]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-01.31.16:964][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.31.17:400][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.10.19-01.31.42:109][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.10.19-01.31.42:112][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.19-01.31.42:112][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.19-01.31.42:179][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto0
+[2026.10.19-01.31.42:179][562]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto09956550A476F46964A54DC8B80774C3F.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto0.umap'
+[2026.10.19-01.31.42:186][562]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.135
+[2026.10.19-01.31.42:186][562]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.135
+[2026.10.19-01.31.48:986][583]LogShaderCompilers: Display: ================================================
+[2026.10.19-01.31.48:986][583]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.19-01.31.48:986][583]LogShaderCompilers: Display: Total job queries 389, among them cache hits 40 (10.28%), DDC hits 323 (83.03%), Duplicates 21 (5.40%)
+[2026.10.19-01.31.48:986][583]LogShaderCompilers: Display: Tracking 328 distinct input hashes that result in 249 distinct outputs (75.91%)
+[2026.10.19-01.31.48:986][583]LogShaderCompilers: Display: RAM used: 3.23 MiB of 1.60 GiB budget. Usage: 0.20%
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Shaders Compiled: 5
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Average time worker was idle: 16477.12 s
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Job execution time: average 1.72 s, max 3.65 s
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Job life time (pending + execution): average 1.80 s, max 3.68
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Shader code size: total 43.43 KiB, numShaders 6, average 7.238 KiB, min 4.938 KiB, max 9.832 KiB
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.11 s
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Average processing rate: 0.98 jobs/sec
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Total thread time: 4.098 s
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Total thread preprocess time: 15.69 s
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Percentage time preprocessing: 382.88%
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Effective parallelization: 0.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.100273
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> (compiled    1 times, average 1.15 sec, max 1.15 sec, min 1.15 sec)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display:            TVelocityVS<EVelocityPassMode::Velocity_Standard> (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display:            TVelocityPS<EVelocityPassMode::Velocity_Standard> - 28.10% of total time (compiled    1 times, average 1.15 sec, max 1.15 sec, min 1.15 sec)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display:            TVelocityVS<EVelocityPassMode::Velocity_Standard> - 18.91% of total time (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.37% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.77% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.59% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: === Material stats ===
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Materials Translated:    166
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.10.19-01.31.48:987][583]LogShaderCompilers: Display: Material Translation Only: 0.12 s (50%)
+[2026.10.19-01.31.48:989][583]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.10.19-01.31.48:989][583]LogShaderCompilers: Display: Material Cache Hits: 28 (17%)
+[2026.10.19-01.31.48:989][583]LogShaderCompilers: Display: ================================================
+[2026.10.19-01.33.46:851][218]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame
+[2026.10.19-01.34.15:670][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.19-01.34.15:723][ 19]LogFileHelpers: Saving Package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-01.34.15:725][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameplayElements/RoomTransitions/DoorFrame] ([2] browsable assets)...
+[2026.10.19-01.34.15:725][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayElements/RoomTransitions/DoorFrame]
+[2026.10.19-01.34.15:731][ 19]LogSavePackage: Moving output files for package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-01.34.15:731][ 19]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/DoorFrame3ACAAB0547234C408FB0108570B9EDFC.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameplayElements/RoomTransitions/DoorFrame.uasset'
+[2026.10.19-01.34.15:744][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.493 ms (total: 1.73 sec)
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: Enabled validators:
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.19-01.34.15:809][ 19]AssetCheck: /Game/GameplayElements/RoomTransitions/DoorFrame Validating asset
+[2026.10.19-01.34.15:809][ 19]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.19-01.34.15:809][ 19]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.19-01.34.15:809][ 19]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.19-01.34.15:809][ 19]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.19-01.34.15:810][ 19]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.19-01.34.15:810][ 19]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.19-01.34.15:810][ 19]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.19-01.34.15:810][ 19]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.19-01.34.15:810][ 19]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.19-01.34.15:810][ 19]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.19-01.34.19:493][131]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.19-01.34.19:524][131]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.19-01.34.19:524][131]LogBlueprint: Compiling Blueprint '/Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame'
+[2026.10.19-01.34.19:531][131]LogPlayLevel: [PlayLevel] Compiling DoorFrame before play...
+[2026.10.19-01.34.19:701][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.10.19-01.34.19:706][131]LogPlayLevel: PlayLevel: Blueprint regeneration took 182 ms (1 blueprints)
+[2026.10.19-01.34.19:706][131]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-01.34.19:734][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026939s)
+[2026.10.19-01.34.19:734][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.026998s)
+[2026.10.19-01.34.19:788][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.10.19-01.34.19:790][131]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.19-01.34.19:793][131]LogPlayLevel: PIE: World Init took: (0.002973s)
+[2026.10.19-01.34.19:793][131]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.10.19-01.34.19:793][131]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.19-01.34.19:793][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.19-01.34.19:793][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.19-01.34.19:793][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.19-01.34.19:793][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.19-01.34.19:793][131]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.19-01.34.19:793][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.19-01.34.19:793][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.19-01.34.19:793][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.19-01.34.19:793][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.19-01.34.19:793][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.19-01.34.19:793][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.19-01.34.19:793][131]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.19-01.34.19:798][131]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.19-01.34.19:799][131]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.34.19:799][131]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.19-01.34.19:800][131]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.34.19:801][131]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.19-01.34.19:801][131]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.34.19:808][131]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.19-01.34.19:808][131]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.19-01.34.19:808][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.19-01.34.19:809][131]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.19-01.34.19:814][131]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.19-01.34.19:814][131]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.19-01.34.19:814][131]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.19-01.34.19:814][131]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.19-01.34.19:817][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.19-01.34.19:817][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.19-01.34.19:817][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.19-01.34.19:818][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.10.19-01.34.19:821][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.10.19-01.34.19:824][131]LogInit: FAudioDevice initialized with ID 13.
+[2026.10.19-01.34.19:825][131]LogAudio: Display: Audio Device (ID: 13) registered with world 'floor1'.
+[2026.10.19-01.34.19:825][131]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.10.19-01.34.19:825][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.34.19:839][131]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.19-01.34.19:846][131]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.18-21.34.19
+[2026.10.19-01.34.19:847][131]LogWorld: Bringing up level for play took: 0.007257
+[2026.10.19-01.34.19:853][131]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.10.19-01.34.19:854][131]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.19-01.34.19:857][131]PIE: Server logged in
+[2026.10.19-01.34.19:861][131]PIE: Play in editor total start time 0.337 seconds.
+[2026.10.19-01.34.19:971][132]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.19-01.34.29:073][417]Cmd: DebugManager.CycleToPreviousColumn
+[2026.10.19-01.34.33:542][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.34.33:542][557]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-01.34.33:545][557]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-01.34.33:549][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.34.33:567][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.19-01.34.33:585][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.34.33:647][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.34.33:649][557]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.10.19-01.34.33:650][557]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=13, StreamState=4
+[2026.10.19-01.34.33:659][557]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.19-01.34.33:672][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.10.19-01.34.33:741][558]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.10.19-01.36.06:711][ 80]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18993.296875
+[2026.10.19-01.36.07:710][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-01.36.07:711][ 83]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18993.964844, Update Interval: 316.263916
+[2026.10.19-01.40.16:595][292]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.19-01.40.16:613][292]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.19-01.40.16:613][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.19-01.40.16:614][292]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-01.40.16:656][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041994s)
+[2026.10.19-01.40.16:656][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.042080s)
+[2026.10.19-01.40.16:716][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2026.10.19-01.40.16:720][292]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.19-01.40.16:723][292]LogPlayLevel: PIE: World Init took: (0.003752s)
+[2026.10.19-01.40.16:723][292]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.10.19-01.40.16:723][292]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.19-01.40.16:723][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.19-01.40.16:723][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.19-01.40.16:723][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.19-01.40.16:723][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.19-01.40.16:724][292]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.19-01.40.16:724][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.19-01.40.16:724][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.19-01.40.16:724][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.19-01.40.16:724][292]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.19-01.40.16:724][292]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.19-01.40.16:724][292]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.19-01.40.16:724][292]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.19-01.40.16:729][292]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.19-01.40.16:729][292]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.40.16:731][292]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.19-01.40.16:731][292]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.40.16:732][292]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.19-01.40.16:733][292]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.40.16:740][292]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.19-01.40.16:740][292]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.19-01.40.16:740][292]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.19-01.40.16:741][292]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.19-01.40.16:748][292]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.19-01.40.16:748][292]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.19-01.40.16:748][292]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.19-01.40.16:748][292]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.19-01.40.16:748][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.19-01.40.16:748][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.19-01.40.16:749][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.19-01.40.16:750][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.10.19-01.40.16:754][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.10.19-01.40.16:758][292]LogInit: FAudioDevice initialized with ID 14.
+[2026.10.19-01.40.16:758][292]LogAudio: Display: Audio Device (ID: 14) registered with world 'floor1'.
+[2026.10.19-01.40.16:759][292]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.10.19-01.40.16:759][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.40.16:774][292]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.19-01.40.16:781][292]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.18-21.40.16
+[2026.10.19-01.40.16:782][292]LogWorld: Bringing up level for play took: 0.007268
+[2026.10.19-01.40.16:786][292]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.10.19-01.40.16:788][292]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.19-01.40.16:792][292]PIE: Server logged in
+[2026.10.19-01.40.16:796][292]PIE: Play in editor total start time 0.183 seconds.
+[2026.10.19-01.40.16:947][293]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.19-01.40.26:672][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.40.26:674][569]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-01.40.26:675][569]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-01.40.26:678][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.40.26:693][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.19-01.40.26:709][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.40.26:770][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.40.26:771][569]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.10.19-01.40.26:772][569]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=14, StreamState=4
+[2026.10.19-01.40.26:781][569]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.19-01.40.26:796][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2026.10.19-01.40.26:876][570]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.10.19-01.41.13:219][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.19-01.41.13:268][327]LogFileHelpers: Saving Package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-01.41.13:268][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameplayElements/RoomTransitions/DoorFrame] ([2] browsable assets)...
+[2026.10.19-01.41.13:268][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayElements/RoomTransitions/DoorFrame]
+[2026.10.19-01.41.13:273][327]LogSavePackage: Moving output files for package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-01.41.13:274][327]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/DoorFrameA4C34D2849EB41E03CF1C1A09C2A5A31.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameplayElements/RoomTransitions/DoorFrame.uasset'
+[2026.10.19-01.41.13:287][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.632 ms (total: 1.80 sec)
+[2026.10.19-01.41.13:353][327]LogContentValidation: Enabled validators:
+[2026.10.19-01.41.13:353][327]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.19-01.41.13:353][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.19-01.41.13:353][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.19-01.41.13:353][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.19-01.41.13:353][327]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.19-01.41.13:353][327]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.19-01.41.13:353][327]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.19-01.41.13:353][327]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.19-01.41.13:353][327]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.19-01.41.13:353][327]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.19-01.41.13:353][327]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.19-01.41.13:353][327]AssetCheck: /Game/GameplayElements/RoomTransitions/DoorFrame Validating asset
+[2026.10.19-01.41.13:353][327]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.19-01.41.13:353][327]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.19-01.41.13:353][327]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.19-01.41.13:353][327]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.19-01.41.13:353][327]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.19-01.41.13:353][327]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.19-01.41.13:353][327]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.19-01.41.13:353][327]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.19-01.41.13:353][327]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.19-01.41.13:353][327]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.19-01.41.18:665][470]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.19-01.41.18:699][470]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.19-01.41.18:701][470]LogBlueprint: Compiling Blueprint '/Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame'
+[2026.10.19-01.41.18:705][470]LogPlayLevel: [PlayLevel] Compiling DoorFrame before play...
+[2026.10.19-01.41.18:713][470]LogBlueprint: Warning: [AssetLog] C:\Users\anfen\Downloads\New folder\FlickeringLightsGame\FlickeringLight\Content\GameplayElements\RoomTransitions\DoorFrame.uasset: [Compiler] Cast To PlayerStart  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2026.10.19-01.41.18:864][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.10.19-01.41.18:869][470]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2026.10.19-01.41.18:870][470]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-01.41.18:898][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027741s)
+[2026.10.19-01.41.18:898][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.027803s)
+[2026.10.19-01.41.18:947][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2026.10.19-01.41.18:949][470]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.19-01.41.18:954][470]LogPlayLevel: PIE: World Init took: (0.003672s)
+[2026.10.19-01.41.18:954][470]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.10.19-01.41.18:954][470]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.19-01.41.18:954][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.19-01.41.18:954][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.19-01.41.18:954][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.19-01.41.18:954][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.19-01.41.18:954][470]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.19-01.41.18:954][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.19-01.41.18:954][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.19-01.41.18:954][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.19-01.41.18:954][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.19-01.41.18:954][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.19-01.41.18:954][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.19-01.41.18:955][470]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.19-01.41.18:959][470]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.19-01.41.18:959][470]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.41.18:960][470]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.19-01.41.18:961][470]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.41.18:962][470]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.19-01.41.18:962][470]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.41.18:970][470]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.19-01.41.18:970][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.19-01.41.18:970][470]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.19-01.41.18:971][470]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.19-01.41.18:978][470]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.19-01.41.18:978][470]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.19-01.41.18:978][470]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.19-01.41.18:978][470]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.19-01.41.18:978][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.19-01.41.18:978][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.19-01.41.18:978][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.19-01.41.18:979][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.10.19-01.41.18:983][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.10.19-01.41.18:987][470]LogInit: FAudioDevice initialized with ID 15.
+[2026.10.19-01.41.18:988][470]LogAudio: Display: Audio Device (ID: 15) registered with world 'floor1'.
+[2026.10.19-01.41.18:988][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.10.19-01.41.18:988][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.41.19:004][470]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.19-01.41.19:012][470]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.18-21.41.19
+[2026.10.19-01.41.19:012][470]LogWorld: Bringing up level for play took: 0.008335
+[2026.10.19-01.41.19:019][470]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.10.19-01.41.19:020][470]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.19-01.41.19:024][470]PIE: Server logged in
+[2026.10.19-01.41.19:028][470]PIE: Play in editor total start time 0.329 seconds.
+[2026.10.19-01.41.19:175][471]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.19-01.41.31:957][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.41.31:957][843]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-01.41.31:960][843]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-01.41.31:963][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.41.31:978][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.19-01.41.32:002][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.41.32:080][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.41.32:081][843]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.10.19-01.41.32:081][843]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=15, StreamState=4
+[2026.10.19-01.41.32:091][843]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.19-01.41.32:104][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2026.10.19-01.41.32:190][844]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.10.19-01.42.07:169][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19353.759766
+[2026.10.19-01.42.08:171][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-01.42.08:171][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19354.425781, Update Interval: 347.010101
+[2026.10.19-01.42.15:294][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.19-01.42.15:363][353]LogFileHelpers: Saving Package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-01.42.15:363][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameplayElements/RoomTransitions/DoorFrame] ([2] browsable assets)...
+[2026.10.19-01.42.15:363][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayElements/RoomTransitions/DoorFrame]
+[2026.10.19-01.42.15:369][353]LogSavePackage: Moving output files for package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-01.42.15:369][353]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/DoorFrame74CE4E6E4EE487322DB1C5944D54B803.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameplayElements/RoomTransitions/DoorFrame.uasset'
+[2026.10.19-01.42.15:382][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.708 ms (total: 1.88 sec)
+[2026.10.19-01.42.15:444][353]LogContentValidation: Enabled validators:
+[2026.10.19-01.42.15:444][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.19-01.42.15:444][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.19-01.42.15:444][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.19-01.42.15:444][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.19-01.42.15:444][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.19-01.42.15:444][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.19-01.42.15:444][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.19-01.42.15:444][353]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.19-01.42.15:444][353]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.19-01.42.15:444][353]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.19-01.42.15:444][353]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.19-01.42.15:444][353]AssetCheck: /Game/GameplayElements/RoomTransitions/DoorFrame Validating asset
+[2026.10.19-01.42.15:444][353]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.19-01.42.15:445][353]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.19-01.42.15:445][353]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.19-01.42.15:445][353]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.19-01.42.15:445][353]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.19-01.42.15:445][353]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.19-01.42.15:445][353]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.19-01.42.15:445][353]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.19-01.42.15:445][353]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.19-01.42.15:445][353]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.19-01.43.41:258][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2026.10.19-01.43.41:275][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.19-01.43.41:275][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.19-01.43.41:374][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/newlevel/floor1_Auto1
+[2026.10.19-01.43.41:376][ 52]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto1FB6441E14575E80A202FAABFAA5E3D72.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto1.umap'
+[2026.10.19-01.43.41:383][ 52]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.226
+[2026.10.19-01.43.41:383][ 52]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.226
+[2026.10.19-01.43.41:384][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameplayElements/RoomTransitions/DoorFrame] ([2] browsable assets)...
+[2026.10.19-01.43.41:384][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayElements/RoomTransitions/DoorFrame]
+[2026.10.19-01.43.41:394][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameplayElements/RoomTransitions/DoorFrame_Auto1
+[2026.10.19-01.43.41:394][ 52]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/DoorFrame_Auto1F41F1970424EC3043841B887F58EF1F4.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/GameplayElements/RoomTransitions/DoorFrame_Auto1.uasset'
+[2026.10.19-01.43.41:395][ 52]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.10.19-01.45.35:862][448]Cmd: DELETE
+[2026.10.19-01.45.35:862][448]Cmd: ACTOR DELETE
+[2026.10.19-01.45.35:871][448]LogEditorActor: Deleted Actor: DoorFrame_C
+[2026.10.19-01.45.35:935][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2026.10.19-01.45.35:948][448]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2026.10.19-01.45.43:368][609]Cmd: EDIT COPY
+[2026.10.19-01.45.43:988][624]Cmd: EDIT PASTE
+[2026.10.19-01.46.26:587][467]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.19-01.46.45:100][860]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.19-01.46.50:846][977]Cmd: TRANSACTION UNDO
+[2026.10.19-01.46.50:848][977]LogEditorTransaction: Undo Transform
+[2026.10.19-01.46.57:558][112]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.19-01.47.47:450][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.19-01.47.47:520][146]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.19-01.47.47:521][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.19-01.47.47:521][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.19-01.47.47:702][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2026.10.19-01.47.47:796][146]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.19-01.47.47:797][146]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1B461AE5D41418EADB41F3298376776AD.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.19-01.47.47:846][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 396.458 ms (total: 2.28 sec)
+[2026.10.19-01.47.47:924][146]LogContentValidation: Enabled validators:
+[2026.10.19-01.47.47:924][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.19-01.47.47:924][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.19-01.47.47:924][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.19-01.47.47:924][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.19-01.47.47:924][146]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.19-01.47.47:924][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.19-01.47.47:924][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.19-01.47.47:924][146]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.19-01.47.47:924][146]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.19-01.47.47:924][146]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.19-01.47.47:924][146]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.19-01.47.47:925][146]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.19-01.47.47:925][146]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.19-01.47.47:925][146]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.19-01.47.47:925][146]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.19-01.47.47:925][146]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.19-01.47.47:925][146]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.19-01.47.47:925][146]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.19-01.47.47:925][146]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.19-01.47.47:925][146]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.19-01.47.47:925][146]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.19-01.47.47:926][146]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.19-01.48.46:539][ 79]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19753.197266
+[2026.10.19-01.48.47:538][ 82]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-01.48.47:538][ 82]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19753.863281, Update Interval: 319.470215
+[2026.10.19-01.50.07:020][788]Cmd: ACTOR SELECT ALL
+[2026.10.19-01.50.07:688][790]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.10.19-01.50.37:682][415]Cmd: TRANSACTION UNDO
+[2026.10.19-01.50.37:682][415]LogEditorTransaction: Undo Transform
+[2026.10.19-01.50.53:369][707]Cmd: TRANSACTION UNDO
+[2026.10.19-01.50.53:369][707]LogEditorTransaction: Undo Transform
+[2026.10.19-01.51.17:346][162]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.19-01.52.04:704][189]Cmd: TRANSACTION UNDO
+[2026.10.19-01.52.04:704][189]LogEditorTransaction: Undo Clicking on Elements
+[2026.10.19-01.52.07:175][226]Cmd: TRANSACTION UNDO
+[2026.10.19-01.52.07:175][226]LogEditorTransaction: Undo Select Brush Surface
+[2026.10.19-01.52.08:858][251]Cmd: TRANSACTION UNDO
+[2026.10.19-01.52.08:858][251]LogEditorTransaction: Undo Transform
+[2026.10.19-01.52.16:039][386]Cmd: TRANSACTION UNDO
+[2026.10.19-01.52.16:039][386]LogEditorTransaction: Undo Transform
+[2026.10.19-01.53.02:375][285]LogPSOHitching: Encountered 100 PSO creation hitches so far (56 graphics, 44 compute). 0 of them were precached.
+[2026.10.19-01.53.14:837][482]LogSlate: Window 'DoorFrame' being destroyed
+[2026.10.19-01.53.14:941][482]LogSlate: Window 'DoorFrame' being destroyed
+[2026.10.19-01.53.14:989][482]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-01.53.14:989][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.53.15:227][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2026.10.19-01.53.17:172][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame
+[2026.10.19-01.53.54:467][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2026.10.19-01.53.54:478][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.19-01.53.54:554][224]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.19-01.53.54:555][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.19-01.53.54:555][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.19-01.53.54:687][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2026.10.19-01.53.54:768][224]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.19-01.53.54:770][224]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1AA68F3D342CE0E1327E356AE7D0C9E02.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.19-01.53.54:801][224]LogFileHelpers: Saving Package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-01.53.54:801][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameplayElements/RoomTransitions/DoorFrame] ([2] browsable assets)...
+[2026.10.19-01.53.54:801][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayElements/RoomTransitions/DoorFrame]
+[2026.10.19-01.53.54:809][224]LogSavePackage: Moving output files for package: /Game/GameplayElements/RoomTransitions/DoorFrame
+[2026.10.19-01.53.54:810][224]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/DoorFrame305CB6974000A026AC45029709645668.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameplayElements/RoomTransitions/DoorFrame.uasset'
+[2026.10.19-01.53.54:826][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 348.730 ms (total: 2.63 sec)
+[2026.10.19-01.53.54:885][224]LogContentValidation: Enabled validators:
+[2026.10.19-01.53.54:885][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.19-01.53.54:885][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.19-01.53.54:885][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.19-01.53.54:885][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.19-01.53.54:885][224]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.19-01.53.54:885][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.19-01.53.54:885][224]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.19-01.53.54:885][224]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.19-01.53.54:885][224]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.19-01.53.54:885][224]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.10.19-01.53.54:885][224]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.19-01.53.54:885][224]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.19-01.53.54:886][224]AssetCheck: /Game/GameplayElements/RoomTransitions/DoorFrame Validating asset
+[2026.10.19-01.53.54:886][224]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.19-01.53.54:886][224]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.19-01.53.54:886][224]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.19-01.53.54:886][224]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.10.19-01.53.54:886][224]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.19-01.53.54:886][224]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.19-01.53.54:886][224]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.19-01.53.54:887][224]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.19-01.53.54:887][224]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.19-01.53.54:887][224]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.19-01.54.01:317][293]LogSlate: Window 'DoorFrame' being destroyed
+[2026.10.19-01.54.01:324][293]LogSlate: Window 'DoorFrame' being destroyed
+[2026.10.19-01.54.01:340][293]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-01.54.01:340][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.54.01:661][293]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2026.10.19-01.54.04:618][336]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.19-01.54.04:661][336]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.19-01.54.04:662][336]LogBlueprint: Compiling Blueprint '/Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame'
+[2026.10.19-01.54.04:671][336]LogPlayLevel: [PlayLevel] Compiling DoorFrame before play...
+[2026.10.19-01.54.04:868][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2026.10.19-01.54.04:872][336]LogPlayLevel: PlayLevel: Blueprint regeneration took 210 ms (1 blueprints)
+[2026.10.19-01.54.04:872][336]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-01.54.04:910][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037315s)
+[2026.10.19-01.54.04:910][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.037392s)
+[2026.10.19-01.54.04:969][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2026.10.19-01.54.04:971][336]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.19-01.54.04:975][336]LogPlayLevel: PIE: World Init took: (0.003791s)
+[2026.10.19-01.54.04:975][336]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.10.19-01.54.04:975][336]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.19-01.54.04:975][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.19-01.54.04:975][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.19-01.54.04:975][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.19-01.54.04:975][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.19-01.54.04:975][336]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.19-01.54.04:975][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.19-01.54.04:975][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.19-01.54.04:976][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.19-01.54.04:976][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.19-01.54.04:976][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.19-01.54.04:976][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.19-01.54.04:976][336]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.19-01.54.04:982][336]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.19-01.54.04:983][336]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.54.04:985][336]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.19-01.54.04:985][336]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.54.04:987][336]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.19-01.54.04:988][336]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.19-01.54.04:996][336]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.19-01.54.04:996][336]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.19-01.54.04:996][336]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.19-01.54.04:998][336]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.19-01.54.05:005][336]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.19-01.54.05:005][336]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.19-01.54.05:005][336]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.19-01.54.05:005][336]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.19-01.54.05:006][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.19-01.54.05:006][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.19-01.54.05:006][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.19-01.54.05:007][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.10.19-01.54.05:011][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.10.19-01.54.05:016][336]LogInit: FAudioDevice initialized with ID 16.
+[2026.10.19-01.54.05:016][336]LogAudio: Display: Audio Device (ID: 16) registered with world 'floor1'.
+[2026.10.19-01.54.05:016][336]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.10.19-01.54.05:017][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.54.05:038][336]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.19-01.54.05:047][336]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.18-21.54.05
+[2026.10.19-01.54.05:047][336]LogWorld: Bringing up level for play took: 0.008717
+[2026.10.19-01.54.05:054][336]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.10.19-01.54.05:055][336]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.19-01.54.05:060][336]PIE: Server logged in
+[2026.10.19-01.54.05:067][336]PIE: Play in editor total start time 0.406 seconds.
+[2026.10.19-01.54.05:243][337]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.19-01.54.07:977][394]Cmd: DebugManager.CycleToPreviousColumn
+[2026.10.19-01.54.17:278][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.54.17:279][627]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.19-01.54.17:285][627]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-01.54.17:293][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.54.17:322][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.19-01.54.17:346][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-01.54.17:425][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.19-01.54.17:426][627]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.10.19-01.54.17:427][627]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=16, StreamState=4
+[2026.10.19-01.54.17:439][627]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.19-01.54.17:458][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2026.10.19-01.54.17:546][628]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2026.10.19-01.54.52:155][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20118.863281
+[2026.10.19-01.54.53:158][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-01.54.53:158][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20119.527344, Update Interval: 319.398773
