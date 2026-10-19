@@ -4928,3 +4928,118 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.19-02.33.11:017][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22417.869141
 [2026.10.19-02.33.11:175][406]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.19-02.33.11:175][406]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22417.988281, Update Interval: 345.221100
+[2026.10.19-02.39.44:381][556]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22811.230469
+[2026.10.19-02.39.45:379][559]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-02.39.45:379][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22811.896484, Update Interval: 331.161835
+[2026.10.19-02.46.05:529][267]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23192.369141
+[2026.10.19-02.46.05:673][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-02.46.05:674][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23192.478516, Update Interval: 318.217712
+[2026.10.19-02.49.26:414][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.19-02.49.26:466][216]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.19-02.49.26:468][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.19-02.49.26:468][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.19-02.49.26:616][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2026.10.19-02.49.26:681][216]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.19-02.49.26:682][216]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1853E88D74A303BD9C78F8ABEC9C61FD2.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.19-02.49.26:718][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 304.107 ms (total: 3.56 sec)
+[2026.10.19-02.49.26:785][216]LogContentValidation: Enabled validators:
+[2026.10.19-02.49.26:785][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.19-02.49.26:785][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.19-02.49.26:785][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.19-02.49.26:785][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.19-02.49.26:785][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.19-02.49.26:785][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.19-02.49.26:785][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.19-02.49.26:785][216]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.19-02.49.26:785][216]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.19-02.49.26:785][216]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.19-02.49.26:785][216]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.19-02.49.26:787][216]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.19-02.49.26:787][216]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.19-02.49.26:787][216]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.19-02.49.26:787][216]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.19-02.49.26:787][216]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.19-02.49.26:787][216]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.19-02.49.26:787][216]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.19-02.49.26:787][216]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.19-02.49.26:787][216]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.19-02.49.26:787][216]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.19-02.49.26:787][216]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.19-02.50.15:809][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.19-02.50.15:873][471]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.19-02.50.15:874][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.19-02.50.15:874][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.19-02.50.16:001][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.10.19-02.50.16:057][471]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.19-02.50.16:057][471]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1D6D47BEB4BBAFFB2BE66B39D93CF9094.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.19-02.50.16:108][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 299.322 ms (total: 3.86 sec)
+[2026.10.19-02.50.16:170][471]LogContentValidation: Enabled validators:
+[2026.10.19-02.50.16:170][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.19-02.50.16:170][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.19-02.50.16:170][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.19-02.50.16:170][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.19-02.50.16:170][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.19-02.50.16:170][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.19-02.50.16:170][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.19-02.50.16:170][471]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.19-02.50.16:170][471]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.19-02.50.16:170][471]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.19-02.50.16:170][471]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.19-02.50.16:172][471]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.19-02.50.16:172][471]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.19-02.50.16:172][471]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.19-02.50.16:172][471]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.19-02.50.16:172][471]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.19-02.50.16:172][471]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.19-02.50.16:172][471]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.19-02.50.16:172][471]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.19-02.50.16:172][471]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.19-02.50.16:172][471]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.19-02.50.16:172][471]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.19-02.52.20:900][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23567.816406
+[2026.10.19-02.52.21:049][964]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-02.52.21:049][964]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23567.927734, Update Interval: 301.825623
+[2026.10.19-02.58.00:729][609]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23907.738281
+[2026.10.19-02.58.01:731][612]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-02.58.01:731][613]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23908.406250, Update Interval: 314.762421
+[2026.10.19-03.04.15:873][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24282.929688
+[2026.10.19-03.04.16:870][748]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-03.04.16:870][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24283.595703, Update Interval: 311.779541
+[2026.10.19-03.10.16:243][826]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24643.335938
+[2026.10.19-03.10.17:244][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-03.10.17:244][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24644.001953, Update Interval: 318.745087
+[2026.10.19-03.16.07:199][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24994.300781
+[2026.10.19-03.16.08:198][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-03.16.08:199][124]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24994.970703, Update Interval: 340.804474
+[2026.10.19-03.17.16:840][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2026.10.19-03.17.16:943][454]LogStall: Shutdown...
+[2026.10.19-03.17.16:957][454]LogStall: Shutdown complete.
+[2026.10.19-03.17.16:988][454]LogSlate: Window 'FlickeringLight - Unreal Editor' being destroyed
+[2026.10.19-03.17.21:909][454]Cmd: QUIT_EDITOR
+[2026.10.19-03.17.21:909][454]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.19-03.17.21:928][455]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.19-03.17.21:940][455]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.19-03.17.21:941][455]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.19-03.17.22:006][455]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-03.17.22:006][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-03.17.22:010][455]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.10.19-03.17.22:085][455]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.19-03.17.22:186][455]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.19-03.17.22:309][455]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-03.17.22:309][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-03.17.22:316][455]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-03.17.22:316][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-03.17.22:322][455]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-03.17.22:322][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-03.17.22:352][455]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.19-03.17.22:365][455]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.19-03.17.22:401][455]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.10.19-03.17.22:401][455]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.19-03.17.22:401][455]LogAudio: Display: Audio Device unregistered from world 'floor1'.
+[2026.10.19-03.17.22:401][455]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.19-03.17.22:403][455]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.10.19-03.17.22:425][455]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.19-03.17.22:457][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.19-03.17.22:458][455]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.19-03.17.22:572][455]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.19-03.17.22:594][455]LogExit: Preparing to exit.
