@@ -4910,3 +4910,21 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.19-02.25.50:741][478]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.19-02.25.50:741][478]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.19-02.25.50:741][478]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.19-02.26.43:193][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22030.011719
+[2026.10.19-02.26.44:193][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-02.26.44:193][659]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22030.679688, Update Interval: 348.299194
+[2026.10.19-02.29.00:705][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame_C
+[2026.10.19-02.29.00:705][ 98]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame_C
+[2026.10.19-02.29.00:707][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame as actor: DoorFrame_C /Game/newlevel/floor1.floor1:PersistentLevel.DoorFrame_C_21
+[2026.10.19-02.29.00:709][ 98]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame as actor: DoorFrame_C /Game/newlevel/floor1.floor1:PersistentLevel.DoorFrame_C_21
+[2026.10.19-02.29.02:850][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2026.10.19-02.29.02:857][153]LogEditorActor: Deleted 0 Actors (0.093 secs)
+[2026.10.19-02.29.02:872][153]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame_C
+[2026.10.19-02.29.02:872][153]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame_C
+[2026.10.19-02.29.02:876][153]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame as actor: DoorFrame_C /Game/newlevel/floor1.floor1:PersistentLevel.DoorFrame_C_22
+[2026.10.19-02.29.02:877][153]LogActorFactory: Actor Factory spawned Blueprint /Game/GameplayElements/RoomTransitions/DoorFrame.DoorFrame as actor: DoorFrame_C /Game/newlevel/floor1.floor1:PersistentLevel.DoorFrame_C_22
+[2026.10.19-02.29.11:387][354]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.19-02.29.16:322][476]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.19-02.33.11:017][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22417.869141
+[2026.10.19-02.33.11:175][406]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-02.33.11:175][406]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22417.988281, Update Interval: 345.221100
