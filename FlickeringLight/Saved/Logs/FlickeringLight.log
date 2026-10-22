@@ -2728,3 +2728,201 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.22-02.47.40:363][246]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1_Auto31A675FE94BC2A41D89C98693D05EA0A9.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Autosaves/Game/newlevel/floor1_Auto3.umap'
 [2026.10.22-02.47.40:369][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/newlevel/floor1' took 0.270
 [2026.10.22-02.47.40:369][246]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.270
+[2026.10.22-02.48.53:032][646]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.48.59:088][787]Cmd: TRANSACTION UNDO
+[2026.10.22-02.48.59:088][787]LogEditorTransaction: Undo Transform
+[2026.10.22-02.49.43:657][861]LogDerivedDataCache: C:/Users/anfen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.201 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17497 files in 17899 folders with total size 350 MiB.
+[2026.10.22-02.50.18:000][598]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.51.47:051][517]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.51.53:870][665]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.52.33:634][543]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.52.58:655][ 91]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.53.41:881][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3972.680420
+[2026.10.22-02.53.42:041][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.22-02.53.42:041][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3972.794189, Update Interval: 308.406616
+[2026.10.22-02.54.04:395][537]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.54.33:308][134]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.55.35:780][587]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.56.15:420][468]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.10.22-02.56.15:466][468]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.10.22-02.56.15:466][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.10.22-02.56.15:466][468]LogPlayLevel: Creating play world package: /Game/newlevel/UEDPIE_0_floor1
+[2026.10.22-02.56.15:534][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067841s)
+[2026.10.22-02.56.15:534][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/newlevel/floor1.floor1 to /Game/newlevel/UEDPIE_0_floor1.floor1 (0.067986s)
+[2026.10.22-02.56.15:805][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.10.22-02.56.15:816][468]LogChaosDD: Creating Chaos Debug Draw Scene for world floor1
+[2026.10.22-02.56.15:819][468]LogPlayLevel: PIE: World Init took: (0.003123s)
+[2026.10.22-02.56.15:819][468]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.10.22-02.56.15:819][468]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.10.22-02.56.15:819][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.22-02.56.15:819][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.22-02.56.15:819][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.22-02.56.15:819][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.22-02.56.15:819][468]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.10.22-02.56.15:819][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.22-02.56.15:819][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.10.22-02.56.15:819][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.22-02.56.15:819][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.22-02.56.15:819][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.22-02.56.15:819][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.22-02.56.15:820][468]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.10.22-02.56.15:825][468]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (Senary Audio)'
+[2026.10.22-02.56.15:826][468]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (2.0 Camera)'
+[2026.10.22-02.56.15:827][468]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (Senary Audio)'
+[2026.10.22-02.56.15:828][468]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (2.0 Camera)'
+[2026.10.22-02.56.15:829][468]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (Senary Audio)'
+[2026.10.22-02.56.15:829][468]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (2.0 Camera)'
+[2026.10.22-02.56.15:837][468]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.10.22-02.56.15:837][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.10.22-02.56.15:837][468]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.10.22-02.56.15:839][468]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.10.22-02.56.15:845][468]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.10.22-02.56.15:845][468]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.10.22-02.56.15:845][468]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.10.22-02.56.15:845][468]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Senary Audio)
+[2026.10.22-02.56.15:845][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.22-02.56.15:845][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.22-02.56.15:845][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.22-02.56.15:846][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.10.22-02.56.15:849][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.10.22-02.56.15:852][468]LogInit: FAudioDevice initialized with ID 4.
+[2026.10.22-02.56.15:852][468]LogAudio: Display: Audio Device (ID: 4) registered with world 'floor1'.
+[2026.10.22-02.56.15:852][468]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.10.22-02.56.15:853][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.22-02.56.15:874][468]LogLoad: Game class is 'DefaultGameMode_C'
+[2026.10.22-02.56.15:882][468]LogWorld: Bringing World /Game/newlevel/UEDPIE_0_floor1.floor1 up for play (max tick rate 60) at 2026.10.21-22.56.15
+[2026.10.22-02.56.15:883][468]LogWorld: Bringing up level for play took: 0.008621
+[2026.10.22-02.56.15:888][468]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.10.22-02.56.15:889][468]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.10.22-02.56.15:894][468]PIE: Server logged in
+[2026.10.22-02.56.15:900][468]PIE: Play in editor total start time 0.44 seconds.
+[2026.10.22-02.56.16:267][469]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.10.22-02.56.22:400][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.22-02.56.22:400][600]LogWorld: BeginTearingDown for /Game/newlevel/UEDPIE_0_floor1
+[2026.10.22-02.56.22:402][600]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-02.56.22:406][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-02.56.22:424][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.10.22-02.56.22:442][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-02.56.22:504][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.10.22-02.56.22:506][600]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.10.22-02.56.22:506][600]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=4, StreamState=4
+[2026.10.22-02.56.22:514][600]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.22-02.56.22:527][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.10.22-02.56.22:611][601]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.10.22-02.56.38:771][972]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.57.00:978][464]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-02.58.08:159][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-02.58.08:221][798]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.22-02.58.08:222][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.22-02.58.08:222][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.22-02.58.08:322][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.10.22-02.58.08:386][798]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.22-02.58.08:386][798]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1CFF534894BCB89242D15ADB01E316AEE.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.22-02.58.08:550][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 389.986 ms (total: 711.843 ms)
+[2026.10.22-02.58.08:619][798]LogContentValidation: Enabled validators:
+[2026.10.22-02.58.08:619][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-02.58.08:619][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-02.58.08:619][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-02.58.08:619][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-02.58.08:619][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-02.58.08:619][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-02.58.08:619][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-02.58.08:619][798]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-02.58.08:619][798]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-02.58.08:619][798]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-02.58.08:619][798]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-02.58.08:619][798]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.22-02.58.08:619][798]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-02.58.08:619][798]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-02.58.08:620][798]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-02.58.08:620][798]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-02.58.08:620][798]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-02.58.08:620][798]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-02.58.08:620][798]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-02.58.08:620][798]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-02.58.08:620][798]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-02.58.08:620][798]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-02.59.00:263][880]Cmd: DELETE
+[2026.10.22-02.59.00:263][880]Cmd: ACTOR DELETE
+[2026.10.22-02.59.00:270][880]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.10.22-02.59.00:305][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.10.22-02.59.00:315][880]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2026.10.22-02.59.47:085][869]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4337.891602
+[2026.10.22-02.59.47:257][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.22-02.59.47:257][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4338.018066, Update Interval: 344.794464
+[2026.10.22-03.00.37:829][973]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.03.00:575][396]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.03.09:807][627]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.03.19:523][881]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.06.30:076][475]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4740.891602
+[2026.10.22-03.06.30:213][479]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.22-03.06.30:215][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4740.993164, Update Interval: 338.037659
+[2026.10.22-03.07.46:819][205]Cmd: TRANSACTION UNDO
+[2026.10.22-03.07.46:819][205]LogEditorTransaction: Undo Edit Static Mesh
+[2026.10.22-03.07.48:459][231]Cmd: TRANSACTION UNDO
+[2026.10.22-03.07.48:459][231]LogEditorTransaction: Undo Edit Static Mesh
+[2026.10.22-03.08.01:598][516]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.08.25:463][ 72]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.08.28:636][140]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.08.49:270][594]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.09.07:882][ 55]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.09.20:733][407]Cmd: TRANSACTION UNDO
+[2026.10.22-03.09.20:733][407]LogEditorTransaction: Undo Transform
+[2026.10.22-03.09.23:790][483]Cmd: TRANSACTION UNDO
+[2026.10.22-03.09.23:792][483]LogEditorTransaction: Undo Transform
+[2026.10.22-03.09.40:331][940]Cmd: TRANSACTION UNDO
+[2026.10.22-03.09.40:331][940]LogEditorTransaction: Undo Transform
+[2026.10.22-03.09.44:827][ 53]Cmd: TRANSACTION UNDO
+[2026.10.22-03.09.44:827][ 53]LogEditorTransaction: Undo Transform
+[2026.10.22-03.09.46:636][ 94]Cmd: TRANSACTION UNDO
+[2026.10.22-03.09.46:638][ 94]LogEditorTransaction: Undo Transform
+[2026.10.22-03.10.09:851][665]Cmd: TRANSACTION UNDO
+[2026.10.22-03.10.09:851][665]LogEditorTransaction: Undo Transform
+[2026.10.22-03.10.11:495][699]Cmd: TRANSACTION UNDO
+[2026.10.22-03.10.11:495][699]LogEditorTransaction: Undo Transform
+[2026.10.22-03.10.18:217][850]Cmd: TRANSACTION UNDO
+[2026.10.22-03.10.18:217][850]LogEditorTransaction: Undo Transform
+[2026.10.22-03.10.19:867][883]Cmd: TRANSACTION UNDO
+[2026.10.22-03.10.19:867][883]LogEditorTransaction: Undo Transform
+[2026.10.22-03.10.21:584][920]Cmd: TRANSACTION UNDO
+[2026.10.22-03.10.21:584][920]LogEditorTransaction: Undo Transform
+[2026.10.22-03.10.30:612][132]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.11.17:770][239]LogInteractiveToolsContext: Display: Transform the selected objects. Middle-mouse-drag on gizmo to reposition it. Hold Ctrl while dragging to snap/align. [A] cycles through Transform modes. [S] toggles Set Pivot Mode. [D] Toggles Snap Drag Mode. [W] and [E] cycle through Snap Drag Source and Rotation types.
+[2026.10.22-03.11.26:949][478]Cmd: TRANSACTION UNDO
+[2026.10.22-03.11.26:949][478]LogEditorTransaction: Undo Transform
+[2026.10.22-03.12.39:225][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5110.056152
+[2026.10.22-03.12.39:394][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.22-03.12.39:394][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5110.181641, Update Interval: 336.074707
+[2026.10.22-03.12.50:635][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-03.12.50:695][407]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.22-03.12.50:696][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.22-03.12.50:696][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.22-03.12.51:028][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.10.22-03.12.51:094][407]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.22-03.12.51:095][407]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor156FA78134ECBA385821A24808402F58B.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.22-03.12.51:139][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 503.510 ms (total: 1.21 sec)
+[2026.10.22-03.12.51:194][407]LogContentValidation: Enabled validators:
+[2026.10.22-03.12.51:194][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-03.12.51:194][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-03.12.51:194][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-03.12.51:195][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-03.12.51:195][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-03.12.51:195][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-03.12.51:195][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-03.12.51:195][407]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-03.12.51:195][407]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-03.12.51:195][407]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-03.12.51:195][407]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-03.12.51:195][407]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.22-03.12.51:195][407]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-03.12.51:195][407]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-03.12.51:195][407]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-03.12.51:195][407]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-03.12.51:195][407]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-03.12.51:195][407]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-03.12.51:195][407]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-03.12.51:195][407]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-03.12.51:195][407]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-03.12.51:195][407]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
