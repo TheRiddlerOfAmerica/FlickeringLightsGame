@@ -3168,3 +3168,429 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.22-04.01.36:856][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8047.722168
 [2026.10.22-04.01.37:855][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.22-04.01.37:855][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8048.388672, Update Interval: 345.876648
+[2026.10.22-04.04.33:153][274]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.22-04.05.12:776][758]LogStreaming: Display: FlushAsyncLoading(380): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.22-04.05.19:096][758]LogInterchangeEngine: [Pending] Importing
+[2026.10.22-04.05.19:096][758]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/anfen/Downloads/grass.jpg]
+[2026.10.22-04.05.19:211][760]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.22-04.05.19:217][761]LogInterchangeImport: JPEG file [C:/Users/anfen/Downloads/grass.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.10.22-04.05.19:241][762]LogTexture: Display: Building texture TwoD: /Game/GameAssets/grass.grass (TFO_AutoDXT, 320x432 x1x1x1) (Required Memory Estimate: 16.732422 MB), EncodeSpeed: Fast
+[2026.10.22-04.05.19:289][763]LogInterchangeEngine: Display: Interchange import completed [C:/Users/anfen/Downloads/grass.jpg]
+[2026.10.22-04.05.19:313][763]LogInterchangeEngine: Display: Import Done in 0.224436 seconds.
+[2026.10.22-04.05.19:313][763]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.10.22-04.05.19:313][763]LogInterchangeEngine: [Success] Import Done
+[2026.10.22-04.05.35:613][ 70]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.22-04.05.35:619][ 70]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/GameAssets/wood.wood
+[2026.10.22-04.05.36:572][ 70]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' with subface index 0 in Game thread.
+[2026.10.22-04.05.36:572][ 70]LogSlate: Display: Took 0.001172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K) on Game thread.
+[2026.10.22-04.05.36:572][ 70]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface 0 in Game thread.
+[2026.10.22-04.05.36:572][ 70]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: ================================================
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Total job queries 399, among them cache hits 39 (9.77%), DDC hits 332 (83.21%), Duplicates 24 (6.02%)
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Tracking 336 distinct input hashes that result in 253 distinct outputs (75.30%)
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: RAM used: 3.32 MiB of 1.60 GiB budget. Usage: 0.20%
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Shaders Compiled: 11
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Average time worker was idle: 5484.89 s
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.12 s
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Job execution time: average 1.44 s, max 2.63 s
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Job life time (pending + execution): average 1.50 s, max 2.75
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Shader code size: total 129.905 KiB, numShaders 11, average 11.81 KiB, min 4.387 KiB, max 23.238 KiB
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.61 s
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Average processing rate: 2.39 jobs/sec
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Total thread time: 10.277 s
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Total thread preprocess time: 16.665 s
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Percentage time preprocessing: 162.16%
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Effective parallelization: 2.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.278671
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 1.83 sec, max 1.83 sec, min 1.83 sec)
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.59 sec, max 1.86 sec, min 1.32 sec)
+[2026.10.22-04.05.40:558][142]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.51 sec, max 0.53 sec, min 0.48 sec)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 30.88% of total time (compiled    2 times, average 1.59 sec, max 1.86 sec, min 1.32 sec)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 17.81% of total time (compiled    1 times, average 1.83 sec, max 1.83 sec, min 1.83 sec)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display:                                                 FLumenCardCS - 14.05% of total time (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 12.46% of total time (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.83% of total time (compiled    2 times, average 0.51 sec, max 0.53 sec, min 0.48 sec)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display: === Material stats ===
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display: Materials Translated:    171
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display: Material Translation Only: 0.13 s (52%)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display: Material Cache Hits: 35 (20%)
+[2026.10.22-04.05.40:559][142]LogShaderCompilers: Display: ================================================
+[2026.10.22-04.06.07:619][161]LogSlate: Window 'Color Picker' being destroyed
+[2026.10.22-04.06.08:712][180]LogSlate: Window 'wood' being destroyed
+[2026.10.22-04.06.08:792][180]LogSlate: Window 'wood' being destroyed
+[2026.10.22-04.06.08:844][180]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.06.08:844][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.06.08:949][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.10.22-04.06.14:834][315]LogContentBrowser: Deferred new asset file creation: grass_Mat
+[2026.10.22-04.06.14:851][315]LogContentBrowser: Creating deferred item: grass_Mat
+[2026.10.22-04.06.14:883][316]LogContentBrowser: Renaming the item being created (Deferred Item: grass_Mat).
+[2026.10.22-04.06.21:148][474]LogContentBrowser: Attempting asset rename: grass_Mat -> grass_Mat
+[2026.10.22-04.06.21:162][474]LogContentBrowser: End creating deferred item grass_Mat
+[2026.10.22-04.06.21:174][474]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.10.22-04.06.21:181][474]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' with subface index 0 in Game thread.
+[2026.10.22-04.06.21:181][474]LogSlate: Display: Took 0.005905 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K) on Game thread.
+[2026.10.22-04.06.21:181][474]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' subface 0 in Game thread.
+[2026.10.22-04.06.21:183][474]LogSlate: Display: Font face '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.10.22-04.06.25:701][563]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/GameAssets/grass_Mat.grass_Mat
+[2026.10.22-04.07.01:891][837]LogSlate: Window 'grass_Mat' being destroyed
+[2026.10.22-04.07.01:977][837]LogSlate: Window 'grass_Mat' being destroyed
+[2026.10.22-04.07.02:040][837]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.07.02:040][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.07.02:122][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.10.22-04.07.08:193][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.10.22-04.07.09:280][971]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.22-04.07.09:400][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.10.22-04.07.09:441][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.10.22-04.07.09:478][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.10.22-04.07.12:571][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.10.22-04.07.13:542][ 41]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.22-04.07.13:647][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.10.22-04.07.13:691][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.10.22-04.07.13:730][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.10.22-04.07.20:089][ 89]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.22-04.07.20:107][ 89]LogInterchangeEngine: [Pending] Importing
+[2026.10.22-04.07.20:107][ 89]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/anfen/Downloads/grass.png]
+[2026.10.22-04.07.20:203][ 91]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.22-04.07.20:219][ 92]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.10.22-04.07.20:266][ 94]LogTexture: Display: Building texture TwoD: /Game/GameAssets/grass.grass (BGRA8, 801x503 x1x1x1) (Required Memory Estimate: 14.832577 MB), EncodeSpeed: Fast
+[2026.10.22-04.07.20:343][ 95]LogInterchangeEngine: Display: Interchange import completed [C:/Users/anfen/Downloads/grass.png]
+[2026.10.22-04.07.20:355][ 95]LogInterchangeEngine: Display: Import Done in 0.263873 seconds.
+[2026.10.22-04.07.20:355][ 95]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.10.22-04.07.20:355][ 95]LogInterchangeEngine: [Success] Import Done
+[2026.10.22-04.07.23:129][160]LogContentBrowser: Deferred new asset file creation: grass_Mat
+[2026.10.22-04.07.23:199][160]LogContentBrowser: Creating deferred item: grass_Mat
+[2026.10.22-04.07.23:226][161]LogContentBrowser: Renaming the item being created (Deferred Item: grass_Mat).
+[2026.10.22-04.07.25:134][212]LogContentBrowser: Attempting asset rename: grass_Mat -> grass_Mat
+[2026.10.22-04.07.25:211][212]LogContentBrowser: End creating deferred item grass_Mat
+[2026.10.22-04.07.37:643][494]LogContentBrowser: Attempting asset rename: grass_Mat -> grassarea
+[2026.10.22-04.07.37:912][494]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.10.22-04.07.38:033][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.07.38:033][494]LogFileHelpers: Saving Package: /Game/GameAssets/grassarea
+[2026.10.22-04.07.38:033][494]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameAssets/grassarea] ([1] browsable assets)...
+[2026.10.22-04.07.39:461][494]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GameAssets/grassarea.grassarea]
+[2026.10.22-04.07.39:463][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/grassarea]
+[2026.10.22-04.07.39:463][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameAssets/grassarea" FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/grassarea.uasset" SILENT=true
+[2026.10.22-04.07.39:465][494]LogSavePackage: Moving output files for package: /Game/GameAssets/grassarea
+[2026.10.22-04.07.39:465][494]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/grassareaE2BC5EC34F085844B77C2E8C2B39C7D4.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/grassarea.uasset'
+[2026.10.22-04.07.39:469][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.43 sec (total: 2.89 sec)
+[2026.10.22-04.07.39:527][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.10.22-04.07.39:564][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.10.22-04.07.39:599][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.10.22-04.07.39:678][494]LogContentValidation: Enabled validators:
+[2026.10.22-04.07.39:678][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.07.39:678][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.07.39:678][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.07.39:678][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.07.39:678][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.07.39:678][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.07.39:678][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.07.39:678][494]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.07.39:678][494]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.07.39:678][494]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.07.39:678][494]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.07.39:678][494]AssetCheck: /Game/GameAssets/grassarea Validating asset
+[2026.10.22-04.07.39:678][494]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.07.39:678][494]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.07.39:678][494]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.07.39:678][494]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.07.39:678][494]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.07.39:679][494]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.07.39:679][494]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.07.39:679][494]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.07.39:679][494]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.07.39:679][494]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.07.39:720][494]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.22-04.07.42:790][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.07.42:850][563]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.22-04.07.42:851][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.22-04.07.42:851][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.22-04.07.42:935][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.10.22-04.07.42:993][563]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.22-04.07.42:993][563]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1E9769DC743CE854C1FC9F2885D899355.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.22-04.07.43:028][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 237.243 ms (total: 3.12 sec)
+[2026.10.22-04.07.43:101][563]LogContentValidation: Enabled validators:
+[2026.10.22-04.07.43:101][563]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.07.43:101][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.07.43:101][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.07.43:101][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.07.43:101][563]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.07.43:101][563]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.07.43:101][563]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.07.43:102][563]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.07.43:102][563]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.07.43:102][563]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.07.43:102][563]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.07.43:102][563]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.22-04.07.43:102][563]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.07.43:102][563]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.07.43:102][563]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.07.43:102][563]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.07.43:102][563]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.07.43:102][563]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.07.43:102][563]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.07.43:102][563]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.07.43:102][563]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.07.43:102][563]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.07.54:849][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8425.703125
+[2026.10.22-04.07.55:022][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.22-04.07.55:022][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8425.833008, Update Interval: 359.154022
+[2026.10.22-04.08.07:984][ 90]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/GameAssets/grassarea.grassarea
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: ================================================
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Total job queries 434, among them cache hits 59 (13.59%), DDC hits 334 (76.96%), Duplicates 24 (5.53%)
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Tracking 347 distinct input hashes that result in 258 distinct outputs (74.35%)
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: RAM used: 3.36 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Shaders Compiled: 38
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100%)
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Average time worker was idle: 1092.16 s
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.13 s
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Job execution time: average 1.04 s, max 2.63 s
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Job life time (pending + execution): average 1.11 s, max 2.75
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Shader code size: total 354.021 KiB, numShaders 38, average 9.315 KiB, min 4.387 KiB, max 23.238 KiB
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.01 s
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Average processing rate: 2.71 jobs/sec
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Total thread time: 26.827 s
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Total thread preprocess time: 17.542 s
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Percentage time preprocessing: 65.39%
+[2026.10.22-04.08.40:599][644]LogShaderCompilers: Display: Effective parallelization: 1.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.239408
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.53 sec, max 2.02 sec, min 0.94 sec)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.41 sec, max 1.83 sec, min 0.98 sec)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 34.26% of total time (compiled    6 times, average 1.53 sec, max 2.02 sec, min 0.94 sec)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.47% of total time (compiled    9 times, average 0.49 sec, max 0.60 sec, min 0.34 sec)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.48% of total time (compiled    9 times, average 0.37 sec, max 0.45 sec, min 0.28 sec)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.49% of total time (compiled    2 times, average 1.41 sec, max 1.83 sec, min 0.98 sec)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.28% of total time (compiled    4 times, average 0.42 sec, max 0.48 sec, min 0.38 sec)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display: === Material stats ===
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display: Materials Translated:    187
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display: Material Translation Only: 0.13 s (52%)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display: Material Cache Hits: 35 (19%)
+[2026.10.22-04.08.40:600][644]LogShaderCompilers: Display: ================================================
+[2026.10.22-04.10.55:376][ 75]LogSlate: Window 'Message' being destroyed
+[2026.10.22-04.10.55:431][ 75]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/GameAssets/grassarea.grassarea
+(Selecting 'No' will cause all changes to be lost!)
+[2026.10.22-04.10.55:696][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.10.22-04.10.56:226][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.10.22-04.10.56:319][ 75]LogSlate: Window 'grassarea' being destroyed
+[2026.10.22-04.10.56:331][ 75]LogSlate: Window 'grassarea' being destroyed
+[2026.10.22-04.10.56:394][ 75]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.10.22-04.10.56:395][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.22-04.10.56:453][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.10.22-04.11.06:152][197]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/GameAssets/grass.grass
+[2026.10.22-04.11.06:154][197]LogModuleManager: InternalLoadLibrary: 'TextureEditor' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-TextureEditor.dll')
+[2026.10.22-04.11.40:610][859]LogShaderCompilers: Display: ================================================
+[2026.10.22-04.11.40:610][859]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.22-04.11.40:610][859]LogShaderCompilers: Display: Total job queries 454, among them cache hits 79 (17.40%), DDC hits 334 (73.57%), Duplicates 24 (5.29%)
+[2026.10.22-04.11.40:610][859]LogShaderCompilers: Display: Tracking 347 distinct input hashes that result in 258 distinct outputs (74.35%)
+[2026.10.22-04.11.40:610][859]LogShaderCompilers: Display: RAM used: 3.36 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.10.22-04.11.40:610][859]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.22-04.11.40:610][859]LogShaderCompilers: Display: Shaders Compiled: 43
+[2026.10.22-04.11.40:610][859]LogShaderCompilers: Display: Jobs assigned 43, completed 43 (100%)
+[2026.10.22-04.11.40:610][859]LogShaderCompilers: Display: Average time worker was idle: 963.34 s
+[2026.10.22-04.11.40:610][859]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 2.63 s
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 2.75
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Shader code size: total 393.99 KiB, numShaders 43, average 9.162 KiB, min 4.387 KiB, max 23.238 KiB
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.44 s
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Jobs were issued in 43 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Average processing rate: 2.78 jobs/sec
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Total thread time: 29.016 s
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Total thread preprocess time: 18.122 s
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Percentage time preprocessing: 62.46%
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Effective parallelization: 1.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.234861
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 1.46 sec, max 2.02 sec, min 0.94 sec)
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.41 sec, max 1.83 sec, min 0.98 sec)
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 35.15% of total time (compiled    7 times, average 1.46 sec, max 2.02 sec, min 0.94 sec)
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.47% of total time (compiled   10 times, average 0.48 sec, max 0.60 sec, min 0.34 sec)
+[2026.10.22-04.11.40:611][859]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.49% of total time (compiled   10 times, average 0.36 sec, max 0.45 sec, min 0.28 sec)
+[2026.10.22-04.11.40:612][859]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.70% of total time (compiled    2 times, average 1.41 sec, max 1.83 sec, min 0.98 sec)
+[2026.10.22-04.11.40:612][859]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.78% of total time (compiled    5 times, average 0.39 sec, max 0.48 sec, min 0.28 sec)
+[2026.10.22-04.11.40:612][859]LogShaderCompilers: Display: === Material stats ===
+[2026.10.22-04.11.40:612][859]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.22-04.11.40:612][859]LogShaderCompilers: Display: Materials Translated:    191
+[2026.10.22-04.11.40:612][859]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2026.10.22-04.11.40:612][859]LogShaderCompilers: Display: Material Translation Only: 0.13 s (52%)
+[2026.10.22-04.11.40:612][859]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.10.22-04.11.40:612][859]LogShaderCompilers: Display: Material Cache Hits: 35 (18%)
+[2026.10.22-04.11.40:612][859]LogShaderCompilers: Display: ================================================
+[2026.10.22-04.11.41:488][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.11.41:550][877]LogFileHelpers: Saving Package: /Game/GameAssets/grass
+[2026.10.22-04.11.41:550][877]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameAssets/grass] ([1] browsable assets)...
+[2026.10.22-04.11.41:552][877]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GameAssets/grass.grass]
+[2026.10.22-04.11.41:552][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/grass]
+[2026.10.22-04.11.41:552][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameAssets/grass" FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/grass.uasset" SILENT=true
+[2026.10.22-04.11.41:571][877]LogSavePackage: Moving output files for package: /Game/GameAssets/grass
+[2026.10.22-04.11.41:572][877]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/grass603F68004C57435C932D4181A4CAFAEA.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/grass.uasset'
+[2026.10.22-04.11.41:595][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.265 ms (total: 3.23 sec)
+[2026.10.22-04.11.41:648][877]LogContentValidation: Enabled validators:
+[2026.10.22-04.11.41:648][877]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.11.41:648][877]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.11.41:648][877]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.11.41:648][877]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.11.41:648][877]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.11.41:648][877]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.11.41:648][877]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.11.41:648][877]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.11.41:648][877]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.11.41:648][877]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.11.41:648][877]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.11.41:648][877]AssetCheck: /Game/GameAssets/grass Validating asset
+[2026.10.22-04.11.41:650][877]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.11.41:650][877]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.11.41:650][877]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.11.41:650][877]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.11.41:650][877]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.11.41:650][877]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.11.41:650][877]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.11.41:650][877]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.11.41:650][877]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.11.41:650][877]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.11.41:682][877]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.22-04.11.56:614][206]LogInterchangeEngine: [Pending] Importing
+[2026.10.22-04.11.56:614][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/anfen/Downloads/grass.png]
+[2026.10.22-04.11.56:914][209]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.10.22-04.11.56:971][209]LogInterchangeEngine: Display: Interchange import completed [C:/Users/anfen/Downloads/grass.png]
+[2026.10.22-04.11.56:971][209]LogInterchangeEngine: Display: Import Done in 0.381108 seconds.
+[2026.10.22-04.11.56:971][209]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.10.22-04.11.56:971][209]LogInterchangeEngine: [Success] Import Done
+[2026.10.22-04.12.09:933][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.12.09:991][468]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.22-04.12.09:991][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.22-04.12.09:991][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.22-04.12.10:091][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.10.22-04.12.10:156][468]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.22-04.12.10:157][468]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1D8681F3F49147A48353C18957AF085D3.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.22-04.12.10:198][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 264.900 ms (total: 3.50 sec)
+[2026.10.22-04.12.10:260][468]LogContentValidation: Enabled validators:
+[2026.10.22-04.12.10:260][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.12.10:260][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.12.10:260][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.12.10:260][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.12.10:260][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.12.10:261][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.12.10:261][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.12.10:261][468]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.12.10:261][468]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.12.10:261][468]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.12.10:261][468]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.12.10:261][468]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.22-04.12.10:261][468]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.12.10:261][468]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.12.10:261][468]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.12.10:261][468]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.12.10:261][468]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.12.10:261][468]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.12.10:261][468]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.12.10:261][468]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.12.10:261][468]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.12.10:261][468]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.12.52:032][959]LogSlate: Window 'grass' being destroyed
+[2026.10.22-04.12.52:130][959]LogSlate: Window 'grass' being destroyed
+[2026.10.22-04.13.53:962][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.10.22-04.13.58:083][278]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.22-04.13.58:362][278]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/GameAssets/grass.grass
+	Asset Type: Texture2D
+[2026.10.22-04.13.58:560][278]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.10.22-04.13.58:901][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.10.22-04.13.58:943][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.10.22-04.13.58:975][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.10.22-04.14.04:188][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.10.22-04.14.07:428][377]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.22-04.14.07:613][377]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/GameAssets/grassarea.grassarea
+	Asset Type: Material
+[2026.10.22-04.14.07:774][377]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.10.22-04.14.08:013][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.10.22-04.14.08:051][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.10.22-04.14.08:086][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.10.22-04.14.14:287][458]LogStreaming: Display: FlushAsyncLoading(403): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.22-04.14.14:298][458]LogInterchangeEngine: [Pending] Importing
+[2026.10.22-04.14.14:298][458]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/anfen/Downloads/grass.jpg]
+[2026.10.22-04.14.14:393][460]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.22-04.14.14:394][460]LogInterchangeImport: JPEG file [C:/Users/anfen/Downloads/grass.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.10.22-04.14.14:424][462]LogTexture: Display: Building texture TwoD: /Game/GameAssets/grass.grass (BGRA8, 679x452 x1x1x1) (Required Memory Estimate: 11.536835 MB), EncodeSpeed: Fast
+[2026.10.22-04.14.14:491][463]LogInterchangeEngine: Display: Interchange import completed [C:/Users/anfen/Downloads/grass.jpg]
+[2026.10.22-04.14.14:500][463]LogInterchangeEngine: Display: Import Done in 0.211539 seconds.
+[2026.10.22-04.14.14:500][463]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.10.22-04.14.14:500][463]LogInterchangeEngine: [Success] Import Done
+[2026.10.22-04.14.19:792][592]LogContentBrowser: Deferred new asset file creation: grass_Mat
+[2026.10.22-04.14.19:808][592]LogContentBrowser: Creating deferred item: grass_Mat
+[2026.10.22-04.14.19:836][593]LogContentBrowser: Renaming the item being created (Deferred Item: grass_Mat).
+[2026.10.22-04.14.25:336][738]LogContentBrowser: Attempting asset rename: grass_Mat -> grassfloor
+[2026.10.22-04.14.25:435][738]LogContentBrowser: End creating deferred item grass_Mat
+[2026.10.22-04.14.35:295][951]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8826.137695
+[2026.10.22-04.14.35:591][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.22-04.14.35:591][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8826.373047, Update Interval: 305.630676
+[2026.10.22-04.14.36:568][978]Cmd: TRANSACTION UNDO
+[2026.10.22-04.14.36:568][978]LogEditorTransaction: Undo Place Objects
+[2026.10.22-04.14.38:857][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.22-04.14.38:912][ 23]LogFileHelpers: Saving Map: /Game/newlevel/floor1
+[2026.10.22-04.14.38:912][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/newlevel/floor1] ([1] browsable assets)...
+[2026.10.22-04.14.38:912][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/floor1]
+[2026.10.22-04.14.39:001][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.10.22-04.14.39:078][ 23]LogSavePackage: Moving output files for package: /Game/newlevel/floor1
+[2026.10.22-04.14.39:079][ 23]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/floor1E66C6B094559BF62284D029979463955.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/floor1.umap'
+[2026.10.22-04.14.39:140][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 284.019 ms (total: 3.78 sec)
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: Enabled validators:
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.22-04.14.39:218][ 23]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.22-04.14.39:219][ 23]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.22-04.14.39:219][ 23]AssetCheck: /Game/newlevel/floor1 Validating asset
+[2026.10.22-04.14.39:219][ 23]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.22-04.14.39:219][ 23]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.22-04.14.39:219][ 23]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.22-04.14.39:219][ 23]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.22-04.14.39:219][ 23]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.22-04.14.39:219][ 23]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.22-04.14.39:219][ 23]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.22-04.14.39:219][ 23]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.22-04.14.39:219][ 23]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.22-04.14.39:219][ 23]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.22-04.14.45:299][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.10.22-04.14.46:497][157]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.22-04.14.46:624][157]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/GameAssets/grass.grass
+	Asset Type: Texture2D
+[2026.10.22-04.14.46:786][157]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.10.22-04.14.47:014][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.10.22-04.14.47:063][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.10.22-04.14.47:097][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.10.22-04.14.51:141][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.10.22-04.14.52:517][241]LogSlate: Window 'Delete Assets' being destroyed
+[2026.10.22-04.14.52:614][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.10.22-04.14.52:651][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.10.22-04.14.52:698][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
