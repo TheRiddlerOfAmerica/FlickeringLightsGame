@@ -5665,3 +5665,82 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.23-19.24.57:191][442]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
 [2026.10.23-19.24.57:205][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
 [2026.10.23-19.24.57:295][443]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.10.23-19.25.45:997][ 28]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/newlevel/_GENERATED/anfen/Cylinder_69260CD6.Cylinder_69260CD6
+[2026.10.23-19.25.56:304][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.23-19.25.56:369][178]LogFileHelpers: Saving Package: /Game/newlevel/_GENERATED/anfen/Cylinder_69260CD6
+[2026.10.23-19.25.56:370][178]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/newlevel/_GENERATED/anfen/Cylinder_69260CD6] ([1] browsable assets)...
+[2026.10.23-19.25.56:394][178]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/newlevel/_GENERATED/anfen/Cylinder_69260CD6.Cylinder_69260CD6]
+[2026.10.23-19.25.56:394][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/_GENERATED/anfen/Cylinder_69260CD6]
+[2026.10.23-19.25.56:398][178]LogSavePackage: Moving output files for package: /Game/newlevel/_GENERATED/anfen/Cylinder_69260CD6
+[2026.10.23-19.25.56:399][178]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Cylinder_69260CD67998C17043AE669C62EEA5BB5B818714.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/_GENERATED/anfen/Cylinder_69260CD6.uasset'
+[2026.10.23-19.25.56:413][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.005 ms (total: 3.52 sec)
+[2026.10.23-19.25.56:487][178]LogContentValidation: Enabled validators:
+[2026.10.23-19.25.56:487][178]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.23-19.25.56:487][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.23-19.25.56:487][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.23-19.25.56:487][178]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.23-19.25.56:487][178]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.23-19.25.56:487][178]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.23-19.25.56:487][178]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.23-19.25.56:487][178]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.23-19.25.56:487][178]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.23-19.25.56:487][178]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.23-19.25.56:487][178]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.23-19.25.56:487][178]AssetCheck: /Game/newlevel/_GENERATED/anfen/Cylinder_69260CD6 Validating asset
+[2026.10.23-19.25.56:487][178]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.23-19.25.56:488][178]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.23-19.25.56:488][178]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.23-19.25.56:488][178]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.23-19.25.56:488][178]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.23-19.25.56:488][178]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.23-19.25.56:488][178]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.23-19.25.56:488][178]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.23-19.25.56:488][178]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.23-19.25.56:488][178]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.23-19.25.56:521][178]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.23-19.25.57:362][195]LogSlate: Window 'Cylinder_69260CD6' being destroyed
+[2026.10.23-19.25.57:471][195]LogSlate: Window 'Cylinder_69260CD6' being destroyed
+[2026.10.23-19.25.57:539][195]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.10.23-19.25.57:539][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.23-19.25.57:612][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.10.23-19.26.07:681][451]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/newlevel/_GENERATED/anfen/Box_2BAEA003.Box_2BAEA003
+[2026.10.23-19.26.17:652][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.23-19.26.17:719][599]LogFileHelpers: Saving Package: /Game/newlevel/_GENERATED/anfen/Box_2BAEA003
+[2026.10.23-19.26.17:719][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/newlevel/_GENERATED/anfen/Box_2BAEA003] ([1] browsable assets)...
+[2026.10.23-19.26.17:747][599]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/newlevel/_GENERATED/anfen/Box_2BAEA003.Box_2BAEA003]
+[2026.10.23-19.26.17:747][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/newlevel/_GENERATED/anfen/Box_2BAEA003]
+[2026.10.23-19.26.17:751][599]LogSavePackage: Moving output files for package: /Game/newlevel/_GENERATED/anfen/Box_2BAEA003
+[2026.10.23-19.26.17:752][599]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Box_2BAEA003B575D8DA476ADFCE2FB3BCA8BD93D978.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/newlevel/_GENERATED/anfen/Box_2BAEA003.uasset'
+[2026.10.23-19.26.17:763][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.973 ms (total: 3.64 sec)
+[2026.10.23-19.26.17:831][599]LogContentValidation: Enabled validators:
+[2026.10.23-19.26.17:831][599]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.23-19.26.17:831][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.23-19.26.17:831][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.23-19.26.17:831][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.23-19.26.17:831][599]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.23-19.26.17:831][599]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.23-19.26.17:831][599]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.23-19.26.17:831][599]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.23-19.26.17:831][599]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.23-19.26.17:831][599]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.23-19.26.17:831][599]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.23-19.26.17:832][599]AssetCheck: /Game/newlevel/_GENERATED/anfen/Box_2BAEA003 Validating asset
+[2026.10.23-19.26.17:832][599]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.23-19.26.17:832][599]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.23-19.26.17:832][599]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.23-19.26.17:832][599]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.23-19.26.17:832][599]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.23-19.26.17:832][599]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.23-19.26.17:832][599]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.23-19.26.17:832][599]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.23-19.26.17:832][599]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.23-19.26.17:832][599]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.23-19.26.17:856][599]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.23-19.26.19:314][628]LogSlate: Window 'Box_2BAEA003' being destroyed
+[2026.10.23-19.26.19:411][628]LogSlate: Window 'Box_2BAEA003' being destroyed
+[2026.10.23-19.26.19:472][628]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.10.23-19.26.19:472][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.23-19.26.19:543][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.10.23-19.26.23:840][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7911.449707
+[2026.10.23-19.26.24:840][662]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.23-19.26.24:840][662]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7912.116699, Update Interval: 336.329224
