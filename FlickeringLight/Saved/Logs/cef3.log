@@ -2,3 +2,4 @@
 [29580:21216:1022/151459.625:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [29580:29564:1022/151459.649:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
 [9360:30240:1022/151500.640:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EF3E4211B7049A9E48F7E5AE6BD14603 will be ignored
+[29580:29564:1022/160233.533:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
