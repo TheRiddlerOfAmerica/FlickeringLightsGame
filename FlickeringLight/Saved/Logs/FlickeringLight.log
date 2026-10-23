@@ -6033,3 +6033,196 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.23-19.31.40:920][859]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.23-19.31.40:920][859]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.23-19.31.40:920][859]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.23-19.32.20:661][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.10.23-19.32.26:352][128]LogSlate: Window 'Save Content' being destroyed
+[2026.10.23-19.32.26:413][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.23-19.32.26:471][128]LogFileHelpers: Saving Package: /Game/3DModels/Building_Decor_1__1_
+[2026.10.23-19.32.26:471][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3DModels/Building_Decor_1__1_] ([1] browsable assets)...
+[2026.10.23-19.32.26:471][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/Building_Decor_1__1_]
+[2026.10.23-19.32.26:475][128]LogSavePackage: Moving output files for package: /Game/3DModels/Building_Decor_1__1_
+[2026.10.23-19.32.26:475][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Building_Decor_1__1_4C44658B4F5F3CF656BD84A00BADE970.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/3DModels/Building_Decor_1__1_.uasset'
+[2026.10.23-19.32.26:479][128]LogFileHelpers: Saving Package: /Game/3DModels/Building_Railing_Horizontal
+[2026.10.23-19.32.26:479][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3DModels/Building_Railing_Horizontal] ([1] browsable assets)...
+[2026.10.23-19.32.26:479][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/Building_Railing_Horizontal]
+[2026.10.23-19.32.26:485][128]LogSavePackage: Moving output files for package: /Game/3DModels/Building_Railing_Horizontal
+[2026.10.23-19.32.26:485][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Building_Railing_Horizontal05707166458E3F837B78E9972CD018F1.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/3DModels/Building_Railing_Horizontal.uasset'
+[2026.10.23-19.32.26:487][128]LogFileHelpers: Saving Package: /Game/3DModels/Building_Railing_Vertical
+[2026.10.23-19.32.26:487][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3DModels/Building_Railing_Vertical] ([1] browsable assets)...
+[2026.10.23-19.32.26:487][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DModels/Building_Railing_Vertical]
+[2026.10.23-19.32.26:490][128]LogSavePackage: Moving output files for package: /Game/3DModels/Building_Railing_Vertical
+[2026.10.23-19.32.26:490][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/Building_Railing_Vertical6D752D4B4B3F9C6B4F018FAE773E2259.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/3DModels/Building_Railing_Vertical.uasset'
+[2026.10.23-19.32.26:492][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Base_Color
+[2026.10.23-19.32.26:492][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Base_Color] ([1] browsable assets)...
+[2026.10.23-19.32.26:492][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Base_Color]
+[2026.10.23-19.32.26:575][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Base_Color
+[2026.10.23-19.32.26:576][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_Base_Col3C1B68804C73ABC2220A84AF375D8927.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Base_Color.uasset'
+[2026.10.23-19.32.26:578][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Base_Color_Mat
+[2026.10.23-19.32.26:578][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Base_Color_Mat] ([1] browsable assets)...
+[2026.10.23-19.32.26:578][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Base_Color_Mat]
+[2026.10.23-19.32.26:580][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Base_Color_Mat
+[2026.10.23-19.32.26:580][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_Base_Col372B7EF544888E0BED3A968D33110D92.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Base_Color_Mat.uasset'
+[2026.10.23-19.32.26:581][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Height
+[2026.10.23-19.32.26:581][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Height] ([1] browsable assets)...
+[2026.10.23-19.32.26:581][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Height]
+[2026.10.23-19.32.26:638][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Height
+[2026.10.23-19.32.26:638][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_HeightDDBB1F254A3B95A2A90281A40076EE2D.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Height.uasset'
+[2026.10.23-19.32.26:639][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Height_Mat
+[2026.10.23-19.32.26:639][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Height_Mat] ([1] browsable assets)...
+[2026.10.23-19.32.26:639][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Height_Mat]
+[2026.10.23-19.32.26:641][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Height_Mat
+[2026.10.23-19.32.26:641][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_Height_M70032CD0423BB39F7A33DA8565C5CF21.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Height_Mat.uasset'
+[2026.10.23-19.32.26:643][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Mat
+[2026.10.23-19.32.26:643][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Mat] ([1] browsable assets)...
+[2026.10.23-19.32.26:643][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Mat]
+[2026.10.23-19.32.26:645][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Mat
+[2026.10.23-19.32.26:645][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_Mat850B7E2248EFADE932F8E1B8A2240721.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Mat.uasset'
+[2026.10.23-19.32.26:646][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Metallic
+[2026.10.23-19.32.26:646][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Metallic] ([1] browsable assets)...
+[2026.10.23-19.32.26:646][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Metallic]
+[2026.10.23-19.32.26:668][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Metallic
+[2026.10.23-19.32.26:668][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_Metallic9902CB7743A3ADD830E690B33365522A.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Metallic.uasset'
+[2026.10.23-19.32.26:671][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Metallic_Mat
+[2026.10.23-19.32.26:671][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Metallic_Mat] ([1] browsable assets)...
+[2026.10.23-19.32.26:671][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Metallic_Mat]
+[2026.10.23-19.32.26:673][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Metallic_Mat
+[2026.10.23-19.32.26:673][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_Metallic48E068814E6C70AFA9B737BEEEC3D933.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Metallic_Mat.uasset'
+[2026.10.23-19.32.26:675][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Normal
+[2026.10.23-19.32.26:675][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Normal] ([1] browsable assets)...
+[2026.10.23-19.32.26:675][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Normal]
+[2026.10.23-19.32.26:704][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Normal
+[2026.10.23-19.32.26:704][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_NormalFD1C59A547593668DE4E87B5F0D39345.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Normal.uasset'
+[2026.10.23-19.32.26:705][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Normal_DirectX
+[2026.10.23-19.32.26:705][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Normal_DirectX] ([1] browsable assets)...
+[2026.10.23-19.32.26:705][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Normal_DirectX]
+[2026.10.23-19.32.26:763][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Normal_DirectX
+[2026.10.23-19.32.26:763][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_Normal_D15D479C84ED5BD2D93D0D5B510A4B155.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Normal_DirectX.uasset'
+[2026.10.23-19.32.26:765][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Normal_DirectX_Mat
+[2026.10.23-19.32.26:765][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Normal_DirectX_Mat] ([1] browsable assets)...
+[2026.10.23-19.32.26:765][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Normal_DirectX_Mat]
+[2026.10.23-19.32.26:767][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Normal_DirectX_Mat
+[2026.10.23-19.32.26:767][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_Normal_D859D57A04CE1C3BD4B2069ADDAE7FF1B.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Normal_DirectX_Mat.uasset'
+[2026.10.23-19.32.26:768][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Roughness
+[2026.10.23-19.32.26:768][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Roughness] ([1] browsable assets)...
+[2026.10.23-19.32.26:768][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Roughness]
+[2026.10.23-19.32.26:794][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Roughness
+[2026.10.23-19.32.26:795][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_Roughnes762F1E18450003434DF726AB9AD618D6.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Roughness.uasset'
+[2026.10.23-19.32.26:796][128]LogFileHelpers: Saving Package: /Game/GameAssets/T_Trimsheet_Environment_Roughness_Mat
+[2026.10.23-19.32.26:796][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/T_Trimsheet_Environment_Roughness_Mat] ([1] browsable assets)...
+[2026.10.23-19.32.26:796][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/T_Trimsheet_Environment_Roughness_Mat]
+[2026.10.23-19.32.26:798][128]LogSavePackage: Moving output files for package: /Game/GameAssets/T_Trimsheet_Environment_Roughness_Mat
+[2026.10.23-19.32.26:798][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/T_Trimsheet_Environment_Roughnes58CDE4DC458A9906E4F28DADFD8A0EC1.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/T_Trimsheet_Environment_Roughness_Mat.uasset'
+[2026.10.23-19.32.26:799][128]LogFileHelpers: Saving Package: /Game/GameAssets/wood
+[2026.10.23-19.32.26:799][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameAssets/wood] ([1] browsable assets)...
+[2026.10.23-19.32.26:799][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameAssets/wood]
+[2026.10.23-19.32.26:799][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameAssets/wood" FILE="../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/wood.uasset" SILENT=true
+[2026.10.23-19.32.26:802][128]LogSavePackage: Moving output files for package: /Game/GameAssets/wood
+[2026.10.23-19.32.26:802][128]LogSavePackage: Moving '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/wood015C2B834A9996AD8DFBB1A0A33B04F6.tmp' to '../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Content/GameAssets/wood.uasset'
+[2026.10.23-19.32.26:814][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 400.889 ms (total: 4.34 sec)
+[2026.10.23-19.32.26:901][128]LogStall: Shutdown...
+[2026.10.23-19.32.26:906][128]LogStall: Shutdown complete.
+[2026.10.23-19.32.26:933][128]LogSlate: Window 'FlickeringLight - Unreal Editor' being destroyed
+[2026.10.23-19.32.28:424][128]LogContentValidation: Enabled validators:
+[2026.10.23-19.32.28:424][128]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.23-19.32.28:425][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.23-19.32.28:425][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.23-19.32.28:425][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.23-19.32.28:425][128]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.23-19.32.28:425][128]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.23-19.32.28:425][128]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.23-19.32.28:425][128]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.23-19.32.28:425][128]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.23-19.32.28:425][128]LogContentValidation: Display: Starting to validate 16 assets (0 associated objects such as actors)
+[2026.10.23-19.32.28:425][128]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.23-19.32.28:425][128]AssetCheck: /Game/3DModels/Building_Decor_1__1_ Validating asset
+[2026.10.23-19.32.28:425][128]AssetCheck: /Game/3DModels/Building_Railing_Horizontal Validating asset
+[2026.10.23-19.32.28:425][128]AssetCheck: /Game/3DModels/Building_Railing_Vertical Validating asset
+[2026.10.23-19.32.28:425][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Base_Color Validating asset
+[2026.10.23-19.32.28:425][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Base_Color_Mat Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Height Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Height_Mat Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Mat Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Metallic Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Metallic_Mat Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Normal Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Normal_DirectX Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Normal_DirectX_Mat Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Roughness Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/T_Trimsheet_Environment_Roughness_Mat Validating asset
+[2026.10.23-19.32.28:426][128]AssetCheck: /Game/GameAssets/wood Validating asset
+[2026.10.23-19.32.28:426][128]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.23-19.32.28:426][128]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.23-19.32.28:426][128]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.23-19.32.28:427][128]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 16
+[2026.10.23-19.32.28:427][128]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.23-19.32.28:427][128]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.23-19.32.28:427][128]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.23-19.32.28:427][128]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.23-19.32.28:427][128]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.23-19.32.28:427][128]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.23-19.32.28:443][128]Cmd: QUIT_EDITOR
+[2026.10.23-19.32.28:443][128]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.23-19.32.28:444][128]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/anfen/Downloads/New folder/FlickeringLightsGame/FlickeringLight/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.23-19.32.28:459][129]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.23-19.32.28:461][129]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.23-19.32.28:461][129]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.23-19.32.28:482][129]LogWorld: UWorld::CleanupWorld for floor1, bSessionEnded=true, bCleanupResources=true
+[2026.10.23-19.32.28:482][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.23-19.32.28:484][129]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.10.23-19.32.28:513][129]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.23-19.32.28:575][129]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.23-19.32.28:623][129]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.23-19.32.28:623][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.23-19.32.28:624][129]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.23-19.32.28:624][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.23-19.32.28:632][129]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.23-19.32.28:635][129]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.23-19.32.29:515][129]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.10.23-19.32.29:515][129]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.23-19.32.29:515][129]LogAudio: Display: Audio Device unregistered from world 'floor1'.
+[2026.10.23-19.32.29:515][129]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.23-19.32.29:516][129]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.10.23-19.32.29:529][129]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.23-19.32.29:606][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.23-19.32.29:606][129]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.23-19.32.29:644][129]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.23-19.32.29:651][129]LogExit: Preparing to exit.
+[2026.10.23-19.32.30:274][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.10.23-19.32.31:555][129]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.10.23-19.32.31:555][129]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 0 total binaries, 0 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.10.23-19.32.31:560][129]LogEditorDataStorage: Deinitializing
+[2026.10.23-19.32.31:564][129]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.10.23-19.32.31:564][129]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.10.23-19.32.31:564][129]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.10.23-19.32.31:564][129]LogEditorDataStorage: Resetting TEDS Core.
+[2026.10.23-19.32.31:575][129]LogEditorDataStorage: Reset TEDS Core.
+[2026.10.23-19.32.31:575][129]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.10.23-19.32.31:740][129]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.23-19.32.31:832][129]LogExit: Editor shut down
+[2026.10.23-19.32.31:844][129]LogExit: Transaction tracking system shut down
+[2026.10.23-19.32.32:261][129]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.23-19.32.32:261][129]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.23-19.32.32:299][129]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.23-19.32.32:299][129]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.23-19.32.32:432][129]LogExit: Object subsystem successfully closed.
+[2026.10.23-19.32.32:520][129]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.10.23-19.32.32:722][129]LogObjectProfiler: Shutdown
+[2026.10.23-19.32.32:723][129]LogMemoryProfiler: Shutdown
+[2026.10.23-19.32.32:723][129]LogNetworkingProfiler: Shutdown
+[2026.10.23-19.32.32:723][129]LogLoadingProfiler: Shutdown
+[2026.10.23-19.32.32:724][129]LogTimingProfiler: Shutdown
+[2026.10.23-19.32.32:727][129]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.10.23-19.32.32:728][129]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.10.23-19.32.32:728][129]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.10.23-19.32.32:728][129]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.10.23-19.32.32:728][129]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.10.23-19.32.33:226][129]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.10.23-19.32.33:227][129]LogNFORDenoise: NFORDenoise function shutting down
+[2026.10.23-19.32.33:238][129]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.10.23-19.32.33:238][129]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0D45E77-4EB2-827E-904C-A392BC60E238%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.3-58210709%2B%2B%2BUE5%2BRelease-5.8&UserID=67f3b8e54f6f7f1ce38bde89af3fa053%7Cbec30e92b5724e0ea2ca186871e76633%7C582ae761-6942-404a-a96c-7ac8eb13952d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.10.23-19.32.33:826][129]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.10.23-19.32.33:835][129]RenderDocPlugin: plugin has been unloaded.
+[2026.10.23-19.32.33:839][129]LogXGEController: Cleaning working directory: C:/Users/anfen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.10.23-19.32.33:847][129]LogPakFile: Destroying PakPlatformFile
+[2026.10.23-19.32.34:400][129]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.10.23-19.32.34:496][129]LogExit: Exiting.
+[2026.10.23-19.32.34:542][129]Log file closed, 10/23/26 15:32:34
